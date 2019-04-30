@@ -1,0 +1,149 @@
+﻿/* rt-button element-one */
+
+.rt-button.element-one{
+}
+
+.rt-button.element-one[data-button-direction=left]{
+	text-align:left;
+}
+
+.rt-button.element-one[data-button-direction=center]{
+	text-align:center;
+}
+
+.rt-button.element-one[data-button-direction=right]{
+	text-align:right;
+}
+
+.rt-button.element-one .rt-button-main{
+	position:relative;
+	display:inline-block;
+	vertical-align:top;
+	overflow:hidden;
+	text-align:center;
+	transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+}
+
+.rt-button.element-one[data-button-fullwidth=true] .rt-button-main{
+	width:100%;
+}
+
+.rt-button.element-one[class*='hover-style-'] .rt-button-main > .overlay{
+	position:absolute;
+	z-index:0;
+	content:" ";
+}
+
+.rt-button.element-one.hover-style-one .rt-button-main > .overlay{
+	top:0;
+	right:0;
+	bottom:0;
+	left:0;
+	opacity:0;
+	visibility:hidden;
+	transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+}
+
+.rt-button.element-one.hover-style-one .rt-button-main:hover > .overlay{
+	opacity:1;
+	visibility:visible;
+}
+
+.rt-button.element-one.hover-style-two .rt-button-main > .overlay{
+	top:0;
+	right:0;
+	width:0;
+	height:100%;
+	transition:width 0.5s cubic-bezier(0.25, 0.8, 0.25, 1) 0s;
+	-webkit-transition:width 0.5s cubic-bezier(0.25, 0.8, 0.25, 1) 0s;
+}
+
+.rt-button.element-one.hover-style-two .rt-button-main:hover > .overlay{
+	width:100%;
+	left:0;
+	right:auto;
+}
+
+.rt-button.element-one.hover-style-three .rt-button-main > .overlay{
+	top:0;
+	right:0;
+	bottom:0;
+	left:0;
+	border-radius:30px;
+	opacity:0;
+	visibility:hidden;
+	transform:scale(0);
+	-webkit-transform:scale(0);
+	transition:all 0.5s ease-in-out;
+	-webkit-transition:all 0.5s ease-in-out;
+}
+
+.rt-button.element-one.hover-style-three .rt-button-main:hover > .overlay{
+	opacity:1;
+	visibility:visible;
+	transform:scale(2);
+	-webkit-transform:scale(2);
+}
+
+.rt-button.element-two.hover-style-four .rt-button-main > .overlay{
+	top:0;
+	right:0;
+	bottom:0;
+	left:0;
+	opacity:0;
+	visibility:hidden;
+	transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+}
+
+.rt-button.element-two.hover-style-four .rt-button-main:hover > .overlay{
+	opacity:1;
+	visibility:visible;
+}
+
+.rt-button.element-one .rt-button-main > .placeholder{
+	position:relative;
+	/*transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;*/
+}
+
+.rt-button.element-one .rt-button-main i{
+	transition:margin 0.3s ease-in-out, opacity 0.3s ease-in-out;
+	-webkit-transition:margin 0.3s ease-in-out, opacity 0.3s ease-in-out;
+}
+
+.rt-button.element-one[data-button-icon-position=left] .rt-button-main i{
+	margin-right:10px;
+}
+
+.rt-button.element-one[data-button-icon-position=right] .rt-button-main i{
+	margin-left:10px;
+}
+
+.rt-button.element-two.hover-style-four .rt-button-main i{
+	opacity:0;
+	visibility:hidden;
+}
+
+.rt-button.element-two.hover-style-four .rt-button-main:hover i{
+	opacity:1;
+	visibility:visible;
+}
+
+.rt-button.element-two[data-button-icon-position=left].hover-style-four .rt-button-main i{
+	margin-right:-3px;
+}
+
+.rt-button.element-two[data-button-icon-position=left].hover-style-four .rt-button-main:hover i{
+	margin-right:10px;
+}
+
+.rt-button.element-two[data-button-icon-position=right].hover-style-four .rt-button-main i{
+	margin-left:-3px;
+}
+
+.rt-button.element-two[data-button-icon-position=right].hover-style-four .rt-button-main:hover i{
+	margin-left:10px;
+}

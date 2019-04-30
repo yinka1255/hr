@@ -1,0 +1,173 @@
+﻿/* rt-portfolio-box element-one */
+
+.rt-portfolio-box.element-one{
+}
+
+.rt-portfolio-box.element-one .rt-portfolio-box-item{
+	padding-left:0;
+	padding-right:0;
+	text-align:center;
+}
+
+.rt-portfolio-box.element-one .rt-portfolio-box-item > .holder{
+	position:relative;
+	overflow:hidden;
+}
+
+.rt-portfolio-box.element-one .rt-portfolio-box-item > .holder > .pic{
+	overflow:hidden;
+}
+
+.rt-portfolio-box.element-one .rt-portfolio-box-item > .holder > .pic img{
+	width:100%;
+	transition:all 0.5s ease-in-out;
+	-webkit-transition:all 0.5s ease-in-out;
+}
+
+.rt-portfolio-box.element-one .rt-portfolio-box-item > .holder:hover > .pic img{
+	transform:scale(1.1);
+	-webkit-transform:scale(1.1);
+}
+
+.rt-portfolio-box.element-one .rt-portfolio-box-item > .holder > .title,
+.rt-portfolio-box.element-one .rt-portfolio-box-item > .holder > .data{
+	position:absolute;
+	top:0;
+	right:0;
+	bottom:0;
+	left:0;
+	z-index:1;
+	padding:30px;
+	opacity:0;
+	visibility:hidden;
+	transform:scale(1.2);
+	-webkit-transform:scale(1.2);
+	transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+}
+
+.rt-portfolio-box.element-one .rt-portfolio-box-item > .holder:hover > .title,
+.rt-portfolio-box.element-one .rt-portfolio-box-item > .holder:hover > .data{
+	opacity:1;
+	visibility:visible;
+	transform:scale(1);
+	-webkit-transform:scale(1);
+}
+
+.rt-portfolio-box.element-one[data-portfolio-box-align=left] .rt-portfolio-box-item > .holder > .title,
+.rt-portfolio-box.element-one[data-portfolio-box-align=left] .rt-portfolio-box-item > .holder > .data{
+	text-align:left;
+}
+
+.rt-portfolio-box.element-one[data-portfolio-box-align=center] .rt-portfolio-box-item > .holder > .title,
+.rt-portfolio-box.element-one[data-portfolio-box-align=center] .rt-portfolio-box-item > .holder > .data{
+	text-align:center;
+}
+
+.rt-portfolio-box.element-one[data-portfolio-box-align=right] .rt-portfolio-box-item > .holder > .title,
+.rt-portfolio-box.element-one[data-portfolio-box-align=right] .rt-portfolio-box-item > .holder > .data{
+	text-align:right;
+}
+
+.rt-portfolio-box.element-one .rt-portfolio-box-item > .holder > .title > .table,
+.rt-portfolio-box.element-one .rt-portfolio-box-item > .holder > .data > .table{
+	display:table;
+	table-layout:fixed;
+	width:100%;
+	height:100%;
+	margin:0;
+}
+
+.rt-portfolio-box.element-one .rt-portfolio-box-item > .holder > .title > .table > .table-cell,
+.rt-portfolio-box.element-one .rt-portfolio-box-item > .holder > .data > .table > .table-cell{
+	display:table-cell;
+	width:100%;
+	height:100%;
+	vertical-align:middle;
+}
+
+.rt-portfolio-box.element-one .rt-portfolio-box-item > .holder > .title > .table > .table-cell > *:last-child,
+.rt-portfolio-box.element-one .rt-portfolio-box-item > .holder > .data > .table > .table-cell > *:last-child{
+	margin-bottom:0 !important;
+}
+
+.rt-portfolio-box.element-one .rt-portfolio-box-item > .holder > .title h4,
+.rt-portfolio-box.element-one .rt-portfolio-box-item > .holder > .data h4{
+	margin-bottom:7px;
+	text-transform:uppercase;
+	font-size:22px;
+	color:#fff;
+	line-height:35px;
+	letter-spacing:1px;
+}
+
+.rt-portfolio-box.element-one .rt-portfolio-box-item > .holder > .title h4 a,
+.rt-portfolio-box.element-one .rt-portfolio-box-item > .holder > .data h4 a{
+	color:#fff;
+}
+
+.rt-portfolio-box.element-one .rt-portfolio-box-item > .holder > .title p,
+.rt-portfolio-box.element-one .rt-portfolio-box-item > .holder > .data p{
+	margin-bottom:20px;
+	color:#fff;
+}
+
+.rt-portfolio-box.element-one .rt-portfolio-box-item > .holder > .title .btn,
+.rt-portfolio-box.element-one .rt-portfolio-box-item > .holder > .data .btn{
+	margin-bottom:25px;
+}
+
+.rt-portfolio-box.element-one .rt-portfolio-box-item > .holder > .overlay{
+	position:absolute;
+	top:0;
+	right:0;
+	bottom:0;
+	left:0;
+	z-index:2;
+	width:auto;
+	height:auto;
+}
+
+/* LARGE DESKTOP PART */
+@media screen and (min-width:1200px){
+}
+
+/* DESKTOP PART */
+@media screen and (min-width:992px) and (max-width:1199px){
+}
+
+/* TABLET LANDSCAPE PART */
+@media screen and (min-width:768px) and (max-width:991px){
+
+	.rt-portfolio-box.element-one .rt-portfolio-box-item{
+		width:33.33% !important;
+	}
+
+}
+
+/* TABLET PROTRAIT PART */
+@media screen and (min-width:480px) and (max-width:767px){
+
+	.rt-portfolio-box.element-one .rt-portfolio-box-item{
+		width:50% !important;
+	}
+
+}
+
+/* SMART PHONE LANDSCAPE PART */
+@media screen and (min-width:321px) and (max-width:479px){
+
+	.rt-portfolio-box.element-one .rt-portfolio-box-item{
+		width:100% !important;
+	}
+
+}
+
+/* SMART PHONE PROTRAIT PART */
+@media screen and (max-width:320px){
+
+	.rt-portfolio-box.element-one .rt-portfolio-box-item{
+		width:100% !important;
+	}
+
+}

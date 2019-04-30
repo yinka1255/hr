@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TemeGUM Custom Post\n"
+"Report-Msgid-Bugs-To: support@themegum.com\n"
+"POT-Creation-Date: 2017-06-04 21:09+0700\n"
+"PO-Revision-Date: 2017-06-04 21:09+0700\n"
+"Last-Translator: Atawai <celomitan@yahoo.com>\n"
+"Language-Team: themegum.com <support@themegum.com>\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: tg_custom_post.php:31 tg_custom_post.php:32 tg_custom_post.php:71
+#: tg_custom_post.php:72
+msgid "Custom Post"
+msgstr ""
+
+#: tg_custom_post.php:33
+msgid "Add New"
+msgstr "Tambah Baru"
+
+#: tg_custom_post.php:34
+msgid "Edit"
+msgstr ""
+
+#: tg_custom_post.php:100
+#, php-format
+msgid "%s Category"
+msgstr "Kategori %s"
+
+#: tg_custom_post.php:100
+msgid "Category"
+msgstr "Kategori"
+
+#: tg_custom_post.php:171
+msgid "this post type no custom field."
+msgstr ""
+
+#: tg_custom_post.php:181
+msgid "Custom Fields"
+msgstr ""
+
+#: tg_custom_post.php:184
+msgid "Custom Post Settings"
+msgstr ""
+
+#: tg_custom_post.php:184
+msgid "Settings"
+msgstr ""
+
+#: tg_custom_post.php:200
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: tg_custom_post.php:208
+msgid "Label Name"
+msgstr ""
+
+#: tg_custom_post.php:213
+msgid "Singular Name"
+msgstr ""
+
+#: tg_custom_post.php:218
+msgid "Rewrite Slug"
+msgstr ""
+
+#: tg_custom_post.php:224
+msgid "Save Changes"
+msgstr ""
+
+#: tg_custom_post.php:233
+msgid "Image"
+msgstr ""
+
+#: tg_custom_post.php:234
+msgid "Title"
+msgstr ""
+
+#: tg_custom_post.php:235
+msgid "Author"
+msgstr ""
+
+#: tg_custom_post.php:236
+msgid "Categories"
+msgstr ""
+
+#: tg_custom_post.php:237
+msgid "Date"
+msgstr ""
+
+#: tg_custom_post.php:306 tg_custom_post.php:377
+msgid "Category Image"
+msgstr ""
+
+#: tg_custom_post.php:310 tg_custom_post.php:381
+msgid "Upload/Add image"
+msgstr ""
+
+#: tg_custom_post.php:311 tg_custom_post.php:382
+msgid "Remove image"
+msgstr ""
+
+#: tg_custom_post.php:337 tg_custom_post.php:408
+msgid "Choose an image"
+msgstr ""
+
+#: tg_custom_post.php:339 tg_custom_post.php:410
+msgid "Use image"
+msgstr ""
+
+#~ msgid "Icon Box"
+#~ msgstr "Kotak Ikon"
+
+#~ msgid "Icon"
+#~ msgstr "Ikon"
+
+#~ msgid "The icon you want to display."
+#~ msgstr "Pilih ikon yang akan ditampilkan"
+
+#~ msgid "Layout type"
+#~ msgstr "Tipe Tampilan"
+
+#~ msgid "Type 1: Squared Border Icon"
+#~ msgstr "Tipe 1: Icon dengan bingkai kotak"
+
+#, fuzzy
+#~ msgid "The icon layout you want to display."
+#~ msgstr "Pilih ikon yang akan ditampilkan"
+
+#~ msgid "Color Heading"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "Iconbox text"
+#~ msgstr "Kotak Ikon"
+
+#, fuzzy
+#~ msgid "Section Heading"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "Type 2: No Icon"
+#~ msgstr "Tipe 1: Icon dengan bingkai kotak"
+
+#, fuzzy
+#~ msgid "Pre Heading"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "Main Heading"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "Sub  Heading"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "Line type"
+#~ msgstr "Tipe Tampilan"
+
+#, fuzzy
+#~ msgid "Package Heading"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "Package Detail"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "The icon you want as pagination"
+#~ msgstr "Pilih ikon yang akan ditampilkan"

@@ -1,0 +1,275 @@
+[09-Apr-2019 14:13:49 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-settings.php(342): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-config.php(90): require_once('/home/oi3vi3lah...')
+#6 /home/oi3vi3lah9i3/public_html/wp-load.php(37): require_once('/home/oi3vi3lah...')
+#7 /home/oi3vi3lah9i3/pu in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 14:13:55 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-settings.php(342): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-config.php(90): require_once('/home/oi3vi3lah...')
+#6 /home/oi3vi3lah9i3/public_html/wp-load.php(37): require_once('/home/oi3vi3lah...')
+#7 /home/oi3vi3lah9i3/pu in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 14:14:05 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-settings.php(342): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-config.php(90): require_once('/home/oi3vi3lah...')
+#6 /home/oi3vi3lah9i3/public_html/wp-load.php(37): require_once('/home/oi3vi3lah...')
+#7 /home/oi3vi3lah9i3/pu in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 14:21:15 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-settings.php(342): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-config.php(90): require_once('/home/oi3vi3lah...')
+#6 /home/oi3vi3lah9i3/public_html/wp-load.php(37): require_once('/home/oi3vi3lah...')
+#7 /home/oi3vi3lah9i3/pu in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 14:25:22 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-settings.php(342): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-config.php(90): require_once('/home/oi3vi3lah...')
+#6 /home/oi3vi3lah9i3/public_html/wp-load.php(37): require_once('/home/oi3vi3lah...')
+#7 /home/oi3vi3lah9i3/pu in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 14:37:05 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-settings.php(342): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-config.php(90): require_once('/home/oi3vi3lah...')
+#6 /home/oi3vi3lah9i3/public_html/wp-load.php(37): require_once('/home/oi3vi3lah...')
+#7 /home/oi3vi3lah9i3/pu in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 14:37:40 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-settings.php(342): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-config.php(90): require_once('/home/oi3vi3lah...')
+#6 /home/oi3vi3lah9i3/public_html/wp-load.php(37): require_once('/home/oi3vi3lah...')
+#7 /home/oi3vi3lah9i3/pu in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 14:37:57 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-settings.php(342): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-config.php(90): require_once('/home/oi3vi3lah...')
+#6 /home/oi3vi3lah9i3/public_html/wp-load.php(37): require_once('/home/oi3vi3lah...')
+#7 /home/oi3vi3lah9i3/pu in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 14:38:14 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-settings.php(342): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-config.php(90): require_once('/home/oi3vi3lah...')
+#6 /home/oi3vi3lah9i3/public_html/wp-load.php(37): require_once('/home/oi3vi3lah...')
+#7 /home/oi3vi3lah9i3/pu in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 14:38:36 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-settings.php(342): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-config.php(90): require_once('/home/oi3vi3lah...')
+#6 /home/oi3vi3lah9i3/public_html/wp-load.php(37): require_once('/home/oi3vi3lah...')
+#7 /home/oi3vi3lah9i3/pu in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 14:38:50 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-settings.php(342): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-config.php(90): require_once('/home/oi3vi3lah...')
+#6 /home/oi3vi3lah9i3/public_html/wp-load.php(37): require_once('/home/oi3vi3lah...')
+#7 /home/oi3vi3lah9i3/pu in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 14:39:16 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-settings.php(342): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-config.php(90): require_once('/home/oi3vi3lah...')
+#6 /home/oi3vi3lah9i3/public_html/wp-load.php(37): require_once('/home/oi3vi3lah...')
+#7 /home/oi3vi3lah9i3/pu in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 14:47:08 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-settings.php(342): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-config.php(90): require_once('/home/oi3vi3lah...')
+#6 /home/oi3vi3lah9i3/public_html/wp-load.php(37): require_once('/home/oi3vi3lah...')
+#7 /home/oi3vi3lah9i3/pu in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 14:53:59 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-settings.php(342): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-config.php(90): require_once('/home/oi3vi3lah...')
+#6 /home/oi3vi3lah9i3/public_html/wp-load.php(37): require_once('/home/oi3vi3lah...')
+#7 /home/oi3vi3lah9i3/pu in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 14:54:03 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-settings.php(342): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-config.php(90): require_once('/home/oi3vi3lah...')
+#6 /home/oi3vi3lah9i3/public_html/wp-load.php(37): require_once('/home/oi3vi3lah...')
+#7 /home/oi3vi3lah9i3/pu in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 14:54:03 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-settings.php(342): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-config.php(90): require_once('/home/oi3vi3lah...')
+#6 /home/oi3vi3lah9i3/public_html/wp-load.php(37): require_once('/home/oi3vi3lah...')
+#7 /home/oi3vi3lah9i3/pu in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 14:54:23 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-settings.php(342): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-config.php(90): require_once('/home/oi3vi3lah...')
+#6 /home/oi3vi3lah9i3/public_html/wp-load.php(37): require_once('/home/oi3vi3lah...')
+#7 /home/oi3vi3lah9i3/pu in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 14:54:24 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-settings.php(342): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-config.php(90): require_once('/home/oi3vi3lah...')
+#6 /home/oi3vi3lah9i3/public_html/wp-load.php(37): require_once('/home/oi3vi3lah...')
+#7 /home/oi3vi3lah9i3/pu in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 14:54:25 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-settings.php(342): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-config.php(90): require_once('/home/oi3vi3lah...')
+#6 /home/oi3vi3lah9i3/public_html/wp-load.php(37): require_once('/home/oi3vi3lah...')
+#7 /home/oi3vi3lah9i3/pu in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 14:54:40 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-settings.php(342): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-config.php(90): require_once('/home/oi3vi3lah...')
+#6 /home/oi3vi3lah9i3/public_html/wp-load.php(37): require_once('/home/oi3vi3lah...')
+#7 /home/oi3vi3lah9i3/pu in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 14:54:42 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-settings.php(342): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-config.php(90): require_once('/home/oi3vi3lah...')
+#6 /home/oi3vi3lah9i3/public_html/wp-load.php(37): require_once('/home/oi3vi3lah...')
+#7 /home/oi3vi3lah9i3/pu in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 14:55:07 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-settings.php(342): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-config.php(90): require_once('/home/oi3vi3lah...')
+#6 /home/oi3vi3lah9i3/public_html/wp-load.php(37): require_once('/home/oi3vi3lah...')
+#7 /home/oi3vi3lah9i3/pu in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 14:55:26 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-settings.php(342): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-config.php(90): require_once('/home/oi3vi3lah...')
+#6 /home/oi3vi3lah9i3/public_html/wp-load.php(37): require_once('/home/oi3vi3lah...')
+#7 /home/oi3vi3lah9i3/pu in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 15:05:17 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-admin/includes/plugin.php(629): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-content/themes/realfactory/admin/tgmpa/class-tgm-plugin-activation.php(1052): activate_plugin('revslider/revsl...')
+#6 /home/oi3vi3lah9i3/public_htm in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 15:10:38 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-admin/includes/plugin.php(629): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-content/themes/realfactory/admin/tgmpa/class-tgm-plugin-activation.php(1052): activate_plugin('revslider/revsl...')
+#6 /home/oi3vi3lah9i3/public_htm in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 15:11:08 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-admin/includes/plugin.php(629): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-content/themes/realfactory/admin/tgmpa/class-tgm-plugin-activation.php(1052): activate_plugin('revslider/revsl...')
+#6 /home/oi3vi3lah9i3/public_htm in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 15:11:25 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-admin/includes/plugin.php(629): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-admin/includes/plugin.php(827): activate_plugin('revslider/revsl...', '', false, false)
+#6 /home/oi3vi3lah9i3/public_html/wp-content/themes/realfact in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+[09-Apr-2019 15:12:23 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-admin/includes/plugin.php(629): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-content/themes/realfactory/admin/tgmpa/class-tgm-plugin-activation.php(1052): activate_plugin('revslider/revsl...')
+#6 /home/oi3vi3lah9i3/public_htm in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71

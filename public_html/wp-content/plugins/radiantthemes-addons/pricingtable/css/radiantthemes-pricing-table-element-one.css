@@ -1,0 +1,107 @@
+﻿/* rt-pricing-table element-one */
+
+.rt-pricing-table.element-one{
+}
+
+.rt-pricing-table.element-one > .holder{
+	border:1px #d9d9d9 solid;
+	text-align:center;
+}
+
+.rt-pricing-table.element-one > .holder > .title{
+	padding:15px 15px 17px 15px;
+	background:#f9f9f9;
+	border-bottom:1px #d9d9d9 solid;
+}
+
+.rt-pricing-table.element-one > .holder > .title > *:last-child{
+	margin-bottom:0 !important;
+}
+
+.rt-pricing-table.element-one > .holder > .title h4{
+	margin-bottom:7px;
+	font-size:24px;
+	line-height:32px;
+}
+
+.rt-pricing-table.element-one > .holder > .list{
+	padding:20px 15px 25px 15px;
+	background:#fff;
+}
+
+.rt-pricing-table.element-one > .holder > .list > *:last-child{
+	margin-bottom:0 !important;
+}
+
+.rt-pricing-table.element-one > .holder > .list ul{
+	display:inline-block;
+	vertical-align:top;
+	width:100%;
+	max-width:220px;
+	text-align:left;
+}
+
+.rt-pricing-table.element-one > .holder > .list ul li{
+	position:relative;
+	margin-bottom:15px;
+	padding-left:27px;
+}
+
+.rt-pricing-table.element-one > .holder > .list ul li:before{
+	position:absolute;
+	top:1px;
+	left:0;
+	content:"\f00c";
+	z-index:0;
+	font-family:'FontAwesome';
+}
+
+.rt-pricing-table.element-one > .holder > .data{
+	padding:17px 15px 25px 15px;
+}
+
+.rt-pricing-table.element-one.spotlight > .holder > .data{
+}
+
+.rt-pricing-table.element-one > .holder > .data > *:last-child{
+	margin-bottom:0 !important;
+}
+
+.rt-pricing-table.element-one > .holder > .data h5{
+	margin-bottom:17px;
+	text-transform:uppercase;
+	font-size:24px;
+	line-height:32px;
+	text-shadow:0px 1px 0px rgba(255,255,255,0.55);
+}
+
+.rt-pricing-table.element-one.spotlight > .holder > .data h5{
+}
+
+.rt-pricing-table.element-one > .holder > .data h5 strong{
+	display:block;
+	font-size:60px;
+	line-height:70px;
+}
+
+.rt-pricing-table.element-one > .holder > .data .btn{
+	margin-bottom:15px;
+	padding:7px 15px 8px 15px;
+	border-radius:3px;
+	text-transform:uppercase;
+	font-size:14px;
+	line-height:22px;
+}
+
+.rt-pricing-table.element-one.spotlight > .holder > .data .btn{
+}
+
+.rt-pricing-table.element-one > .holder > .data .btn i{
+	margin-left:10px;
+	transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+}
+
+.rt-pricing-table.element-one > .holder > .data .btn:hover i{
+	margin-left:13px;
+}

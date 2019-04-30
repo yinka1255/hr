@@ -1,0 +1,74 @@
+/* rt-fancy-text-box element-two */
+
+.rt-fancy-text-box.element-two{
+}
+
+.rt-fancy-text-box.element-two > .holder{
+	padding:25px 25px 25px 25px;
+}
+
+.rt-fancy-text-box.element-two.hover-active > .holder{
+	box-shadow:0px 0px 0px rgba(5,6,6,0.08);
+	transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+}
+
+.rt-fancy-text-box.element-two.hover-active > .holder:hover,
+.rt-fancy-text-box.element-two.hover-active-on > .holder{
+	position:relative;
+	box-shadow:0px 0px 50px rgba(5,6,6,0.08);
+}
+
+.rt-fancy-text-box.element-two[data-fancy-text-box-align=left] > .holder{
+	text-align:left;
+}
+
+.rt-fancy-text-box.element-two[data-fancy-text-box-align=center] > .holder{
+	text-align:center;
+}
+
+.rt-fancy-text-box.element-two[data-fancy-text-box-align=right] > .holder{
+	text-align:right;
+}
+
+.rt-fancy-text-box.element-two > .holder > *:last-child{
+	margin-bottom:0 !important;
+}
+
+.rt-fancy-text-box.element-two > .holder > .icon{
+	margin-bottom:15px;
+}
+
+.rt-fancy-text-box.element-two > .holder > .icon i{
+	font-size:35px;
+	line-height:35px;
+}
+
+.rt-fancy-text-box.element-two[data-fancy-text-box-align=center] > .holder > .icon i{
+	font-size:45px;
+	line-height:45px;
+}
+
+.rt-fancy-text-box.element-two > .holder > .title{
+	margin-bottom:15px;
+}
+
+.rt-fancy-text-box.element-two > .holder > .data{
+	margin-bottom:15px;
+}
+
+.rt-fancy-text-box.element-two > .holder > .data > *:last-child{
+	margin-bottom:0 !important;
+}
+
+.rt-fancy-text-box.element-two > .holder > .more{
+	margin-bottom:15px;
+}
+
+.rt-fancy-text-box.element-two > .holder > .more .btn{
+	padding:7px 20px 8px 20px;
+	border-radius:0;
+	cursor:pointer;
+	transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+}

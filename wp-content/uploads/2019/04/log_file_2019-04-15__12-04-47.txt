@@ -1,0 +1,24 @@
+
+---Downloaded files---
+The import files for: Demo 1 (8 Variations) were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://imperialgroupconsult.com
+Data file = /home/oi3vi3lah9i3/public_html/wp-content/themes/consultix/inc/import/one/content.xml
+Widget file = /home/oi3vi3lah9i3/public_html/wp-content/themes/consultix/inc/import/one/widgets.wie
+Customizer file = /home/oi3vi3lah9i3/public_html/wp-content/themes/consultix/inc/import/one/customizer.dat
+Redux files:
+consultix_theme_option -> /home/oi3vi3lah9i3/public_html/wp-content/themes/consultix/inc/import/one/redux.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+

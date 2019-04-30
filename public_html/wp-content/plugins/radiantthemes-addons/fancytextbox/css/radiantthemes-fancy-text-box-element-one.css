@@ -1,0 +1,102 @@
+/* rt-fancy-text-box element-one */
+
+.rt-fancy-text-box.element-one{
+}
+
+.rt-fancy-text-box.element-one > .holder{
+	padding:25px 25px 25px 25px;
+}
+
+.rt-fancy-text-box.element-one.hover-active > .holder{
+	box-shadow:0px 0px 0px rgba(5,6,6,0.08);
+	transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+}
+
+.rt-fancy-text-box.element-one.hover-active > .holder:hover,
+.rt-fancy-text-box.element-one.hover-active-on > .holder{
+	box-shadow:0 0 50px rgba(5,6,6,0.08);
+	position:relative;
+}
+
+.rt-fancy-text-box.element-one[data-fancy-text-box-align=left] > .holder{
+	text-align:left;
+}
+
+.rt-fancy-text-box.element-one[data-fancy-text-box-align=center] > .holder{
+	text-align:center;
+}
+
+.rt-fancy-text-box.element-one[data-fancy-text-box-align=right] > .holder{
+	text-align:right;
+}
+
+.rt-fancy-text-box.element-one > .holder > *:last-child{
+	margin-bottom:0 !important;
+}
+
+.rt-fancy-text-box.element-one > .holder > .title{
+	position:relative;
+	margin-bottom:15px;
+}
+
+.rt-fancy-text-box.element-one[data-fancy-text-box-align=left] > .holder > .title{
+	padding-left:55px;
+}
+
+.rt-fancy-text-box.element-one[data-fancy-text-box-align=center] > .holder > .title{
+	padding-top:65px;
+}
+
+.rt-fancy-text-box.element-one[data-fancy-text-box-align=right] > .holder > .title{
+	padding-right:55px;
+}
+
+.rt-fancy-text-box.element-one > .holder > .title > .icon{
+	position:absolute;
+	top:0;
+	z-index:1;
+}
+
+.rt-fancy-text-box.element-one[data-fancy-text-box-align=left] > .holder > .title > .icon{
+	left:0;
+}
+
+.rt-fancy-text-box.element-one[data-fancy-text-box-align=center] > .holder > .title > .icon{
+	left:0;
+	right:0;
+}
+
+.rt-fancy-text-box.element-one[data-fancy-text-box-align=right] > .holder > .title > .icon{
+	right:0;
+}
+
+.rt-fancy-text-box.element-one > .holder > .title > .icon i{
+	font-size:35px;
+	line-height:35px;
+}
+
+.rt-fancy-text-box.element-one[data-fancy-text-box-align=center] > .holder > .title > .icon i{
+	font-size:45px;
+	line-height:45px;
+}
+
+.rt-fancy-text-box.element-one > .holder > .data{
+	margin-bottom:15px;
+}
+
+.rt-fancy-text-box.element-one > .holder > .data > *:last-child{
+	margin-bottom:0 !important;
+}
+
+.rt-fancy-text-box.element-one > .holder > .more{
+	margin-bottom:15px;
+}
+
+.rt-fancy-text-box.element-one > .holder > .more .btn{
+	padding:7px 20px 8px 20px;
+	border-radius:0;
+	cursor:pointer;
+	transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+}

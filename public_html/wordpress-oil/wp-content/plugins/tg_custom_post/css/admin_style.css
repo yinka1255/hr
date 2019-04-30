@@ -1,0 +1,9 @@
+#tgumpostmeta label{
+    width: 30%;
+    display: inline-block;
+    font-weight: bold;
+}
+
+#tgumpostmeta input[type="text"]{
+  width: 50%;
+}

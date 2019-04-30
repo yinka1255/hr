@@ -1,0 +1,63 @@
+/*
+Theme Name: 		Petro
+Theme URI: 			http://store.themegum.com/?theme=petro
+Author: 			TemeGUM
+Author URI: 		https://themeforest.net/user/temegum/portfolio
+Description: 		PETRO is designed for industrial, oil and gas, manufacturing, mechanical, power and energy, engineering & Multipurpose Business. This template has beautifull and unique design that will be best suited for your online web presence. It has 100% responsive design and tested on all major handheld devices, the theme also responsive and high quality in any browsers
+Version: 			2.1.9
+License:            Envato Market Standard Licenses
+License URI:        https://themeforest.net/licenses/standard
+Tags: 				two-columns, three-columns, left-sidebar, right-sidebar, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready
+Text Domain: 		petro
+Domain Path: 		/languages/
+*/
+.wp-caption {
+    margin: 0;
+    max-width: 100%;
+}
+
+.wp-caption-text {
+  text-align: center;
+  display: block;
+}
+
+.gallery-caption {
+    text-align: center;
+    padding: 5px 10px;
+}
+
+.bypostauthor > .comment-body .comment-author {
+    display: inline-block;
+    clear: right;
+    position: relative;
+}
+
+.bypostauthor > .comment-body .comment-author:after{
+    content: '*';
+    font-size: 12px;
+    display: block;
+    position: absolute;
+    right: -10px;
+    top: 0;
+    width: ;
+    height: 0;
+}
+
+.alignright{
+	text-align: right;
+	float: right;
+	margin: 0.5em 0 0.5em 2em;
+}
+
+.alignleft{
+	text-align: left;
+    float: left;
+    margin: 0.5em 2em 0.5em 0;
+}
+
+.aligncenter {
+	text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

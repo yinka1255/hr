@@ -1,0 +1,284 @@
+
+---Downloaded files---
+The import files for: Demo 1 (8 Variations) were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/imperialhr
+Data file = C:\wamp64\www\imperialhr/wp-content/themes/consultix/inc/import/one/content.xml
+Widget file = C:\wamp64\www\imperialhr/wp-content/themes/consultix/inc/import/one/widgets.wie
+Customizer file = C:\wamp64\www\imperialhr/wp-content/themes/consultix/inc/import/one/customizer.dat
+Redux files:
+consultix_theme_option -> C:\wamp64\www\imperialhr/wp-content/themes/consultix/inc/import/one/redux.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+mega-menu : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Create &amp; Organize - Imported to Inactive
+Navigation Menu - Design &amp; Style - Imported to Inactive
+Navigation Menu - Showcase &amp; Promote - Imported to Inactive
+Text - Company Overview - Imported to Inactive
+Navigation Menu - Layout Options - Imported to Inactive
+Navigation Menu - Design &amp; Flexibility - Imported to Inactive
+Navigation Menu - Easy To Use - Imported to Inactive
+Text - Company Overview - Imported to Inactive
+
+Widgets in Menu : 
+
+Navigation Menu - Design &amp; Style - Imported
+Navigation Menu - Create &amp; Organize - Imported
+Navigation Menu - Showcase &amp; Promote - Imported
+
+Sidebar : 
+
+Search - Search - Imported
+Consultix Recent Posts With Thumbnail Widget - No Title - Imported
+Categories - CATEGORIES - Imported
+Archives - ARCHIVES - Imported
+Tag Cloud - TAGS - Imported
+
+Product | Sidebar : 
+
+Product Search - Search - Imported
+Filter Products by Price - Filter by price - Imported
+Product Categories - Product categories - Imported
+Products by Rating - Top rated products - Imported
+
+Footer | #1 : 
+
+Image - No Title - Imported
+Consultix Contact Box - No Title - Imported
+
+Footer | #2 : 
+
+Navigation Menu - Our Services - Imported
+
+Footer | #3 : 
+
+Recent Posts - Recent Post - Imported
+
+Footer | #4 : 
+
+Text - Newsletter - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: consultix_theme_option finished successfully!
+
+---Importing widgets---
+mega-menu : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Create &amp; Organize - Widget already exists
+Navigation Menu - Design &amp; Style - Widget already exists
+Navigation Menu - Showcase &amp; Promote - Widget already exists
+Text - Company Overview - Widget already exists
+Navigation Menu - Layout Options - Widget already exists
+Navigation Menu - Design &amp; Flexibility - Widget already exists
+Navigation Menu - Easy To Use - Widget already exists
+Text - Company Overview - Widget already exists
+
+Widgets in Menu : 
+
+Navigation Menu - Design &amp; Style - Widget already exists
+Navigation Menu - Create &amp; Organize - Widget already exists
+Navigation Menu - Showcase &amp; Promote - Widget already exists
+
+Sidebar : 
+
+Search - Search - Widget already exists
+Consultix Recent Posts With Thumbnail Widget - No Title - Widget already exists
+Categories - CATEGORIES - Widget already exists
+Archives - ARCHIVES - Widget already exists
+Tag Cloud - TAGS - Widget already exists
+
+Product | Sidebar : 
+
+Product Search - Search - Widget already exists
+Filter Products by Price - Filter by price - Widget already exists
+Product Categories - Product categories - Widget already exists
+Products by Rating - Top rated products - Widget already exists
+
+Footer | #1 : 
+
+Image - No Title - Widget already exists
+Consultix Contact Box - No Title - Widget already exists
+
+Footer | #2 : 
+
+Navigation Menu - Our Services - Widget already exists
+
+Footer | #3 : 
+
+Recent Posts - Recent Post - Widget already exists
+
+Footer | #4 : 
+
+Text - Newsletter - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: consultix_theme_option finished successfully!
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---pt-ocdi/after_import---
+

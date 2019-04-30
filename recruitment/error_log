@@ -1,0 +1,149 @@
+[17-Apr-2019 22:51:11 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[17-Apr-2019 22:54:10 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[17-Apr-2019 22:57:44 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[17-Apr-2019 22:59:16 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[17-Apr-2019 23:01:45 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[17-Apr-2019 23:03:33 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[17-Apr-2019 23:04:34 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[17-Apr-2019 23:05:28 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[17-Apr-2019 23:05:59 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[17-Apr-2019 23:07:08 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[17-Apr-2019 23:08:18 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[17-Apr-2019 23:09:47 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[17-Apr-2019 23:11:16 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[17-Apr-2019 23:14:39 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[17-Apr-2019 23:30:38 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[17-Apr-2019 23:35:28 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[18-Apr-2019 09:12:06 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[18-Apr-2019 09:12:18 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[18-Apr-2019 09:12:24 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[18-Apr-2019 09:12:47 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[18-Apr-2019 09:14:12 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[18-Apr-2019 09:14:12 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, object given in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 16
+[18-Apr-2019 09:15:11 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[18-Apr-2019 09:15:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_num_row() in /home/oi3vi3lah9i3/public_html/recruitment/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 16
+[18-Apr-2019 09:18:30 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[18-Apr-2019 09:18:43 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[18-Apr-2019 09:18:43 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 17
+[18-Apr-2019 09:19:16 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[18-Apr-2019 09:20:38 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[18-Apr-2019 09:23:14 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[18-Apr-2019 09:24:31 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[18-Apr-2019 09:24:35 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[18-Apr-2019 09:25:16 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[19-Apr-2019 11:05:29 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[19-Apr-2019 11:05:29 UTC] PHP Notice:  Undefined index: candidateID in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 12
+[19-Apr-2019 16:32:35 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[19-Apr-2019 16:32:35 UTC] PHP Notice:  Undefined index: candidateID in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 12
+[19-Apr-2019 20:07:57 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[19-Apr-2019 20:07:57 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/oi3vi3lah9i3/public_html/recruitment/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 18
+[19-Apr-2019 20:09:48 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[19-Apr-2019 20:09:48 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/oi3vi3lah9i3/public_html/recruitment/index.php:192
+Stack trace:
+#0 {main}
+  thrown in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 192
+[19-Apr-2019 20:10:49 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[19-Apr-2019 20:10:49 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/oi3vi3lah9i3/public_html/recruitment/index.php:192
+Stack trace:
+#0 {main}
+  thrown in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 192
+[19-Apr-2019 20:15:42 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[19-Apr-2019 20:15:42 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/oi3vi3lah9i3/public_html/recruitment/index.php:192
+Stack trace:
+#0 {main}
+  thrown in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 192
+[19-Apr-2019 20:15:45 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[19-Apr-2019 20:15:45 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/oi3vi3lah9i3/public_html/recruitment/index.php:192
+Stack trace:
+#0 {main}
+  thrown in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 192
+[19-Apr-2019 20:19:47 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[19-Apr-2019 20:19:47 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/oi3vi3lah9i3/public_html/recruitment/index.php:192
+Stack trace:
+#0 {main}
+  thrown in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 192
+[19-Apr-2019 20:20:33 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[19-Apr-2019 20:20:33 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/oi3vi3lah9i3/public_html/recruitment/index.php:192
+Stack trace:
+#0 {main}
+  thrown in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 192
+[19-Apr-2019 20:20:47 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[19-Apr-2019 20:20:47 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/oi3vi3lah9i3/public_html/recruitment/index.php:192
+Stack trace:
+#0 {main}
+  thrown in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 192
+[19-Apr-2019 20:20:52 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[19-Apr-2019 20:20:52 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/oi3vi3lah9i3/public_html/recruitment/index.php:192
+Stack trace:
+#0 {main}
+  thrown in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 192
+[19-Apr-2019 20:21:09 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[19-Apr-2019 20:21:09 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/oi3vi3lah9i3/public_html/recruitment/index.php:192
+Stack trace:
+#0 {main}
+  thrown in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 192
+[19-Apr-2019 20:21:51 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[19-Apr-2019 20:21:51 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/oi3vi3lah9i3/public_html/recruitment/index.php:192
+Stack trace:
+#0 {main}
+  thrown in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 192
+[19-Apr-2019 20:23:00 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[19-Apr-2019 20:23:00 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/oi3vi3lah9i3/public_html/recruitment/index.php:192
+Stack trace:
+#0 {main}
+  thrown in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 192
+[19-Apr-2019 20:27:24 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[19-Apr-2019 20:27:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oi3vi3lah9i3/public_html/recruitment/index.php:163) in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 221
+[19-Apr-2019 20:29:50 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[19-Apr-2019 20:29:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oi3vi3lah9i3/public_html/recruitment/index.php:163) in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 221
+[19-Apr-2019 20:30:19 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[19-Apr-2019 20:30:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oi3vi3lah9i3/public_html/recruitment/index.php:163) in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 221
+[19-Apr-2019 20:35:42 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[19-Apr-2019 20:35:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oi3vi3lah9i3/public_html/recruitment/index.php:163) in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 221
+[22-Apr-2019 14:51:39 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[22-Apr-2019 14:51:39 UTC] PHP Notice:  Undefined index: candidateID in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 12
+[22-Apr-2019 14:51:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oi3vi3lah9i3/public_html/recruitment/index.php:163) in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 221
+[26-Apr-2019 21:38:17 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[26-Apr-2019 21:38:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oi3vi3lah9i3/public_html/recruitment/index.php:163) in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 221
+[26-Apr-2019 21:40:52 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[26-Apr-2019 21:40:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oi3vi3lah9i3/public_html/recruitment/index.php:161) in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 219
+[26-Apr-2019 21:45:15 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[26-Apr-2019 21:45:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oi3vi3lah9i3/public_html/recruitment/index.php:161) in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 220
+[26-Apr-2019 21:45:40 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[26-Apr-2019 21:45:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oi3vi3lah9i3/public_html/recruitment/index.php:161) in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 220
+[26-Apr-2019 21:47:03 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[26-Apr-2019 21:47:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oi3vi3lah9i3/public_html/recruitment/index.php:161) in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 220
+[26-Apr-2019 21:47:22 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[26-Apr-2019 21:47:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/oi3vi3lah9i3/public_html/recruitment/index.php:161) in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 220
+[26-Apr-2019 21:51:26 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[26-Apr-2019 21:51:26 UTC] PHP Notice:  Undefined variable: candidateID in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 25
+[26-Apr-2019 21:51:26 UTC] PHP Notice:  Undefined variable: conn in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 27
+[26-Apr-2019 21:51:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 27
+[26-Apr-2019 21:51:31 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[26-Apr-2019 21:51:31 UTC] PHP Notice:  Undefined variable: candidateID in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 25
+[26-Apr-2019 21:51:31 UTC] PHP Notice:  Undefined variable: conn in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 27
+[26-Apr-2019 21:51:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 27
+[26-Apr-2019 22:29:16 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[26-Apr-2019 22:29:16 UTC] PHP Notice:  Undefined variable: candidateID in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 25
+[26-Apr-2019 22:29:16 UTC] PHP Notice:  Undefined variable: conn in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 27
+[26-Apr-2019 22:29:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 27
+[26-Apr-2019 22:36:58 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[26-Apr-2019 22:36:58 UTC] PHP Notice:  Undefined variable: candidateID in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 25
+[26-Apr-2019 22:36:58 UTC] PHP Notice:  Undefined variable: conn in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 27
+[26-Apr-2019 22:36:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 27
+[27-Apr-2019 10:04:52 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[27-Apr-2019 10:04:52 UTC] PHP Notice:  Undefined index: candidateID in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 12
+[27-Apr-2019 10:04:52 UTC] PHP Notice:  Undefined variable: candidateID in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 25
+[27-Apr-2019 10:04:52 UTC] PHP Notice:  Undefined variable: conn in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 27
+[27-Apr-2019 10:04:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 27
+[28-Apr-2019 16:11:19 UTC] PHP Notice:  Undefined variable: hostname in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 7
+[28-Apr-2019 16:11:19 UTC] PHP Notice:  Undefined index: candidateID in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 12
+[28-Apr-2019 16:11:19 UTC] PHP Notice:  Undefined variable: candidateID in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 25
+[28-Apr-2019 16:11:19 UTC] PHP Notice:  Undefined variable: conn in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 27
+[28-Apr-2019 16:11:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/oi3vi3lah9i3/public_html/recruitment/index.php on line 27

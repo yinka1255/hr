@@ -1,0 +1,481 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nuno Page Builder Addon\n"
+"Report-Msgid-Bugs-To: support@themegum.com\n"
+"POT-Creation-Date: 2017-06-08 09:14+0700\n"
+"PO-Revision-Date: 2017-06-08 09:14+0700\n"
+"Last-Translator: Atawai <celomitan@yahoo.com>\n"
+"Language-Team: themegum.com <support@themegum.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+"X-Poedit-SearchPathExcluded-1: lib/js\n"
+"X-Poedit-SearchPathExcluded-2: font-awesome\n"
+"X-Poedit-SearchPathExcluded-3: css\n"
+"X-Poedit-SearchPathExcluded-4: images\n"
+
+#: elements/portfolio.php:78
+msgid "Show All"
+msgstr ""
+
+#: elements/portfolio.php:99 elements/portfolio.php:120
+msgid "zoom"
+msgstr ""
+
+#: elements/portfolio.php:100 elements/portfolio.php:121
+msgid "view"
+msgstr ""
+
+#: elements/portfolio.php:195
+msgid "Portfolio Grid"
+msgstr ""
+
+#: elements/portfolio.php:202 elements/postgrid.php:191
+#: elements/testimonial.php:169 elements/timeline.php:150
+msgid "Extra css Class"
+msgstr ""
+
+#: elements/portfolio.php:208 elements/postgrid.php:197
+#: elements/testimonial.php:175 elements/timeline.php:156
+msgid "Anchor ID"
+msgstr ""
+
+#: elements/portfolio.php:211 elements/postgrid.php:200
+#: elements/testimonial.php:178 elements/timeline.php:159
+msgid "Enter anchor ID without pound '#' sign"
+msgstr ""
+
+#: elements/portfolio.php:214 elements/portfolio.php:249
+#: elements/portfolio.php:284 elements/postgrid.php:203
+#: elements/postgrid.php:238 elements/postgrid.php:273
+#: elements/testimonial.php:181 elements/testimonial.php:216
+#: elements/testimonial.php:251 elements/timeline.php:162
+#: elements/timeline.php:197 elements/timeline.php:232
+msgid "Top"
+msgstr ""
+
+#: elements/portfolio.php:218 elements/portfolio.php:225
+#: elements/portfolio.php:232 elements/portfolio.php:239
+#: elements/portfolio.php:246 elements/portfolio.php:253
+#: elements/portfolio.php:260 elements/portfolio.php:267
+#: elements/portfolio.php:274 elements/portfolio.php:281
+#: elements/portfolio.php:288 elements/portfolio.php:295
+#: elements/portfolio.php:302 elements/portfolio.php:309
+#: elements/postgrid.php:207 elements/postgrid.php:214
+#: elements/postgrid.php:221 elements/postgrid.php:228
+#: elements/postgrid.php:235 elements/postgrid.php:242
+#: elements/postgrid.php:249 elements/postgrid.php:256
+#: elements/postgrid.php:263 elements/postgrid.php:270
+#: elements/postgrid.php:277 elements/postgrid.php:284
+#: elements/postgrid.php:291 elements/postgrid.php:298
+#: elements/testimonial.php:185 elements/testimonial.php:192
+#: elements/testimonial.php:199 elements/testimonial.php:206
+#: elements/testimonial.php:213 elements/testimonial.php:220
+#: elements/testimonial.php:227 elements/testimonial.php:234
+#: elements/testimonial.php:241 elements/testimonial.php:248
+#: elements/testimonial.php:255 elements/testimonial.php:262
+#: elements/testimonial.php:269 elements/testimonial.php:276
+#: elements/timeline.php:166 elements/timeline.php:173
+#: elements/timeline.php:180 elements/timeline.php:187
+#: elements/timeline.php:194 elements/timeline.php:201
+#: elements/timeline.php:208 elements/timeline.php:215
+#: elements/timeline.php:222 elements/timeline.php:229
+#: elements/timeline.php:236 elements/timeline.php:243
+#: elements/timeline.php:250 elements/timeline.php:257
+msgid "Margin"
+msgstr ""
+
+#: elements/portfolio.php:221 elements/portfolio.php:256
+#: elements/portfolio.php:291 elements/postgrid.php:210
+#: elements/postgrid.php:245 elements/postgrid.php:280
+#: elements/testimonial.php:188 elements/testimonial.php:223
+#: elements/testimonial.php:258 elements/timeline.php:169
+#: elements/timeline.php:204 elements/timeline.php:239
+msgid "Bottom"
+msgstr ""
+
+#: elements/portfolio.php:228 elements/portfolio.php:263
+#: elements/portfolio.php:298 elements/postgrid.php:217
+#: elements/postgrid.php:252 elements/postgrid.php:287
+#: elements/postgrid.php:323 elements/testimonial.php:195
+#: elements/testimonial.php:230 elements/testimonial.php:265
+#: elements/testimonial.php:294 elements/timeline.php:176
+#: elements/timeline.php:211 elements/timeline.php:246
+msgid "Left"
+msgstr ""
+
+#: elements/portfolio.php:235 elements/portfolio.php:270
+#: elements/portfolio.php:305 elements/postgrid.php:224
+#: elements/postgrid.php:259 elements/postgrid.php:294
+#: elements/postgrid.php:325 elements/testimonial.php:202
+#: elements/testimonial.php:237 elements/testimonial.php:272
+#: elements/testimonial.php:296 elements/timeline.php:183
+#: elements/timeline.php:218 elements/timeline.php:253
+msgid "Right"
+msgstr ""
+
+#: elements/portfolio.php:242 elements/postgrid.php:231
+#: elements/testimonial.php:209 elements/timeline.php:190
+msgid "Margin Mobile"
+msgstr ""
+
+#: elements/portfolio.php:243 elements/postgrid.php:232
+#: elements/testimonial.php:210 elements/timeline.php:191
+msgid "This optional for screen up to 480px."
+msgstr ""
+
+#: elements/portfolio.php:277 elements/postgrid.php:266
+#: elements/testimonial.php:244 elements/timeline.php:225
+msgid "Margin Tablet"
+msgstr ""
+
+#: elements/portfolio.php:278 elements/postgrid.php:267
+#: elements/testimonial.php:245 elements/timeline.php:226
+msgid "This optional for screen up to 992px."
+msgstr ""
+
+#: elements/portfolio.php:312
+msgid "Show Filter"
+msgstr ""
+
+#: elements/portfolio.php:316 elements/testimonial.php:399
+msgid "Show"
+msgstr ""
+
+#: elements/portfolio.php:317
+msgid "Hide"
+msgstr ""
+
+#: elements/portfolio.php:322 elements/postgrid.php:308
+#: elements/testimonial.php:279
+msgid "Layout"
+msgstr ""
+
+#: elements/portfolio.php:326
+msgid "Style 1"
+msgstr ""
+
+#: elements/portfolio.php:327
+msgid "Style 2"
+msgstr ""
+
+#: elements/portfolio.php:332 elements/postgrid.php:330
+msgid "Number of Columns"
+msgstr ""
+
+#: elements/portfolio.php:334 elements/postgrid.php:332
+msgid "Number of columns on screen larger than 1200px screen resolution"
+msgstr ""
+
+#: elements/portfolio.php:337 elements/postgrid.php:335
+msgid "One Column"
+msgstr ""
+
+#: elements/portfolio.php:338 elements/postgrid.php:336
+msgid "Two Columns"
+msgstr ""
+
+#: elements/portfolio.php:339 elements/postgrid.php:337
+msgid "Three Columns"
+msgstr ""
+
+#: elements/portfolio.php:340 elements/postgrid.php:338
+msgid "Four Columns"
+msgstr ""
+
+#: elements/portfolio.php:345 elements/postgrid.php:344
+msgid "Gutter Gap"
+msgstr ""
+
+#: elements/portfolio.php:348 elements/postgrid.php:348
+msgid "Space between items in px."
+msgstr ""
+
+#: elements/portfolio.php:351 elements/postgrid.php:352
+msgid "Image Size"
+msgstr ""
+
+#: elements/portfolio.php:355 elements/postgrid.php:356
+#: elements/testimonial.php:332
+msgid ""
+"Enter image size. Example: thumbnail, small, medium, large, full or other "
+"sizes defined by current theme. Alternatively enter image size in pixels: "
+"200x200 (Width x Height)."
+msgstr ""
+
+#: elements/postgrid.php:77
+#, php-format
+msgid "posted by %s"
+msgstr ""
+
+#: elements/postgrid.php:184
+msgid "Post Grid"
+msgstr ""
+
+#: elements/postgrid.php:301
+msgid "Number of posts to show:"
+msgstr ""
+
+#: elements/postgrid.php:312
+msgid "Plain (no image)"
+msgstr ""
+
+#: elements/postgrid.php:313
+msgid "Image box"
+msgstr ""
+
+#: elements/postgrid.php:318 elements/testimonial.php:290
+msgid "Content Align"
+msgstr ""
+
+#: elements/postgrid.php:322 elements/testimonial.php:283
+#: elements/testimonial.php:339
+msgid "Default"
+msgstr ""
+
+#: elements/postgrid.php:324 elements/testimonial.php:295
+msgid "Center"
+msgstr ""
+
+#: elements/postgrid.php:360
+msgid "Post excerpt length"
+msgstr ""
+
+#: elements/postgrid.php:365
+msgid "Num words post content displayed."
+msgstr ""
+
+#: elements/testimonial.php:162
+msgid "Custom Testimonial"
+msgstr ""
+
+#: elements/testimonial.php:284
+msgid "Image Left"
+msgstr ""
+
+#: elements/testimonial.php:285
+msgid "Image Right"
+msgstr ""
+
+#: elements/testimonial.php:301
+msgid "Main Name"
+msgstr ""
+
+#: elements/testimonial.php:308
+msgid "Position/Job"
+msgstr ""
+
+#: elements/testimonial.php:315
+msgid "What say"
+msgstr ""
+
+#: elements/testimonial.php:321
+msgid "Image"
+msgstr ""
+
+#: elements/testimonial.php:328
+msgid "Image Source Size"
+msgstr ""
+
+#: elements/testimonial.php:335
+msgid "Image Style"
+msgstr ""
+
+#: elements/testimonial.php:340
+msgid "Rounded"
+msgstr ""
+
+#: elements/testimonial.php:341
+msgid "Circle"
+msgstr ""
+
+#: elements/testimonial.php:346
+msgid "Border"
+msgstr ""
+
+#: elements/testimonial.php:350
+msgid "Border Color"
+msgstr ""
+
+#: elements/testimonial.php:356
+msgid "Border Style"
+msgstr ""
+
+#: elements/testimonial.php:360
+msgid "Solid"
+msgstr ""
+
+#: elements/testimonial.php:361
+msgid "Dotted"
+msgstr ""
+
+#: elements/testimonial.php:362
+msgid "Dashed"
+msgstr ""
+
+#: elements/testimonial.php:363
+msgid "Double"
+msgstr ""
+
+#: elements/testimonial.php:364
+msgid "Groove"
+msgstr ""
+
+#: elements/testimonial.php:365
+msgid "Outset"
+msgstr ""
+
+#: elements/testimonial.php:366
+msgid "Ridge"
+msgstr ""
+
+#: elements/testimonial.php:367
+msgid "Inherit"
+msgstr ""
+
+#: elements/testimonial.php:371
+msgid "Border Width"
+msgstr ""
+
+#: elements/testimonial.php:377
+msgid "Border Radius"
+msgstr ""
+
+#: elements/testimonial.php:381
+msgid "Select radius for border(in px or %)."
+msgstr ""
+
+#: elements/testimonial.php:385
+msgid "Title Color"
+msgstr ""
+
+#: elements/testimonial.php:391
+msgid "Sub Title Color"
+msgstr ""
+
+#: elements/testimonial.php:397
+msgid "Social Link"
+msgstr ""
+
+#: elements/testimonial.php:399
+msgid "Hidden"
+msgstr ""
+
+#: elements/testimonial.php:403 elements/timeline.php:260
+msgid "Animation Type"
+msgstr ""
+
+#: elements/testimonial.php:408 elements/timeline.php:265
+msgid "Scroll Spy not activated"
+msgstr ""
+
+#: elements/testimonial.php:409 elements/timeline.php:266
+msgid "The element fades in"
+msgstr ""
+
+#: elements/testimonial.php:410 elements/timeline.php:267
+msgid "The element scales up"
+msgstr ""
+
+#: elements/testimonial.php:411 elements/timeline.php:268
+msgid "The element scales down"
+msgstr ""
+
+#: elements/testimonial.php:412 elements/timeline.php:269
+msgid "The element slides in from the top"
+msgstr ""
+
+#: elements/testimonial.php:413 elements/timeline.php:270
+msgid "The element slides in from the bottom"
+msgstr ""
+
+#: elements/testimonial.php:414 elements/timeline.php:271
+msgid "The element slides in from the left"
+msgstr ""
+
+#: elements/testimonial.php:415 elements/timeline.php:272
+msgid "The element slides in from the right."
+msgstr ""
+
+#: elements/testimonial.php:417 elements/timeline.php:274
+msgid "Scroll spy effects"
+msgstr ""
+
+#: elements/testimonial.php:421 elements/timeline.php:278
+msgid "Animation Delay"
+msgstr ""
+
+#: elements/testimonial.php:425 elements/timeline.php:282
+msgid "The number of delay the animation effect of the icon. in milisecond"
+msgstr ""
+
+#: elements/timeline.php:142
+msgid "Timeline"
+msgstr ""
+
+#: elements/timeline.php:292
+msgid "Timeline Item"
+msgstr ""
+
+#: elements/timeline.php:297
+msgid "Title"
+msgstr ""
+
+#: elements/timeline.php:304
+msgid "Date Title"
+msgstr ""
+
+#: elements/timeline.php:311
+msgid "Content"
+msgstr ""
+
+#: elements/timeline.php:315
+msgid ""
+"I am text block. Click edit button to change this text. Lorem ipsum dolor "
+"sit amet, consectetur adipiscing elit."
+msgstr ""
+
+#: elements/timeline.php:324
+msgid "Separator"
+msgstr ""
+
+#: elements/timeline.php:329
+msgid "Text"
+msgstr ""
+
+#: nuno-builder-addon.php:62
+msgid ""
+"Nuno Page Builder Addon deactivated. The plugin need Nuno Page Builder "
+"plugin, please install Nuno Builder plugin first."
+msgstr ""
+
+#, fuzzy
+#~ msgid "Description"
+#~ msgstr "Project Omschrijving"
+
+#, fuzzy
+#~ msgid "Oblique"
+#~ msgstr "Italic"
+
+#, fuzzy
+#~ msgid "Detail to %s"
+#~ msgstr "Meer details"
+
+#, fuzzy
+#~ msgid "Read more"
+#~ msgstr "Meer"
+
+#, fuzzy
+#~ msgid "Package Detail"
+#~ msgstr "Project Details"

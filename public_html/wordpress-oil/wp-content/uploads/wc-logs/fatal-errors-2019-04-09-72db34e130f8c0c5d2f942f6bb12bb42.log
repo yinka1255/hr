@@ -1,0 +1,60 @@
+2019-04-09T08:41:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\murphy\wp-includes\class-wp-http-curl.php on line 335
+
+2019-04-09T09:02:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\murphy\wp-includes\class-wp-http-curl.php on line 335
+
+2019-04-09T09:07:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\murphy\wp-includes\class-wp-http-curl.php on line 335
+
+2019-04-09T09:29:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\murphy\wp-includes\class-wp-http-curl.php on line 335
+
+2019-04-09T09:33:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\murphy\wp-includes\class-wp-http-curl.php on line 335
+
+2019-04-09T15:05:17+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-admin/includes/plugin.php(629): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-content/themes/realfactory/admin/tgmpa/class-tgm-plugin-activation.php(1052): activate_plugin('revslider/revsl...')
+#6 /home/oi3vi3lah9i3/public_htm in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+
+2019-04-09T15:10:38+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-admin/includes/plugin.php(629): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-content/themes/realfactory/admin/tgmpa/class-tgm-plugin-activation.php(1052): activate_plugin('revslider/revsl...')
+#6 /home/oi3vi3lah9i3/public_htm in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+
+2019-04-09T15:11:08+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-admin/includes/plugin.php(629): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-content/themes/realfactory/admin/tgmpa/class-tgm-plugin-activation.php(1052): activate_plugin('revslider/revsl...')
+#6 /home/oi3vi3lah9i3/public_htm in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+
+2019-04-09T15:11:25+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-admin/includes/plugin.php(629): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-admin/includes/plugin.php(827): activate_plugin('revslider/revsl...', '', false, false)
+#6 /home/oi3vi3lah9i3/public_html/wp-content/themes/realfact in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+
+2019-04-09T15:12:23+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php:71
+Stack trace:
+#0 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/admin/revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/revslider.php(162): RevSliderAdmin->__construct('/home/oi3vi3lah...')
+#4 /home/oi3vi3lah9i3/public_html/wp-admin/includes/plugin.php(629): include_once('/home/oi3vi3lah...')
+#5 /home/oi3vi3lah9i3/public_html/wp-content/themes/realfactory/admin/tgmpa/class-tgm-plugin-activation.php(1052): activate_plugin('revslider/revsl...')
+#6 /home/oi3vi3lah9i3/public_htm in /home/oi3vi3lah9i3/public_html/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 71
+

@@ -1,0 +1,92 @@
+/* rt-fancy-text-box element-three */
+
+.rt-fancy-text-box.element-three{
+}
+
+.rt-fancy-text-box.element-three > .holder{
+	padding:25px 25px 25px 25px;
+}
+
+.rt-fancy-text-box.element-three.hover-active > .holder{
+	box-shadow:0px 0px 0px rgba(5,6,6,0.08);
+	transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+}
+
+.rt-fancy-text-box.element-three.hover-active > .holder:hover,
+.rt-fancy-text-box.element-three.hover-active-on > .holder{
+	position:relative;
+	box-shadow:0px 0px 50px rgba(5,6,6,0.08);
+}
+
+.rt-fancy-text-box.element-three[data-fancy-text-box-align=left] > .holder{
+	text-align:left;
+}
+
+.rt-fancy-text-box.element-three[data-fancy-text-box-align=center] > .holder{
+	text-align:center;
+}
+
+.rt-fancy-text-box.element-three[data-fancy-text-box-align=right] > .holder{
+	text-align:right;
+}
+
+.rt-fancy-text-box.element-three > .holder > *:last-child{
+	margin-bottom:0 !important;
+}
+
+.rt-fancy-text-box.element-three > .holder > .title{
+	margin-bottom:13px;
+}
+
+.rt-fancy-text-box.element-three > .holder > .title > .pic{
+}
+
+.rt-fancy-text-box.element-three[data-fancy-text-box-align=left] > .holder > .title > .pic{
+	float:left;
+	transform:translateY(-25%);
+	-webkit-transform:translateY(-25%);
+	margin-right:15px;
+}
+
+.rt-fancy-text-box.element-three[data-fancy-text-box-align=center] > .holder > .title > .pic{
+	margin-bottom:20px;
+	text-align:center;
+}
+
+.rt-fancy-text-box.element-three[data-fancy-text-box-align=right] > .holder > .title > .pic{
+	float:right;
+	transform:translateY(-25%);
+	-webkit-transform:translateY(-25%);
+	margin-left:15px;
+}
+
+.rt-fancy-text-box.element-three[data-fancy-text-box-align=left] > .holder > .title > .icon img,
+.rt-fancy-text-box.element-three[data-fancy-text-box-align=right] > .holder > .title > .icon img{
+	max-width:60px;
+	max-height:60px;
+}
+
+.rt-fancy-text-box.element-three > .holder > .title > h4{
+	margin-top:10px;
+}
+
+.rt-fancy-text-box.element-three > .holder > .data{
+	margin-bottom:15px;
+}
+
+.rt-fancy-text-box.element-three > .holder > .data > *:last-child{
+	margin-bottom:0 !important;
+}
+
+.rt-fancy-text-box.element-three > .holder > .more{
+	margin-bottom:15px;
+}
+
+.rt-fancy-text-box.element-three > .holder > .more .btn{
+	padding:7px 20px 8px 20px;
+	border-radius:0;
+	cursor:pointer;
+	transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+}

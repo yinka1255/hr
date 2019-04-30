@@ -1,0 +1,59 @@
+﻿/* rt-blockquote element-one */
+
+.rt-blockquote.element-one{
+}
+
+.rt-blockquote.element-one > blockquote{
+	position:relative;
+	padding:27px 30px 30px 30px;
+}
+
+.rt-blockquote.element-one[data-blockquote-icon-position=left] > blockquote{
+	padding-left:110px;
+}
+
+.rt-blockquote.element-one[data-blockquote-icon-position=center] > blockquote{
+	padding-top:110px;
+}
+
+.rt-blockquote.element-one[data-blockquote-icon-position=right] > blockquote{
+	padding-right:110px;
+}
+
+.rt-blockquote.element-one[data-blockquote-align=left] > blockquote{
+	text-align:left;
+}
+
+.rt-blockquote.element-one[data-blockquote-align=center] > blockquote{
+	text-align:center;
+}
+
+.rt-blockquote.element-one[data-blockquote-align=right] > blockquote{
+	text-align:right;
+}
+
+.rt-blockquote.element-one > blockquote > *:last-child{
+	margin-bottom:0 !important;
+}
+
+.rt-blockquote.element-one > blockquote > i.fa{
+	position:absolute;
+	font-size:70px;
+	line-height:70px;
+}
+
+.rt-blockquote.element-one[data-blockquote-icon-position=left] > blockquote > i.fa{
+	top:30px;
+	left:20px;
+}
+
+.rt-blockquote.element-one[data-blockquote-icon-position=center] > blockquote > i.fa{
+	top:30px;
+	left:50%;
+	margin-left:-33px;
+}
+
+.rt-blockquote.element-one[data-blockquote-icon-position=right] > blockquote > i.fa{
+	top:30px;
+	right:20px;
+}

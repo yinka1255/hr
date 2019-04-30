@@ -1,0 +1,7 @@
+<wpml-config>
+    <admin-texts>
+        <key name="petro">
+            <key name="profile_title"/>
+        </key>
+    </admin-texts>
+</wpml-config>

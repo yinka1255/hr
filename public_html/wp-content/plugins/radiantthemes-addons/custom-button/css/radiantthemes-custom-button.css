@@ -1,0 +1,149 @@
+/* rt-button2 element-two */
+
+.rt-button2.element-two{
+}
+
+.rt-button2.element-two[data-button-direction=left]{
+	text-align:left;
+}
+
+.rt-button2.element-two[data-button-direction=center]{
+	text-align:center;
+}
+
+.rt-button2.element-two[data-button-direction=right]{
+	text-align:right;
+}
+
+.rt-button2.element-two .rt-button2-main{
+	position:relative;
+	display:inline-block;
+	vertical-align:top;
+	overflow:hidden;
+	text-align:center;
+	transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+}
+
+.rt-button2.element-two[data-button-fullwidth=true] .rt-button2-main{
+	width:100%;
+}
+
+.rt-button2.element-two[class*='hover-style-'] .rt-button2-main > .overlay{
+	position:absolute;
+	z-index:0;
+	content:" ";
+}
+
+.rt-button2.element-two.hover-style-one .rt-button2-main > .overlay{
+	top:0;
+	right:0;
+	bottom:0;
+	left:0;
+	opacity:0;
+	visibility:hidden;
+	transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+}
+
+.rt-button2.element-two.hover-style-one .rt-button2-main:hover > .overlay{
+	opacity:1;
+	visibility:visible;
+}
+
+.rt-button2.element-two.hover-style-two .rt-button2-main > .overlay{
+	top:0;
+	right:0;
+	width:0;
+	height:100%;
+	transition:width 0.5s cubic-bezier(0.25, 0.8, 0.25, 1) 0s;
+	-webkit-transition:width 0.5s cubic-bezier(0.25, 0.8, 0.25, 1) 0s;
+}
+
+.rt-button2.element-two.hover-style-two .rt-button2-main:hover > .overlay{
+	width:100%;
+	left:0;
+	right:auto;
+}
+
+.rt-button2.element-two.hover-style-three .rt-button2-main > .overlay{
+	top:0;
+	right:0;
+	bottom:0;
+	left:0;
+	border-radius:30px;
+	opacity:0;
+	visibility:hidden;
+	transform:scale(0);
+	-webkit-transform:scale(0);
+	transition:all 0.5s ease-in-out;
+	-webkit-transition:all 0.5s ease-in-out;
+}
+
+.rt-button2.element-two.hover-style-three .rt-button2-main:hover > .overlay{
+	opacity:1;
+	visibility:visible;
+	transform:scale(2);
+	-webkit-transform:scale(2);
+}
+
+.rt-button2.element-two.hover-style-four .rt-button2-main > .overlay{
+	top:0;
+	right:0;
+	bottom:0;
+	left:0;
+	opacity:0;
+	visibility:hidden;
+	transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+}
+
+.rt-button2.element-two.hover-style-four .rt-button2-main:hover > .overlay{
+	opacity:1;
+	visibility:visible;
+}
+
+.rt-button2.element-two .rt-button2-main > .placeholder{
+	position:relative;
+	/*transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;*/
+}
+
+.rt-button2.element-two .rt-button2-main i{
+	transition:margin 0.3s ease-in-out, opacity 0.3s ease-in-out;
+	-webkit-transition:margin 0.3s ease-in-out, opacity 0.3s ease-in-out;
+}
+
+.rt-button2.element-two[data-button-icon-position=left] .rt-button2-main i{
+	margin-right:10px;
+}
+
+.rt-button2.element-two[data-button-icon-position=right] .rt-button2-main i{
+	margin-left:10px;
+}
+
+.rt-button2.element-two.hover-style-four .rt-button2-main i{
+	opacity:0;
+	visibility:hidden;
+}
+
+.rt-button2.element-two.hover-style-four .rt-button2-main:hover i{
+	opacity:1;
+	visibility:visible;
+}
+
+.rt-button2.element-two[data-button-icon-position=left].hover-style-four .rt-button2-main i{
+	margin-right:-3px;
+}
+
+.rt-button2.element-two[data-button-icon-position=left].hover-style-four .rt-button2-main:hover i{
+	margin-right:10px;
+}
+
+.rt-button2.element-two[data-button-icon-position=right].hover-style-four .rt-button2-main i{
+	margin-left:-3px;
+}
+
+.rt-button2.element-two[data-button-icon-position=right].hover-style-four .rt-button2-main:hover i{
+	margin-left:10px;
+}

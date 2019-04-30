@@ -1,0 +1,2618 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Consultix\n"
+"POT-Creation-Date: 2018-03-13 09:41+0530\n"
+"PO-Revision-Date: 2018-03-14 16:51+0530\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: nl\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:32
+msgid "Goto Home Page"
+msgstr "Ga naar homepagina"
+
+#. translators: 1: title.
+#: comments.php:36
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "een gedachte over &ldquo;%1$s&rdquo;"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:42
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s erover nagedacht &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s gedachten over &ldquo;%2$s&rdquo;"
+
+#: comments.php:56
+msgid "Comment navigation"
+msgstr "Commentaar navigatie"
+
+#: comments.php:60 comments.php:93
+msgid "Older Comments"
+msgstr "Eerdere Opmerkingen"
+
+#: comments.php:63 comments.php:96
+msgid "Newer Comments"
+msgstr "nieuwere opmerkingen  "
+
+#: comments.php:89
+msgid "Comment Navigation"
+msgstr "Commentaar Navigatie"
+
+#: comments.php:111
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: functions.php:96
+msgid "Primary"
+msgstr "primair"
+
+#: functions.php:97 inc/redux-framework/options-init.php:1877
+msgid "Footer"
+msgstr "footer"
+
+#: functions.php:161 functions.php:303
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr "op"
+
+#: functions.php:231 inc/redux-framework/options-init.php:4000
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:233 functions.php:245 functions.php:260
+msgid "Add widgets here."
+msgstr "Voeg hier widgets toe."
+
+#: functions.php:243
+msgid "Product | Sidebar"
+msgstr "Product | Sidebar"
+
+#: functions.php:258
+msgid "Footer | #"
+msgstr "Voettekst | #"
+
+#: functions.php:603 functions.php:641
+msgid "Next Page &raquo;"
+msgstr "Volgende bladzijde &raquo;"
+
+#: functions.php:604 functions.php:642
+msgid "&laquo; Previous Page"
+msgstr "&laquo; Vorige bladzijde"
+
+#: functions.php:674
+msgid "Banner Image"
+msgstr "Banner afbeelding"
+
+#: functions.php:689
+msgid "Home"
+msgstr "Huis"
+
+#: functions.php:712
+msgid "Archive by category \""
+msgstr "Archief op categorie \""
+
+#: functions.php:714
+msgid "Search results for \""
+msgstr "Zoekresultaten voor \""
+
+#: functions.php:790
+msgid "Posts tagged \""
+msgstr "Posts getagged \""
+
+#: functions.php:794
+msgid "Articles posted by "
+msgstr "Artikelen geplaatst door "
+
+#: functions.php:796 inc/redux-framework/options-init.php:3456
+msgid "Error 404"
+msgstr "foutmelding 404"
+
+#: functions.php:803
+msgid "Page"
+msgstr "Pagina"
+
+#: functions.php:850
+msgid "Demo Import 1"
+msgstr "Demo Importeren 1"
+
+#: functions.php:864
+msgid "Demo Import 2"
+msgstr "Demo Import 2"
+
+#: functions.php:878
+msgid "Demo Import 3"
+msgstr "Demo Importeren 3"
+
+#: functions.php:892
+msgid "Demo Import 4"
+msgstr "Demo Import 4"
+
+#: functions.php:906
+msgid "Demo Import 5"
+msgstr "Demo Import 5"
+
+#: functions.php:988
+msgid " Slider processed"
+msgstr "Slider verwerkt"
+
+#. translators: category name.
+#: inc/header/banner-default.php:776 inc/header/banner-default.php:912
+#: inc/header/banner.php:780 inc/header/banner.php:923
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Categorie Archieven: %s"
+
+#. translators: Author Name.
+#: inc/header/banner-default.php:794 inc/header/banner-default.php:930
+#: inc/header/banner.php:798 inc/header/banner.php:941
+#, php-format
+msgid "All posts by %s"
+msgstr "Alle berichten door %s"
+
+#. translators: Tag Name.
+#: inc/header/banner-default.php:810 inc/header/banner-default.php:946
+#: inc/header/banner.php:814 inc/header/banner.php:957
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Tag Archives: %s"
+
+#. translators: Date.
+#: inc/header/banner-default.php:829 inc/header/banner-default.php:965
+#: inc/header/banner.php:833 inc/header/banner.php:976
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Dagelijkse archieven:  %s"
+
+#. translators: Month and Date.
+#: inc/header/banner-default.php:835 inc/header/banner-default.php:971
+#: inc/header/banner.php:839 inc/header/banner.php:982
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Maandelijkse archieven: %s"
+
+#: inc/header/banner-default.php:836 inc/header/banner-default.php:972
+#: inc/header/banner.php:840 inc/header/banner.php:983
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: Month Date, Year.
+#: inc/header/banner-default.php:841 inc/header/banner-default.php:977
+#: inc/header/banner.php:845 inc/header/banner.php:988
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Jaarlijkse archieven: %s"
+
+#: inc/header/banner-default.php:842 inc/header/banner-default.php:978
+#: inc/header/banner.php:846 inc/header/banner.php:989
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/header/banner-default.php:845 inc/header/banner-default.php:981
+#: inc/header/banner.php:849 inc/header/banner.php:992
+msgid "Archives"
+msgstr "archief"
+
+#: inc/header/header-style-five.php:18 inc/header/header-style-four.php:31
+#: inc/header/header-style-one.php:110 inc/header/header-style-six.php:19
+#: inc/header/header-style-three.php:106 inc/header/header-style-two.php:18
+msgid "logo"
+msgstr "logo"
+
+#: inc/redux-framework/options-init.php:27
+msgid "Powered By: Radiant Admin Options"
+msgstr "Aangedreven door: Radiant Admin Options"
+
+#: inc/redux-framework/options-init.php:30
+#: inc/redux-framework/options-init.php:31
+msgid "Theme Options"
+msgstr "thema opties"
+
+#: inc/redux-framework/options-init.php:102
+#: inc/redux-framework/options-init.php:277
+#: inc/redux-framework/options-init.php:639
+msgid "General"
+msgstr "Algemeen"
+
+#: inc/redux-framework/options-init.php:109
+msgid "Color"
+msgstr "Kleur"
+
+#: inc/redux-framework/options-init.php:118
+msgid "Color Options"
+msgstr "Kleuropties"
+
+#: inc/redux-framework/options-init.php:128
+msgid "Select Theme Color"
+msgstr "Selecteer themakleur"
+
+#: inc/redux-framework/options-init.php:129
+msgid ""
+"You can select/choose from a list of preset theme colors. (Please Note: This "
+"will set preset color scheme on your theme. You can replace color(s) from "
+"each element settings.)"
+msgstr ""
+"U kunt een keuze maken uit een lijst met vooraf ingestelde themakleuren. "
+"(Let op: hiermee wordt het vooraf ingestelde kleurenschema op uw thema "
+"ingesteld.) U kunt de kleur (en) van elke elementinstelling vervangen.)"
+
+#: inc/redux-framework/options-init.php:132
+msgid "Midnight Blue"
+msgstr "Middernacht blauw"
+
+#: inc/redux-framework/options-init.php:136
+msgid "Yellow"
+msgstr "Geel"
+
+#: inc/redux-framework/options-init.php:140
+msgid "Green"
+msgstr "Groen"
+
+#: inc/redux-framework/options-init.php:144
+msgid "Pink"
+msgstr "Roze"
+
+#: inc/redux-framework/options-init.php:148
+msgid "Red"
+msgstr "Rood"
+
+#: inc/redux-framework/options-init.php:152
+msgid "Blue"
+msgstr "Blauw"
+
+#: inc/redux-framework/options-init.php:156
+msgid "Spring Green"
+msgstr "Lente groen"
+
+#: inc/redux-framework/options-init.php:160
+msgid "Orange"
+msgstr "Oranje"
+
+#: inc/redux-framework/options-init.php:164
+msgid "Chocolate"
+msgstr "Chocola"
+
+#: inc/redux-framework/options-init.php:168
+msgid "Purple"
+msgstr "Purper"
+
+#: inc/redux-framework/options-init.php:179
+msgid "Body Background Color"
+msgstr "Lichaams achtergrondkleur"
+
+#: inc/redux-framework/options-init.php:180
+msgid ""
+"Choose a background color for the theme. (Please Note: This option will not "
+"work, if you have selected background color for a particular section.)"
+msgstr ""
+"Kies een achtergrondkleur voor het thema. (Let op: deze optie zal niet "
+"werken als u een achtergrondkleur voor een bepaald gedeelte hebt "
+"geselecteerd.)"
+
+#: inc/redux-framework/options-init.php:195
+msgid "Logo and Favicon"
+msgstr "Logo en Favicon"
+
+#: inc/redux-framework/options-init.php:205
+msgid "LOGO"
+msgstr "LOGO"
+
+#: inc/redux-framework/options-init.php:215
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/redux-framework/options-init.php:216
+msgid "You can upload logo on your website."
+msgstr "U kunt een logo uploaden op uw website."
+
+#: inc/redux-framework/options-init.php:226
+msgid "Retina Logo"
+msgstr "Retina-logo"
+
+#: inc/redux-framework/options-init.php:227
+msgid "Retina Logo should be 2x larger than Custom Logo"
+msgstr "Retina-logo moet 2x groter zijn dan een aangepast logo"
+
+#: inc/redux-framework/options-init.php:228
+msgid "Optional"
+msgstr "facultatief"
+
+#: inc/redux-framework/options-init.php:237
+msgid "ICON"
+msgstr "ICOON"
+
+#: inc/redux-framework/options-init.php:246
+msgid "Favicon"
+msgstr "favicon"
+
+#: inc/redux-framework/options-init.php:247
+msgid "You can upload Favicon on your website. (.ico 32x32 pixels)"
+msgstr "U kunt Favicon uploaden op uw website. (.ico 32x32 pixels)"
+
+#: inc/redux-framework/options-init.php:256
+msgid "Apple Touch Icon"
+msgstr "Apple Touch-pictogram"
+
+#: inc/redux-framework/options-init.php:257
+msgid "apple-touch-icon.png 180x180 pixels"
+msgstr "apple-touch-icon.png 180x180 pixels"
+
+#: inc/redux-framework/options-init.php:269
+msgid "Fonts"
+msgstr "Fonts"
+
+#: inc/redux-framework/options-init.php:278
+msgid "This will be the default font of your website."
+msgstr "Dit wordt het standaardlettertype van uw website."
+
+#: inc/redux-framework/options-init.php:301
+msgid "H1"
+msgstr "H1"
+
+#: inc/redux-framework/options-init.php:302
+msgid "This will be the default font for all H1 tags of your website."
+msgstr "Dit is het standaardlettertype voor alle H1-tags van uw website."
+
+#: inc/redux-framework/options-init.php:329
+msgid "H2"
+msgstr "H2"
+
+#: inc/redux-framework/options-init.php:330
+msgid "This will be the default font for all H2 tags of your website."
+msgstr "Dit is het standaardlettertype voor alle H2-tags van uw website."
+
+#: inc/redux-framework/options-init.php:357
+msgid "H3"
+msgstr "H3"
+
+#: inc/redux-framework/options-init.php:358
+msgid "This will be the default font for all H3 tags of your website."
+msgstr "Dit is het standaardlettertype voor alle H3-tags van uw website."
+
+#: inc/redux-framework/options-init.php:385
+msgid "H4"
+msgstr "H4"
+
+#: inc/redux-framework/options-init.php:386
+msgid "This will be the default font for all H4 tags of your website."
+msgstr "Dit is het standaardlettertype voor alle H4-tags van uw website."
+
+#: inc/redux-framework/options-init.php:413
+msgid "H5"
+msgstr "H5"
+
+#: inc/redux-framework/options-init.php:414
+msgid "This will be the default font for all H5 tags of your website."
+msgstr "Dit is het standaardlettertype voor alle H5-tags van uw website."
+
+#: inc/redux-framework/options-init.php:441
+msgid "H6"
+msgstr "H6"
+
+#: inc/redux-framework/options-init.php:442
+msgid "This will be the default font for all H6 tags of your website."
+msgstr "Dit is het standaardlettertype voor alle H6-tags van uw website."
+
+#: inc/redux-framework/options-init.php:471
+msgid "Custom Slug"
+msgstr "Aangepaste slak"
+
+#: inc/redux-framework/options-init.php:480
+msgid "Change Custom Post Type Slug"
+msgstr "Wijzig Aangepast berichttype Slug"
+
+#: inc/redux-framework/options-init.php:488
+#: inc/redux-framework/options-init.php:2673
+#: inc/redux-framework/options-init.php:2685
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: inc/redux-framework/options-init.php:489
+#: inc/redux-framework/options-init.php:497
+msgid ""
+"The slug name cannot be the same as a page name. Make sure to regenerate "
+"permalinks, after making changes."
+msgstr ""
+"De slug-naam kan niet hetzelfde zijn als een paginanaam. Zorg ervoor dat u "
+"permalinks regenereert na het aanbrengen van wijzigingen."
+
+#: inc/redux-framework/options-init.php:496
+msgid "Team"
+msgstr "Team"
+
+#: inc/redux-framework/options-init.php:507
+msgid "Preloader"
+msgstr "preloader"
+
+#: inc/redux-framework/options-init.php:516
+msgid "Preloader Options"
+msgstr "Preloader-opties"
+
+#: inc/redux-framework/options-init.php:526
+msgid "Activate Preloader"
+msgstr "Activeer Preloader"
+
+#: inc/redux-framework/options-init.php:527
+msgid "Choose if want to activate Preloader or not."
+msgstr "Kies of u Preloader wilt activeren of niet."
+
+#: inc/redux-framework/options-init.php:528
+#: inc/redux-framework/options-init.php:995
+#: inc/redux-framework/options-init.php:1063
+#: inc/redux-framework/options-init.php:1131
+#: inc/redux-framework/options-init.php:1493
+#: inc/redux-framework/options-init.php:1543
+#: inc/redux-framework/options-init.php:2090
+#: inc/redux-framework/options-init.php:3478
+#: inc/redux-framework/options-init.php:3589
+#: inc/redux-framework/options-init.php:3644
+#: inc/redux-framework/options-init.php:3724
+msgid "Yes"
+msgstr "Ja"
+
+#: inc/redux-framework/options-init.php:529
+#: inc/redux-framework/options-init.php:996
+#: inc/redux-framework/options-init.php:1064
+#: inc/redux-framework/options-init.php:1132
+#: inc/redux-framework/options-init.php:1494
+#: inc/redux-framework/options-init.php:1544
+#: inc/redux-framework/options-init.php:2091
+#: inc/redux-framework/options-init.php:3479
+#: inc/redux-framework/options-init.php:3590
+#: inc/redux-framework/options-init.php:3645
+#: inc/redux-framework/options-init.php:3725
+msgid "No"
+msgstr "Nee"
+
+#: inc/redux-framework/options-init.php:537
+msgid "Preloader Style"
+msgstr "Preloader Stijl"
+
+#: inc/redux-framework/options-init.php:538
+msgid "Select Style of the Preloader. (Powered By: \"SpinKit\")"
+msgstr "Selecteer de stijl van de Preloader. (Mogelijk gemaakt door: \"SpinKit\")"
+
+#: inc/redux-framework/options-init.php:566
+msgid "Preloader Background Color"
+msgstr "Preloader achtergrondkleur"
+
+#: inc/redux-framework/options-init.php:567
+msgid "Pick a background color for the Preloader."
+msgstr "Kies een achtergrondkleur voor de Preloader."
+
+#: inc/redux-framework/options-init.php:588
+msgid "Preloader Color"
+msgstr "Preloader Kleur"
+
+#: inc/redux-framework/options-init.php:589
+msgid "Pick a color for the Preloader."
+msgstr "Kies een kleur voor de Preloader."
+
+#: inc/redux-framework/options-init.php:610
+msgid "Preloader Timeout"
+msgstr "Preloader Time-out"
+
+#: inc/redux-framework/options-init.php:611
+msgid ""
+"Select preloader timeout after successful page load. Min is 100ms, Max is "
+"3000ms and Default is 500ms."
+msgstr ""
+"Selecteer de time-out van de preloader na het succesvol laden van de pagina. "
+"Min is 100ms, Max is 3000ms en Standaard is 500ms."
+
+#: inc/redux-framework/options-init.php:632
+msgid "Header"
+msgstr "hoofd"
+
+#: inc/redux-framework/options-init.php:648
+#: inc/redux-framework/options-init.php:658
+msgid "Header Style"
+msgstr "Header Style"
+
+#: inc/redux-framework/options-init.php:659
+msgid "Select Header Style (Header will be changed as per selection)."
+msgstr "Selecteer Header Style (Header wordt gewijzigd als per selectie)."
+
+#: inc/redux-framework/options-init.php:662
+#: inc/redux-framework/options-init.php:1899
+msgid "Style One"
+msgstr "Style One"
+
+#: inc/redux-framework/options-init.php:666
+#: inc/redux-framework/options-init.php:1903
+msgid "Style Two"
+msgstr "Stijl twee"
+
+#: inc/redux-framework/options-init.php:670
+#: inc/redux-framework/options-init.php:1907
+msgid "Style Three"
+msgstr "Stijl Drie"
+
+#: inc/redux-framework/options-init.php:674
+#: inc/redux-framework/options-init.php:1911
+msgid "Style Four"
+msgstr "Stijl Vier"
+
+#: inc/redux-framework/options-init.php:678
+msgid "Style Five"
+msgstr "Stijl vijf"
+
+#: inc/redux-framework/options-init.php:682
+msgid "Style Six"
+msgstr "Style Six"
+
+#: inc/redux-framework/options-init.php:693
+msgid "Header Top"
+msgstr "Header Top"
+
+#: inc/redux-framework/options-init.php:725
+msgid "Top Bar Color"
+msgstr "Header Top"
+
+#: inc/redux-framework/options-init.php:726
+msgid ""
+"Applies for header top bar. (Applicable for Header \"Style One\" and \"Style "
+"Three\")"
+msgstr ""
+"Geldt voor de koptekstbalk. (Toepasbaar voor Header \"Style One\" en \"Style "
+"Three\")"
+
+#: inc/redux-framework/options-init.php:765
+msgid "Header Main"
+msgstr "Header Main"
+
+#: inc/redux-framework/options-init.php:772
+msgid "Main Header Color"
+msgstr "Hoofdkleur hoofd"
+
+#: inc/redux-framework/options-init.php:773
+msgid ""
+"Applies for main header. (Applicable for Header Main section only. You can "
+"change any stuff inside with \"Custom CSS\")"
+msgstr ""
+"Geldt voor hoofdkop. (Alleen van toepassing op de kop Hoofd sectie. Je kunt "
+"alle dingen binnenin wijzigen met \"Aangepaste CSS\")"
+
+#: inc/redux-framework/options-init.php:787
+msgid "Main Header Border Color"
+msgstr "Hoofdkleur randkleur"
+
+#: inc/redux-framework/options-init.php:788
+msgid "Applies for main header border. (Applicable for Header \"Style Two\")"
+msgstr "Geldt voor de hoofdkopregelrand. (Geldt voor Header \"Style Two\")"
+
+#: inc/redux-framework/options-init.php:829
+msgid "Menu Typography"
+msgstr "Menu Typografie"
+
+#: inc/redux-framework/options-init.php:830
+msgid ""
+"Typography options for Menu. (Please Note: If you are using Max Mega Menu "
+"for creating menus, then this option will not work. You have to set fonts "
+"from Max Mega Menu Plugin.)"
+msgstr ""
+"Typografie-opties voor Menu. (Let op: als u het Max Mega Menu gebruikt voor "
+"het maken van menu's, werkt deze optie niet. U moet lettertypen instellen in "
+"de Max Mega Menu Plug-in.)"
+
+#: inc/redux-framework/options-init.php:873
+msgid "Menu Hover/Selected Color"
+msgstr "Menu-aanwijzer / geselecteerde kleur"
+
+#: inc/redux-framework/options-init.php:874
+msgid ""
+"Applies for all menu items. (Please Note: If you are using Max Mega Menu for "
+"creating menus, then this option will not work. You have to set hover/"
+"selected color from Max Mega Menu Plugin.)"
+msgstr ""
+"Geldt voor alle menu-items. (Let op: als u het Max Mega Menu gebruikt voor "
+"het maken van menu's, werkt deze optie niet. U moet de hover / geselecteerde "
+"kleur instellen via de Max Mega Menu Plug-in.)"
+
+#: inc/redux-framework/options-init.php:905
+msgid "Header Contact Zone"
+msgstr "Header Contact Zone"
+
+#: inc/redux-framework/options-init.php:939
+msgid "Contact Info Typography"
+msgstr "Contactinfo Typografie"
+
+#: inc/redux-framework/options-init.php:940
+msgid "Typography options for Contact Info."
+msgstr "Typografie-opties voor contactinformatie."
+
+#: inc/redux-framework/options-init.php:993
+msgid "Display Main Header Address"
+msgstr "Geef het adres van de hoofdkop weer"
+
+#: inc/redux-framework/options-init.php:994
+msgid "Choose if the Main Header Address will be displayed or not."
+msgstr "Kies of het adres van de hoofdkop wel of niet wordt weergegeven."
+
+#: inc/redux-framework/options-init.php:1031
+msgid "Address Label"
+msgstr "Address Label"
+
+#: inc/redux-framework/options-init.php:1032
+msgid "Our Location"
+msgstr "onze locatie"
+
+#: inc/redux-framework/options-init.php:1046
+msgid "Address"
+msgstr "Adres"
+
+#: inc/redux-framework/options-init.php:1047
+msgid "Shirley Ave. Chicago, IL 60185"
+msgstr "Shirley Ave. Chicago, IL 60185"
+
+#: inc/redux-framework/options-init.php:1061
+msgid "Display Main Header Meeting Time"
+msgstr "Toont de Meeting Meeting Time Main Header"
+
+#: inc/redux-framework/options-init.php:1062
+msgid "Choose if the Main Header Meeting Time will be displayed or not."
+msgstr "Kies of de Meeting Meeting Time van de hoofdtekst wordt weergegeven of niet."
+
+#: inc/redux-framework/options-init.php:1099
+msgid "Meeting Time Label"
+msgstr "Meeting Time Label"
+
+#: inc/redux-framework/options-init.php:1100
+#: inc/redux-framework/options-init.php:1114
+msgid "Meeting Time"
+msgstr "Ontmoetingstijd"
+
+#: inc/redux-framework/options-init.php:1115
+msgid "Mon-Fri 09:00 - 17:00"
+msgstr "Ma-vr 09:00 - 17:00 uur"
+
+#: inc/redux-framework/options-init.php:1129
+msgid "Display \"Schedule a Callback Button\" in the Main Header"
+msgstr "Geef 'Schedule a Callback Button' weer in de hoofdkop"
+
+#: inc/redux-framework/options-init.php:1130
+msgid ""
+"Choose if the \"Schedule a Callback Button\" will be displayed or not in the "
+"Main Header."
+msgstr ""
+"Kies of de knop \"Een terugbelknop plannen\" al dan niet in de hoofdkop "
+"wordt weergegeven."
+
+#: inc/redux-framework/options-init.php:1167
+msgid "Button Label"
+msgstr "Knoplabel"
+
+#: inc/redux-framework/options-init.php:1168
+msgid "Schedule a Callback"
+msgstr "Plan een terugbelopdracht"
+
+#: inc/redux-framework/options-init.php:1182
+msgid "Button Link"
+msgstr "Knop Link"
+
+#: inc/redux-framework/options-init.php:1198
+#: inc/redux-framework/options-init.php:2281
+msgid "Button Typography"
+msgstr "Knop typografie"
+
+#: inc/redux-framework/options-init.php:1199
+msgid ""
+"Typography options for buttons. Remember, this will effect all buttons of "
+"this theme."
+msgstr ""
+"Typografie-opties voor knoppen. Vergeet niet dat dit alle knoppen van dit "
+"thema zal beïnvloeden."
+
+#: inc/redux-framework/options-init.php:1231
+#: inc/redux-framework/options-init.php:2307
+msgid "Hover Font Color"
+msgstr "Hover lettertypekleur"
+
+#: inc/redux-framework/options-init.php:1249
+#: inc/redux-framework/options-init.php:1963
+#: inc/redux-framework/options-init.php:2005
+#: inc/redux-framework/options-init.php:2045
+#: inc/redux-framework/options-init.php:2172
+msgid "Background Color"
+msgstr "Achtergrond kleur"
+
+#: inc/redux-framework/options-init.php:1250
+#: inc/redux-framework/options-init.php:2173
+msgid "Pick a background color for buttons."
+msgstr "Kies een achtergrondkleur voor knoppen."
+
+#: inc/redux-framework/options-init.php:1281
+#: inc/redux-framework/options-init.php:2187
+msgid "Hover Background Color"
+msgstr "Achtergrondkleur zweven"
+
+#: inc/redux-framework/options-init.php:1282
+#: inc/redux-framework/options-init.php:2188
+msgid "Pick a background color for buttons hover."
+msgstr "Kies een achtergrondkleur voor knoppen zweven."
+
+#: inc/redux-framework/options-init.php:1313
+#: inc/redux-framework/options-init.php:2202
+msgid "Border"
+msgstr "Grens"
+
+#: inc/redux-framework/options-init.php:1338
+#: inc/redux-framework/options-init.php:2220
+msgid "Hover Border Color"
+msgstr "Kleur van rand zweven"
+
+#: inc/redux-framework/options-init.php:1366
+msgid "Header Nav Bar"
+msgstr "Header Nav Bar"
+
+#: inc/redux-framework/options-init.php:1380
+msgid "Nav Bar Color"
+msgstr "Navbar-kleur"
+
+#: inc/redux-framework/options-init.php:1381
+msgid "Applies for header nav bar"
+msgstr "Geldt voor de navigatiebalk van de koptekst"
+
+#: inc/redux-framework/options-init.php:1405
+msgid "Mobile Menu Settings"
+msgstr "Mobiele menu-instellingen"
+
+#: inc/redux-framework/options-init.php:1429
+msgid "Select Mobile Menu Displace"
+msgstr "Selecteer Mobile Menu verplaatsen"
+
+#: inc/redux-framework/options-init.php:1430
+msgid "Select the Mobile Menu displace for mobile menu"
+msgstr "Selecteer het mobiele menu verplaatsen voor mobiele menu"
+
+#: inc/redux-framework/options-init.php:1462
+msgid "Sticky Settings"
+msgstr "Sticky instellingen"
+
+#: inc/redux-framework/options-init.php:1491
+msgid "Sticky Header Menu"
+msgstr "Sticky Header-menu"
+
+#: inc/redux-framework/options-init.php:1492
+msgid ""
+"Choose if you want the Header Menu to be \"Sticky\" or not. (Applicable for "
+"Header \"Style One\" and \"Style Three\")"
+msgstr ""
+"Kies of u wilt dat het kopmenu kleverig is of niet. (Toepasbaar voor Header "
+"\"Style One\" en \"Style Three\")"
+
+#: inc/redux-framework/options-init.php:1527
+msgid "Search Settings"
+msgstr "Zoek instellingen"
+
+#: inc/redux-framework/options-init.php:1541
+msgid "Display Search"
+msgstr "Toon Zoeken"
+
+#: inc/redux-framework/options-init.php:1542
+msgid "Choose if you want \"Search\" option in header or not."
+msgstr "Kies of u de optie \"Zoeken\" in de kop wilt of niet."
+
+#: inc/redux-framework/options-init.php:1559
+msgid "Select Search Style"
+msgstr "Selecteer zoekstijl"
+
+#: inc/redux-framework/options-init.php:1560
+msgid "Select Style of the \"Search\"."
+msgstr "Selecteer Stijl van de \"Zoeken\"."
+
+#: inc/redux-framework/options-init.php:1579
+msgid "Choose Search Background Color"
+msgstr "Kies Achtergrondkleur zoeken"
+
+#: inc/redux-framework/options-init.php:1580
+msgid "Applies only for \"Flyout Search\"."
+msgstr "Geldt alleen voor \"Fly-out zoeken\"."
+
+#: inc/redux-framework/options-init.php:1602
+msgid "Header Contact Information"
+msgstr "Header Contactgegevens"
+
+#: inc/redux-framework/options-init.php:1623
+msgid "Enter Email ID"
+msgstr "Voer e-mail-ID in"
+
+#: inc/redux-framework/options-init.php:1624
+msgid "info@example.com"
+msgstr "info@example.com"
+
+#: inc/redux-framework/options-init.php:1644
+msgid "Enter Phone Number"
+msgstr "Voer telefoonnummer in"
+
+#: inc/redux-framework/options-init.php:1645
+msgid "(888) 123-4567"
+msgstr "(888) 123-4567"
+
+#: inc/redux-framework/options-init.php:1666
+#: inc/redux-framework/options-init.php:1678
+msgid "Inner Page Banner"
+msgstr "Binnenpagina Banner"
+
+#: inc/redux-framework/options-init.php:1685
+msgid "Inner Page Banner Background"
+msgstr "Binnenpagina Banner Achtergrond"
+
+#: inc/redux-framework/options-init.php:1686
+msgid ""
+"Set Background for Inner Page Banner. (Please Note: This is the default "
+"image of Inner Page Banner section. You can change background image on "
+"respective pages.)"
+msgstr ""
+"Achtergrond instellen voor binnenpagina-spandoek. (Let op: dit is de "
+"standaard afbeelding van de sectie Binnenpagina Banner.) U kunt de "
+"achtergrondafbeelding op de respectievelijke pagina's wijzigen.)"
+
+#: inc/redux-framework/options-init.php:1702
+msgid "Inner Page Banner Border Bottom"
+msgstr "Binnenscherm binnenrand grens"
+
+#: inc/redux-framework/options-init.php:1703
+msgid "Set Border Bottom for Inner Page Banner."
+msgstr "Grensbodem instellen voor banner voor binnenpagina."
+
+#: inc/redux-framework/options-init.php:1719
+msgid "Inner Page Banner Padding"
+msgstr "Binnendringing binnenpagina"
+
+#: inc/redux-framework/options-init.php:1739
+msgid "Inner Page Banner Title Font"
+msgstr "Binnentekst lettertype binnenpagina"
+
+#: inc/redux-framework/options-init.php:1740
+msgid "This will be the default font of your inner page banner title."
+msgstr "Dit is het standaardlettertype van de titel van je binnenpagina-banner."
+
+#: inc/redux-framework/options-init.php:1766
+msgid "Inner Page Banner Subtitle Font"
+msgstr "Binnendringvinkje voor binnenpagina"
+
+#: inc/redux-framework/options-init.php:1767
+msgid "This will be the default font of your inner page banner subtitle."
+msgstr "Dit is het standaardlettertype van de ondertitel van je binnenpagina."
+
+#: inc/redux-framework/options-init.php:1793
+msgid "Inner Page Banner Alignment"
+msgstr "Binnenspatie op de binnenpagina"
+
+#: inc/redux-framework/options-init.php:1807
+#: inc/redux-framework/options-init.php:1819
+msgid "Breadcrumb"
+msgstr "Breadcrumb"
+
+#: inc/redux-framework/options-init.php:1826
+msgid "Breadcrumb Arrow Style"
+msgstr "Breadcrumb Pijlstijl"
+
+#: inc/redux-framework/options-init.php:1827
+msgid "Select an icon for breadcrumb arrow."
+msgstr "Selecteer een pictogram voor breadcrumb pijl."
+
+#: inc/redux-framework/options-init.php:1836
+msgid "Inner Page Banner Breadcrumb Font"
+msgstr "Binnenpagina Banner Breadcrumb doopvont"
+
+#: inc/redux-framework/options-init.php:1837
+msgid "This will be the default font of your Inner Page Banner Breadcrumb."
+msgstr "Dit wordt het standaardlettertype van uw binnenpagina-banner Breadcrumb."
+
+#: inc/redux-framework/options-init.php:1863
+msgid "Breadcrumb Alignment"
+msgstr "Breadcrumb opstelling"
+
+#: inc/redux-framework/options-init.php:1888
+#: inc/redux-framework/options-init.php:1895
+msgid "Footer Style"
+msgstr "Voettekststijl"
+
+#: inc/redux-framework/options-init.php:1896
+msgid "Select footer style"
+msgstr "Selecteer de footer-stijl"
+
+#: inc/redux-framework/options-init.php:1922
+msgid "Footer Background"
+msgstr "Voettekst achtergrond"
+
+#: inc/redux-framework/options-init.php:1923
+msgid "Set Background for Footer."
+msgstr "Achtergrond instellen voor voettekst."
+
+#: inc/redux-framework/options-init.php:1939
+msgid "Footer Navigation"
+msgstr "Voettekst navigatie"
+
+#: inc/redux-framework/options-init.php:1964
+msgid "Pick a background color for the Footer Navigation."
+msgstr "Kies een achtergrondkleur voor de voettekstnavigatie."
+
+#: inc/redux-framework/options-init.php:1998
+msgid "Footer Main"
+msgstr "Voettekst Main"
+
+#: inc/redux-framework/options-init.php:2006
+msgid "Pick a background color for the Footer Main Section."
+msgstr "Kies een achtergrondkleur voor het hoofdgedeelte van de voettekst."
+
+#: inc/redux-framework/options-init.php:2020
+msgid "Border Bottom"
+msgstr "Rand onder"
+
+#: inc/redux-framework/options-init.php:2021
+msgid "Set Border Bottom for Footer Main section."
+msgstr "Grensbodem instellen voor voettekst Hoofdgedeelte."
+
+#: inc/redux-framework/options-init.php:2038
+msgid "Footer Copyright"
+msgstr "Voettekst Auteursrecht"
+
+#: inc/redux-framework/options-init.php:2046
+msgid "Pick a background color for the Footer Copyright Background."
+msgstr "Kies een achtergrondkleur voor de Footer Copyright-achtergrond."
+
+#: inc/redux-framework/options-init.php:2060
+msgid "Copyright Text"
+msgstr "Copyright Tekst"
+
+#: inc/redux-framework/options-init.php:2061
+msgid "Enter Copyright Text"
+msgstr "invoeren Copyright Text"
+
+#: inc/redux-framework/options-init.php:2062
+msgid "&copy; All Rights Reserved"
+msgstr "&copy; Alle rechten voorbehouden"
+
+#: inc/redux-framework/options-init.php:2071
+msgid "Elements"
+msgstr "Elements"
+
+#: inc/redux-framework/options-init.php:2078
+msgid "Scroll Bar"
+msgstr "Scroll Bar"
+
+#: inc/redux-framework/options-init.php:2088
+msgid "Active Custom Scrollbar"
+msgstr "Actieve aangepaste schuifbalk"
+
+#: inc/redux-framework/options-init.php:2089
+msgid ""
+"Choose if Custom Scrollbar will be activate or not. (Please Note: This will "
+"take effect on infinity scroll areas but not for entire website.)"
+msgstr ""
+"Kies of de aangepaste schuifbalk geactiveerd is of niet. (Let op: dit wordt "
+"van kracht op gebieden met oneindig scrollen maar niet op hele websites.)"
+
+#: inc/redux-framework/options-init.php:2099
+msgid "Scroll Bar Color"
+msgstr "Schuifbalkkleur"
+
+#: inc/redux-framework/options-init.php:2100
+msgid "Pick a color for Scroll Bar."
+msgstr "Kies een kleur voor de schuifbalk."
+
+#: inc/redux-framework/options-init.php:2120
+msgid "Scroll Bar Width"
+msgstr "Schuifbalkbreedte"
+
+#: inc/redux-framework/options-init.php:2121
+msgid "Set width for Scroll Bar."
+msgstr "Breedte instellen voor schuifbalk."
+
+#: inc/redux-framework/options-init.php:2141
+msgid "Button"
+msgstr "Button"
+
+#: inc/redux-framework/options-init.php:2154
+msgid "Button Padding"
+msgstr "Button vulling"
+
+#: inc/redux-framework/options-init.php:2155
+msgid "Allow padding for buttons."
+msgstr "Toestaan vulling voor buttons."
+
+#: inc/redux-framework/options-init.php:2241
+msgid "Border Radius"
+msgstr "Border Radius"
+
+#: inc/redux-framework/options-init.php:2242
+msgid "Users can change the Border Radius for Buttons."
+msgstr "Gebruikers kunnen de Border Radius voor Buttons."
+
+#: inc/redux-framework/options-init.php:2257
+msgid "Theme Button Box Shadow"
+msgstr "Thema Button Box Shadow"
+
+#: inc/redux-framework/options-init.php:2282
+msgid ""
+"Typography options for buttons. Remember, this will effect all buttons of "
+"this theme. (Please Note: This change will effect all theme buttons, "
+"including Radiants Buttons, Radiant Contact Form Button, Radiant Fancy Text "
+"Box Button.)"
+msgstr ""
+"Typografie-opties voor knoppen. Houd er rekening mee dat dit alle knoppen "
+"van dit thema beïnvloedt. (Let op: deze wijziging is van invloed op alle "
+"themaknoppen, inclusief Radiant Knoppen, knop Radiant Contactformulier, "
+"Radiant Fancy Text Box Button.)"
+
+#: inc/redux-framework/options-init.php:2308
+msgid "Select button hover font color."
+msgstr "kiezen button hover lettertype kleur."
+
+#: inc/redux-framework/options-init.php:2319
+msgid "Icon Color"
+msgstr "Pictogramkleur"
+
+#: inc/redux-framework/options-init.php:2320
+#: inc/redux-framework/options-init.php:2335
+msgid "Applies only if Icon is present"
+msgstr "Geldt alleen als het pictogram aanwezig is"
+
+#: inc/redux-framework/options-init.php:2334
+msgid "Hover Icon Color"
+msgstr "Hover Icon Color"
+
+#: inc/redux-framework/options-init.php:2351
+msgid "Contact Form"
+msgstr "Contact Form"
+
+#: inc/redux-framework/options-init.php:2362
+msgid "Height Option for Input Fields"
+msgstr "Hoogte Optie voor Input Fields"
+
+#: inc/redux-framework/options-init.php:2363
+msgid "Users can change height for Input Fields."
+msgstr "Gebruikers kunnen de hoogte wijzigen voor Input Fields."
+
+#: inc/redux-framework/options-init.php:2380
+msgid "Height Option for Textarea Fields"
+msgstr "Hoogte Optie voor Textarea Fields"
+
+#: inc/redux-framework/options-init.php:2381
+msgid "Users can change height for Textarea Fields."
+msgstr "Gebruikers kunnen de hoogte wijzigen voor Textarea Fields."
+
+#: inc/redux-framework/options-init.php:2400
+msgid "Padding For Input Fields Focus"
+msgstr "Opvulling voor Input Fields Focus"
+
+#: inc/redux-framework/options-init.php:2401
+msgid "Users can change padding for input fields focus."
+msgstr "Gebruikers kunnen de opvulling wijzigen voor input fields focus."
+
+#: inc/redux-framework/options-init.php:2418
+msgid "Box Shadow For Input Fields"
+msgstr "Box Shadow For Input Fields"
+
+#: inc/redux-framework/options-init.php:2419
+msgid "Users can change the Box Shadow for input fields."
+msgstr "Gebruikers kunnen de doosschaduw wijzigen for input fields."
+
+#: inc/redux-framework/options-init.php:2444
+msgid "Our Story"
+msgstr "Ons verhaal"
+
+#: inc/redux-framework/options-init.php:2453
+#: inc/redux-framework/options-init.php:2692
+msgid "Theme Color"
+msgstr "Thema kleur"
+
+#: inc/redux-framework/options-init.php:2466
+msgid "Accordion"
+msgstr "Accordion"
+
+#: inc/redux-framework/options-init.php:2474
+msgid "Style One Background Color"
+msgstr "Stijl een achtergrondkleur"
+
+#: inc/redux-framework/options-init.php:2488
+msgid "Style One Font Title Color"
+msgstr "Style One Kleur van de font title"
+
+#: inc/redux-framework/options-init.php:2498
+msgid "Style Two Icon Background Color"
+msgstr "Stijl twee  Pictogram achtergrondkleur"
+
+#: inc/redux-framework/options-init.php:2509
+msgid "Style Two Icon Active Background Color"
+msgstr "Stijl twee pictogram Actieve achtergrondkleur"
+
+#: inc/redux-framework/options-init.php:2520
+#: inc/redux-framework/options-init.php:2841
+msgid "Style Three Title Color"
+msgstr "Stijl drie titel kleur"
+
+#: inc/redux-framework/options-init.php:2530
+msgid "Style Four Active Title Color"
+msgstr "Stijl voor actieve titel kleur"
+
+#: inc/redux-framework/options-init.php:2542
+msgid "Fancy Text Box"
+msgstr "Fancy Text Box"
+
+#: inc/redux-framework/options-init.php:2551
+msgid "Icon & Text Color"
+msgstr "Pictogram & tekstkleur"
+
+#: inc/redux-framework/options-init.php:2564
+msgid "Pricing Table"
+msgstr "Pricing Table"
+
+#: inc/redux-framework/options-init.php:2575
+msgid "Pricing Table Style One"
+msgstr "Pricing Table Style One"
+
+#: inc/redux-framework/options-init.php:2582
+msgid "Style One Theme Color"
+msgstr "Style One Theme Color"
+
+#: inc/redux-framework/options-init.php:2592
+msgid "Style One Theme Alternative Color"
+msgstr "Style One Thema Alternatieve kleur"
+
+#: inc/redux-framework/options-init.php:2603
+msgid "Style One Data Font Color"
+msgstr "Style One Data Font Color"
+
+#: inc/redux-framework/options-init.php:2621
+msgid "Pricing Table Style Two"
+msgstr "Prijzen tabelstijl twee"
+
+#: inc/redux-framework/options-init.php:2628
+msgid "Style Two Theme Color"
+msgstr "StyleTwo-thema kleur"
+
+#: inc/redux-framework/options-init.php:2639
+msgid "Style Two Theme Alternative Color"
+msgstr "StyleTwo-thema Alternatieve kleur"
+
+#: inc/redux-framework/options-init.php:2653
+msgid "Pricing Table Style Three"
+msgstr "Pricing Table Stijl Drie"
+
+#: inc/redux-framework/options-init.php:2660
+msgid "Style Three Theme Color"
+msgstr "Stijl Drie Thema kleur"
+
+#: inc/redux-framework/options-init.php:2704
+msgid "Testimonial"
+msgstr "Testimonial"
+
+#: inc/redux-framework/options-init.php:2715
+msgid "Testimonial Style One"
+msgstr "Testimonial Style One"
+
+#: inc/redux-framework/options-init.php:2722
+msgid "Style One Title Color"
+msgstr "Style One Titel Kleur"
+
+#: inc/redux-framework/options-init.php:2736
+msgid "Style One Subtitle Color"
+msgstr "Style One Subtitle Color"
+
+#: inc/redux-framework/options-init.php:2750
+msgid "Style One Content Background"
+msgstr "Style One Content Background"
+
+#: inc/redux-framework/options-init.php:2765
+msgid "Style One Content Color"
+msgstr "Style One Content Color"
+
+#: inc/redux-framework/options-init.php:2782
+msgid "Testimonial Style Two"
+msgstr "Testimonial Stijl twee"
+
+#: inc/redux-framework/options-init.php:2789
+msgid "Style Two Title Color"
+msgstr "Stijl Twee titel kleur"
+
+#: inc/redux-framework/options-init.php:2803
+msgid "Style Two Content Color"
+msgstr "Stijl twee Inhoudskleur"
+
+#: inc/redux-framework/options-init.php:2817
+msgid "Style Two Social Icon Color"
+msgstr "Stijl twee sociale pictogram kleur"
+
+#: inc/redux-framework/options-init.php:2834
+msgid "Testimonial Style Three"
+msgstr "Testimonial Stijl Drie"
+
+#: inc/redux-framework/options-init.php:2855
+msgid "Style Three Content Color"
+msgstr "Stijl Drie  Inhoudskleur"
+
+#: inc/redux-framework/options-init.php:2869
+msgid "Style Three Rating Star Color"
+msgstr "Stijl Drie Beoordeling Star Color"
+
+#: inc/redux-framework/options-init.php:2886
+msgid "Testimonial Style Four"
+msgstr "Testimonial Stijl Vier"
+
+#: inc/redux-framework/options-init.php:2893
+msgid "Style Four Title Color"
+msgstr "Stijl voor titelkleur"
+
+#: inc/redux-framework/options-init.php:2907
+msgid "Style Four Content Background"
+msgstr "Stijl voor inhoud achtergrond"
+
+#: inc/redux-framework/options-init.php:2921
+msgid "Style Four Content Color"
+msgstr "Stijl voor inhoudskleur"
+
+#: inc/redux-framework/options-init.php:2935
+msgid "Style Four Rating Star Color"
+msgstr "Stijl Vier Beoordeling Star Color"
+
+#: inc/redux-framework/options-init.php:2952
+msgid "Testimonial Style Five"
+msgstr "Testimonial Stijl vijf"
+
+#: inc/redux-framework/options-init.php:2959
+msgid "Style Five Title Color"
+msgstr "Stijl vijf titelkleur"
+
+#: inc/redux-framework/options-init.php:2973
+msgid "Style Five Subtitle Color"
+msgstr "Stijl vijf kleur ondertitels"
+
+#: inc/redux-framework/options-init.php:2987
+msgid "Style Five Content Background"
+msgstr "Stijl vijf inhoud achtergrond"
+
+#: inc/redux-framework/options-init.php:3001
+msgid "Style Five Content Color"
+msgstr "Stijl Vijf Inhoud Kleur"
+
+#: inc/redux-framework/options-init.php:3018
+msgid "Testimonial Style Six"
+msgstr "Testimonial Stijl Zes"
+
+#: inc/redux-framework/options-init.php:3025
+msgid "Style Six Title Color"
+msgstr "Stijl Zes titelkleur"
+
+#: inc/redux-framework/options-init.php:3039
+msgid "Style Six Content Color"
+msgstr "Stijl Zes Content Color"
+
+#: inc/redux-framework/options-init.php:3056
+msgid "Testimonial Style Seven"
+msgstr "Testimonial Stijl Zeven"
+
+#: inc/redux-framework/options-init.php:3063
+msgid "Style Seven Title Color"
+msgstr "Stijl Zeven Titel kleur"
+
+#: inc/redux-framework/options-init.php:3077
+msgid "Style Seven Subtitle Color"
+msgstr "Stijl Zeven Kleur ondertitels"
+
+#: inc/redux-framework/options-init.php:3091
+msgid "Style Seven Content Color"
+msgstr "Stijl Zeven Inhoudskleur"
+
+#: inc/redux-framework/options-init.php:3105
+msgid "Style Seven Rating Star Color"
+msgstr "Stijl Zeven Beoordeling Star Color"
+
+#: inc/redux-framework/options-init.php:3122
+msgid "Testimonial Style Eight"
+msgstr "Testimonial Stijl Acht"
+
+#: inc/redux-framework/options-init.php:3129
+msgid "Style Eight Title Color"
+msgstr "Stijl Acht titelkleur"
+
+#: inc/redux-framework/options-init.php:3143
+msgid "Style Eight Subtitle Color"
+msgstr "Stijl acht kleur van ondertitels"
+
+#: inc/redux-framework/options-init.php:3157
+msgid "Style Eight Content Background"
+msgstr "Stijl Acht inhoud achtergrond"
+
+#: inc/redux-framework/options-init.php:3171
+msgid "Style Eight Content Color"
+msgstr "Stijl Acht inhoudskleur"
+
+#: inc/redux-framework/options-init.php:3188
+msgid "Testimonial Style Nine"
+msgstr "Testimonial Stijl Negen"
+
+#: inc/redux-framework/options-init.php:3195
+msgid "Style Nine Title Color"
+msgstr "Stijl Negen titel kleur"
+
+#: inc/redux-framework/options-init.php:3209
+msgid "Style Nine Subtitle Color"
+msgstr "Stijl Negen Kleur van ondertitels"
+
+#: inc/redux-framework/options-init.php:3223
+msgid "Style Nine Content Background"
+msgstr "Stijl negen inhoud achtergrond"
+
+#: inc/redux-framework/options-init.php:3237
+msgid "Style Nine Content Color"
+msgstr "Stijl Negen inhoudskleur"
+
+#: inc/redux-framework/options-init.php:3254
+msgid "Testimonial Style Ten"
+msgstr "Testimonial Stijl tien"
+
+#: inc/redux-framework/options-init.php:3261
+msgid "Style Ten Title Color"
+msgstr "Stijl tien titelkleur"
+
+#: inc/redux-framework/options-init.php:3275
+msgid "Style Ten Subtitle Color"
+msgstr "Stijl tien Kleur van ondertitels"
+
+#: inc/redux-framework/options-init.php:3289
+msgid "Style Ten Separator Color"
+msgstr "Stijl tien scheidingskleur"
+
+#: inc/redux-framework/options-init.php:3303
+msgid "Style Ten Content Color"
+msgstr "Stijl tien Inhoudskleur"
+
+#: inc/redux-framework/options-init.php:3319
+msgid "Event Calendar"
+msgstr "Event Calendar"
+
+#: inc/redux-framework/options-init.php:3327
+msgid "Header Background Color for Calendar Table"
+msgstr "Achtergrondkleur koptekst voor agendatabel"
+
+#: inc/redux-framework/options-init.php:3328
+msgid "Pick a header background color for Calendar table."
+msgstr "Kies een koptekstachtergrondkleur voor de agendatabel."
+
+#: inc/redux-framework/options-init.php:3346
+msgid "Background Color for Calendar Table of Other Months"
+msgstr "Background Color for Calendar Table of Other Months"
+
+#: inc/redux-framework/options-init.php:3347
+msgid "Pick a background color for Calendar table of other months."
+msgstr "Kies een achtergrondkleur voor de agendatabel van andere maanden."
+
+#: inc/redux-framework/options-init.php:3365
+msgid "Background Color for Calendar Table of Current Month"
+msgstr "Achtergrondkleur voor agendatabel van huidige maand"
+
+#: inc/redux-framework/options-init.php:3366
+msgid "Pick a background color for Calendar table of current month."
+msgstr "Kies een achtergrondkleur voor de kalender van de huidige maand."
+
+#: inc/redux-framework/options-init.php:3384
+msgid "Hover Background Color for Calendar Table of Current Month"
+msgstr "Achtergrondkleur zweven voor agendatabel van huidige maand"
+
+#: inc/redux-framework/options-init.php:3385
+msgid "Pick a hover background color for Calendar table of current month."
+msgstr "Kies een hover-achtergrondkleur voor de agendatabel van de huidige maand."
+
+#: inc/redux-framework/options-init.php:3403
+msgid "Header Background Color for Calendar Table of Current Month"
+msgstr "Achtergrondkleur koptekst voor de kalendertabel van de huidige maand"
+
+#: inc/redux-framework/options-init.php:3404
+msgid "Pick a header background color for Calendar table of current month."
+msgstr "Kies de achtergrondkleur van een koptekst voor de agendatabel van de huidige maand."
+
+#: inc/redux-framework/options-init.php:3424
+msgid "Header Background Color for Calendar Table of Current Active Month"
+msgstr "Kop achtergrondkleur voor kalender Tabel van huidige actieve maand"
+
+#: inc/redux-framework/options-init.php:3425
+msgid ""
+"Pick a header background color for Calendar table of current active month."
+msgstr ""
+"Kies de achtergrondkleur van een koptekst voor de agendatabel van de huidige "
+"actieve maand."
+
+#: inc/redux-framework/options-init.php:3448
+msgid "Pages"
+msgstr "Pages"
+
+#: inc/redux-framework/options-init.php:3465
+msgid "Custom Background"
+msgstr "Eigen achtergrond"
+
+#: inc/redux-framework/options-init.php:3475
+msgid "Active 404 Custom Background"
+msgstr "Actieve 404 aangepaste achtergrond"
+
+#: inc/redux-framework/options-init.php:3476
+msgid "Choose if want a custom background for 404 page."
+msgstr "Kies of u een aangepaste achtergrond wilt voor een 404-pagina."
+
+#: inc/redux-framework/options-init.php:3487
+msgid "404 Page Background"
+msgstr "404 Pagina-achtergrond"
+
+#: inc/redux-framework/options-init.php:3488
+msgid "Set Background for 404 Page."
+msgstr "Achtergrond instellen voor 404-pagina."
+
+#: inc/redux-framework/options-init.php:3512
+msgid "Select 404 Page Style"
+msgstr "Selecteer 404 paginastijl"
+
+#: inc/redux-framework/options-init.php:3513
+msgid "Select the 404 Page Style."
+msgstr "Selecteer de 404 paginastijl."
+
+#: inc/redux-framework/options-init.php:3532
+msgid "404 Content"
+msgstr "404 Inhoud"
+
+#: inc/redux-framework/options-init.php:3544
+msgid "404 Content Padding"
+msgstr "404 inhoud opvulling"
+
+#: inc/redux-framework/options-init.php:3564
+msgid "404 Page Body"
+msgstr "404 Paginabehuizing"
+
+#: inc/redux-framework/options-init.php:3565
+msgid "Enter content to show on 404 page body."
+msgstr "Voer inhoud in die moet worden weergegeven op de pagina van 404 pagina's."
+
+#: inc/redux-framework/options-init.php:3577
+msgid "Maintenance Mode"
+msgstr "onderhoudsstand"
+
+#: inc/redux-framework/options-init.php:3587
+msgid "Activate Maintenance Mode?"
+msgstr "Onderhoudsmodus activeren?"
+
+#: inc/redux-framework/options-init.php:3588
+msgid "Choose if want to Activate Maintenance Mode."
+msgstr "Kies of u de onderhoudsmodus wilt activeren."
+
+#: inc/redux-framework/options-init.php:3598
+#: inc/redux-framework/options-init.php:3753
+msgid "Page Background"
+msgstr "Pagina achtergrond"
+
+#: inc/redux-framework/options-init.php:3599
+msgid "Set Background for Maintenance Mode Page."
+msgstr "Achtergrond instellen voor pagina Onderhoudsmodus."
+
+#: inc/redux-framework/options-init.php:3623
+#: inc/redux-framework/options-init.php:3778
+msgid "Content Body"
+msgstr "Inhouds lichaam"
+
+#: inc/redux-framework/options-init.php:3624
+msgid "Enter content to show on Maintenance Mode page."
+msgstr "Voer de inhoud in die moet worden weergegeven op de pagina Onderhoudsmodus."
+
+#: inc/redux-framework/options-init.php:3642
+msgid "Activate Progress Bar?"
+msgstr "Progress Bar activeren?"
+
+#: inc/redux-framework/options-init.php:3643
+msgid "Choose if want to Activate Progress Bar."
+msgstr "Kies of u de voortgangsbalk wilt activeren."
+
+#: inc/redux-framework/options-init.php:3660
+msgid "Progress Bar Width"
+msgstr "Voortgangsbalk Breedte"
+
+#: inc/redux-framework/options-init.php:3661
+msgid "Select Progress Bar Width. Min is 0%, Max is 100% and Default is 30%."
+msgstr "Selecteer voortgangsbalkbreedte. Min is 0%, Max is 100% en Standaard is 30%."
+
+#: inc/redux-framework/options-init.php:3686
+msgid "Progress Bar Height"
+msgstr "Progress Bar Hoogte"
+
+#: inc/redux-framework/options-init.php:3687
+msgid "Select Progress Bar Height."
+msgstr "kiezen Progress Bar Hoogte."
+
+#: inc/redux-framework/options-init.php:3712
+msgid "Coming Soon"
+msgstr "Binnenkort beschikbaar"
+
+#: inc/redux-framework/options-init.php:3722
+msgid "Activate Coming Soon"
+msgstr "Activeren Binnenkort beschikbaar"
+
+#: inc/redux-framework/options-init.php:3723
+msgid "Choose if want to activate Coming Soon mode."
+msgstr "Kies of u de coming soon-modus wilt activeren."
+
+#: inc/redux-framework/options-init.php:3733
+msgid "Select Coming Soon Page Style"
+msgstr "Selecteer de paginastijl Binnenkort"
+
+#: inc/redux-framework/options-init.php:3734
+msgid "Select the Coming Soon Page Style."
+msgstr "Selecteer de coming soon-paginastijl."
+
+#: inc/redux-framework/options-init.php:3754
+msgid "Set Background for Coming Soon Page."
+msgstr "Achtergrond instellen voor binnenkort pagina."
+
+#: inc/redux-framework/options-init.php:3779
+msgid "Enter content to show on Coming Soon page."
+msgstr "Voer inhoud in die wordt weergegeven op de pagina Binnenkort verkrijgbaar."
+
+#: inc/redux-framework/options-init.php:3797
+msgid "Launch Date&Time"
+msgstr "Lancering Date&Time"
+
+#: inc/redux-framework/options-init.php:3798
+msgid "Enter Launch Date&Time."
+msgstr "invoeren Lancering Date&Time."
+
+#: inc/redux-framework/options-init.php:3814
+msgid "Search"
+msgstr "Zoeken"
+
+#: inc/redux-framework/options-init.php:3823
+msgid "Search Page Banner Image"
+msgstr "Beeld van spandoek zoeken"
+
+#: inc/redux-framework/options-init.php:3824
+msgid "Select search page banner image"
+msgstr "Selecteer de bannerafbeelding van de zoekpagina"
+
+#: inc/redux-framework/options-init.php:3829
+msgid "Search Page Title"
+msgstr "Titel van zoekpagina"
+
+#: inc/redux-framework/options-init.php:3830
+msgid "Enter search page banner title"
+msgstr "Voer de titel van de banner van de zoekpagina in"
+
+#: inc/redux-framework/options-init.php:3838
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/redux-framework/options-init.php:3845
+#: inc/redux-framework/options-init.php:3872
+msgid "Blog Layout"
+msgstr "Blog lay-out"
+
+#: inc/redux-framework/options-init.php:3852
+msgid "Blog Style"
+msgstr "Blog Stijl"
+
+#: inc/redux-framework/options-init.php:3853
+msgid "Select blog style"
+msgstr "kiezen blog stijl"
+
+#: inc/redux-framework/options-init.php:3873
+msgid "Select blog layout"
+msgstr "kiezen blog lay-out"
+
+#: inc/redux-framework/options-init.php:3896
+msgid "Blog Options"
+msgstr "Blog opties"
+
+#: inc/redux-framework/options-init.php:3903
+msgid "Enable Comments"
+msgstr "in staat stellen Comments"
+
+#: inc/redux-framework/options-init.php:3904
+msgid "Do you want to enable comments on blog details page?"
+msgstr "Wil je reacties op de blogdetailspagina inschakelen?"
+
+#: inc/redux-framework/options-init.php:3914
+msgid "Shop"
+msgstr "Winkel"
+
+#: inc/redux-framework/options-init.php:3921
+msgid "Product Listing"
+msgstr "Product Listing"
+
+#: inc/redux-framework/options-init.php:3930
+msgid "Product Listing Layout"
+msgstr "Artikel Listing lay-out"
+
+#: inc/redux-framework/options-init.php:3931
+msgid "Select Product Listing Layout"
+msgstr "kiezen Product Listing Layout"
+
+#: inc/redux-framework/options-init.php:3949
+msgid "Sidebar."
+msgstr "Sidebar."
+
+#: inc/redux-framework/options-init.php:3950
+#: inc/redux-framework/options-init.php:4001
+msgid "Select Sidebar"
+msgstr "kiezen Sidebar"
+
+#: inc/redux-framework/options-init.php:3972
+msgid "Shop Box Style"
+msgstr "Shop Box Style"
+
+#: inc/redux-framework/options-init.php:3973
+msgid "Select Style of the Shop Box."
+msgstr "Selecteer de stijl van de winkeldoos."
+
+#: inc/redux-framework/options-init.php:3993
+msgid "Product Details"
+msgstr "Productdetails"
+
+#: inc/redux-framework/options-init.php:4029
+msgid "Social Icons"
+msgstr "Sociale pictogrammen"
+
+#: inc/redux-framework/options-init.php:4038
+msgid "Open links in new window"
+msgstr "Open links in een nieuw venster"
+
+#: inc/redux-framework/options-init.php:4039
+msgid "Open social links in new window"
+msgstr "Open sociale links in een nieuw venster"
+
+#: inc/redux-framework/options-init.php:4047
+msgid "Google +"
+msgstr "Google +"
+
+#: inc/redux-framework/options-init.php:4048
+#: inc/redux-framework/options-init.php:4057
+#: inc/redux-framework/options-init.php:4066
+#: inc/redux-framework/options-init.php:4075
+#: inc/redux-framework/options-init.php:4084
+#: inc/redux-framework/options-init.php:4092
+#: inc/redux-framework/options-init.php:4100
+#: inc/redux-framework/options-init.php:4108
+#: inc/redux-framework/options-init.php:4116
+#: inc/redux-framework/options-init.php:4124
+#: inc/redux-framework/options-init.php:4132
+#: inc/redux-framework/options-init.php:4140
+#: inc/redux-framework/options-init.php:4148
+#: inc/redux-framework/options-init.php:4156
+#: inc/redux-framework/options-init.php:4164
+#: inc/redux-framework/options-init.php:4172
+msgid "Link to the profile page"
+msgstr "Link naar de profielpagina"
+
+#: inc/redux-framework/options-init.php:4056
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/redux-framework/options-init.php:4065
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/redux-framework/options-init.php:4074
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/redux-framework/options-init.php:4083
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/redux-framework/options-init.php:4091
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/redux-framework/options-init.php:4099
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/redux-framework/options-init.php:4107
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/redux-framework/options-init.php:4115
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/redux-framework/options-init.php:4123
+msgid "Viadeo"
+msgstr "Viadeo"
+
+#: inc/redux-framework/options-init.php:4131
+msgid "Vkontakte"
+msgstr "Vkontakte"
+
+#: inc/redux-framework/options-init.php:4139
+msgid "Tripadvisor"
+msgstr "Tripadvisor"
+
+#: inc/redux-framework/options-init.php:4147
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/redux-framework/options-init.php:4155
+msgid "Behance"
+msgstr "Behance"
+
+#: inc/redux-framework/options-init.php:4163
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/redux-framework/options-init.php:4171
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/redux-framework/options-init.php:4179
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/redux-framework/redux-extensions/extensions/box_shadow/box_shadow/field_box_shadow.php:245
+msgid "Offset X"
+msgstr "Offset X"
+
+#: inc/redux-framework/redux-extensions/extensions/box_shadow/box_shadow/field_box_shadow.php:247
+msgid "X"
+msgstr "X"
+
+#: inc/redux-framework/redux-extensions/extensions/box_shadow/box_shadow/field_box_shadow.php:265
+msgid "Offset Y"
+msgstr "Offset Y"
+
+#: inc/redux-framework/redux-extensions/extensions/box_shadow/box_shadow/field_box_shadow.php:267
+msgid "Y"
+msgstr "Y"
+
+#: inc/redux-framework/redux-extensions/extensions/box_shadow/box_shadow/field_box_shadow.php:285
+msgid "Blur Radius"
+msgstr "Blur Radius"
+
+#: inc/redux-framework/redux-extensions/extensions/box_shadow/box_shadow/field_box_shadow.php:287
+msgid "Blur"
+msgstr "Blur"
+
+#: inc/redux-framework/redux-extensions/extensions/box_shadow/box_shadow/field_box_shadow.php:305
+msgid "Spread Radius"
+msgstr "Verspreid de straal"
+
+#: inc/redux-framework/redux-extensions/extensions/box_shadow/box_shadow/field_box_shadow.php:307
+msgid "Spread"
+msgstr "Spread"
+
+#: inc/redux-framework/redux-extensions/extensions/box_shadow/box_shadow/field_box_shadow.php:326
+msgid "Opacity .1 - 1"
+msgstr "Opacity .1 - 1"
+
+#: inc/redux-framework/redux-extensions/extensions/box_shadow/box_shadow/field_box_shadow.php:328
+msgid "Opacity"
+msgstr "Opacity"
+
+#: inc/redux-framework/redux-extensions/extensions/box_shadow/box_shadow/field_box_shadow.php:341
+#: inc/redux-framework/redux-extensions/extensions/box_shadow/box_shadow/field_box_shadow.php:342
+#: inc/redux-framework/redux-extensions/extensions/box_shadow/box_shadow/field_box_shadow.php:343
+msgid "Units"
+msgstr "Units"
+
+#: inc/redux-framework/redux-extensions/extensions/box_shadow/box_shadow/field_box_shadow.php:372
+#: inc/redux-framework/redux-extensions/extensions/box_shadow/box_shadow/field_box_shadow.php:373
+msgid "Shadow Color"
+msgstr "Schaduwkleur"
+
+#: inc/redux-framework/redux-extensions/extensions/box_shadow/box_shadow/field_box_shadow.php:390
+#: inc/redux-framework/redux-extensions/extensions/box_shadow/box_shadow/field_box_shadow.php:391
+#: inc/redux-framework/redux-extensions/extensions/box_shadow/box_shadow/field_box_shadow.php:392
+msgid "Shadow Type"
+msgstr "Schaduwtype"
+
+#: inc/redux-framework/redux-extensions/extensions/box_shadow/box_shadow/field_box_shadow.php:419
+msgid "Shadow Preview"
+msgstr "Schaduwvoorbeeld"
+
+#: inc/redux-framework/redux-extensions/extensions/slides/slides/field_slides.php:66
+msgid "Slide"
+msgstr "Slide"
+
+#: inc/redux-framework/redux-extensions/extensions/slides/slides/field_slides.php:69
+#: inc/redux-framework/redux-extensions/extensions/slides/slides/field_slides.php:154
+#, php-format
+msgid "New %s"
+msgstr "New %s"
+
+#: inc/redux-framework/redux-extensions/extensions/slides/slides/field_slides.php:109
+#: inc/redux-framework/redux-extensions/extensions/slides/slides/field_slides.php:164
+msgid "Upload"
+msgstr "Uploaden"
+
+#: inc/redux-framework/redux-extensions/extensions/slides/slides/field_slides.php:114
+#: inc/redux-framework/redux-extensions/extensions/slides/slides/field_slides.php:165
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: inc/redux-framework/redux-extensions/extensions/slides/slides/field_slides.php:122
+#: inc/redux-framework/redux-extensions/extensions/slides/slides/field_slides.php:173
+msgid "Title"
+msgstr "Titel"
+
+#. Description of the plugin/theme
+#: inc/redux-framework/redux-extensions/extensions/slides/slides/field_slides.php:125
+#: inc/redux-framework/redux-extensions/extensions/slides/slides/field_slides.php:176
+msgid "Description"
+msgstr "Beschrijving"
+
+#: inc/redux-framework/redux-extensions/extensions/slides/slides/field_slides.php:133
+#: inc/redux-framework/redux-extensions/extensions/slides/slides/field_slides.php:184
+msgid "Button Title"
+msgstr "Button Titel"
+
+#: inc/redux-framework/redux-extensions/extensions/slides/slides/field_slides.php:135
+#: inc/redux-framework/redux-extensions/extensions/slides/slides/field_slides.php:186
+msgid "URL"
+msgstr "URL"
+
+#: inc/redux-framework/redux-extensions/extensions/slides/slides/field_slides.php:148
+#: inc/redux-framework/redux-extensions/extensions/slides/slides/field_slides.php:199
+msgid "Delete"
+msgstr "Verwijder"
+
+#: inc/redux-framework/redux-extensions/extensions/slides/slides/field_slides.php:202
+#, php-format
+msgid "Add %s"
+msgstr "Toevoegen %s"
+
+#. translators: %s: post author.
+#: inc/template-tags.php:62
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:68
+#, php-format
+msgctxt "post date"
+msgid "Published On - %s"
+msgstr "Gepubliceerd op - %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:86 inc/template-tags.php:99 single.php:47
+msgid ", "
+msgstr ", "
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:91
+#, php-format
+msgid " %1$s"
+msgstr " %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:104
+#, php-format
+msgid "Tags: %1$s"
+msgstr "Tags: %1$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Installeer Vereiste Plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Installeer plug-ins"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Plugin installeren: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Plug-in bijwerken: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Er is iets misgegaan met de plugin-API."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Voor dit thema is de volgende plug-in vereist: %1$s."
+msgstr[1] "Voor dit thema zijn de volgende plug-ins vereist: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dit thema beveelt de volgende plug-in aan: %1$s."
+msgstr[1] "Dit thema beveelt de volgende plug-ins aan: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"De volgende plug-in moet worden bijgewerkt naar de nieuwste versie om "
+"maximale compatibiliteit met dit thema te garanderen: %1$s."
+msgstr[1] ""
+"De volgende plug-ins moeten worden bijgewerkt naar hun nieuwste versie om "
+"maximale compatibiliteit met dit thema te garanderen: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Er is een update beschikbaar voor: %1$s."
+msgstr[1] "Er zijn updates beschikbaar voor de volgende plug-ins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "De volgende vereiste plug-in is momenteel inactief: %1$s."
+msgstr[1] "De volgende vereiste plug-ins zijn momenteel niet actief: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "De volgende aanbevolen plug-in is momenteel inactief: %1$s."
+msgstr[1] "De volgende aanbevolen plug-ins zijn momenteel niet actief: %1$s."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin met het installeren van de plug-in"
+msgstr[1] "Begin met het installeren van plug-ins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Begin met het bijwerken van de plug-in"
+msgstr[1] "Begin met het bijwerken van plug-ins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begin met het activeren van de plug-in"
+msgstr[1] "Begin met het activeren van plug-ins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Keer terug naar het vereiste installatieprogramma voor invoegtoepassingen"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:393
+#: inc/tgmpa/class-tgm-plugin-activation.php:918
+#: inc/tgmpa/class-tgm-plugin-activation.php:2624
+#: inc/tgmpa/class-tgm-plugin-activation.php:3671
+msgid "Return to the Dashboard"
+msgstr "Keer terug naar het Dashboard"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+#: inc/tgmpa/class-tgm-plugin-activation.php:3250
+msgid "Plugin activated successfully."
+msgstr "Plugin is succesvol geactiveerd."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+#: inc/tgmpa/class-tgm-plugin-activation.php:3043
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "De volgende plug-in is succesvol geactiveerd:"
+msgstr[1] "De volgende plug-ins zijn succesvol geactiveerd:"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Geen actie ondernomen. Inpluggen %1$s was al actief."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin niet geactiveerd. Een hogere versie van %s is nodig voor dit thema. "
+"Werk de plug-in bij."
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plug-ins zijn geïnstalleerd en geactiveerd. %1$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Verwerp deze kennisgeving"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Er zijn een of meer vereiste of aanbevolen plug-ins om te installeren, "
+"updaten of activeren."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Neem contact op met de beheerder van deze site voor hulp."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:613
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Deze plug-in moet worden bijgewerkt om compatibel te zijn met uw thema."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:614
+msgid "Update Required"
+msgstr "Update vereist"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1025
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Het pakket voor externe plug-ins bevat geen map met de gewenste slug en het "
+"hernoemen werkte niet."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1025
+#: inc/tgmpa/class-tgm-plugin-activation.php:1028
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Neem contact op met de pluginprovider en vraag hen om hun plug-in te "
+"verpakken volgens de WordPress-richtlijnen."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1028
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Het pakket voor externe plug-ins bestaat uit meer dan één bestand, maar de "
+"bestanden zijn niet verpakt in een map."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1212
+#: inc/tgmpa/class-tgm-plugin-activation.php:3039
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "en"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:2073
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2364
+msgid "Required"
+msgstr "Verplicht"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2367
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2383
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2386
+msgid "External Source"
+msgstr "Externe bron"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2389
+msgid "Pre-Packaged"
+msgstr "Pre-Verpakte"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2406
+msgid "Not Installed"
+msgstr "Niet geïnstalleerd"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2410
+msgid "Installed But Not Activated"
+msgstr "Geïnstalleerd maar niet geactiveerd"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2412
+msgid "Active"
+msgstr "Actief"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2418
+msgid "Required Update not Available"
+msgstr "Vereiste update niet beschikbaar"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2421
+msgid "Requires Update"
+msgstr "Vereist Update"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2424
+msgid "Update recommended"
+msgstr "Update aanbevolen"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2433
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2479
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2483
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Installeren <span class=\"count\">(%s)</span>"
+msgstr[1] "Installeren <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2487
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Update beschikbaar <span class=\"count\">(%s)</span>"
+msgstr[1] "Update beschikbaar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2491
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Activeren <span class=\"count\">(%s)</span>"
+msgstr[1] "Activeren <span class=\"count\">(%s)</span>"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2573
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "onbekend"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2581
+msgid "Installed version:"
+msgstr "Geïnstalleerde versie:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2589
+msgid "Minimum required version:"
+msgstr "Minimaal vereiste versie:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2601
+msgid "Available version:"
+msgstr "Beschikbare versie:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2624
+msgid "No plugins to install, update or activate."
+msgstr "Geen plug-ins om te installeren, updaten of activeren."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2638
+msgid "Plugin"
+msgstr "Inpluggen"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2639
+msgid "Source"
+msgstr "Bron"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2640
+msgid "Type"
+msgstr "Type"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2644
+msgid "Version"
+msgstr "Versie"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2645
+msgid "Status"
+msgstr "staat"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2694
+#, php-format
+msgid "Install %2$s"
+msgstr "Installeren %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Update %2$s"
+msgstr "Bijwerken %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2705
+#, php-format
+msgid "Activate %2$s"
+msgstr "Activeren %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2775
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade-bericht van de auteur van de plug-in:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2808
+msgid "Install"
+msgstr "Installeren"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2814
+msgid "Update"
+msgstr "Bijwerken"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2817
+msgid "Activate"
+msgstr "Activeren"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2848
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Er zijn geen plug-ins geselecteerd om te worden geïnstalleerd. Geen actie ondernomen."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Er zijn geen plug-ins geselecteerd om te worden bijgewerkt. Geen actie ondernomen."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2891
+msgid "No plugins are available to be installed at this time."
+msgstr "Er zijn op dit moment geen plug-ins beschikbaar om te worden geïnstalleerd."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be updated at this time."
+msgstr "Er zijn op dit moment geen plug-ins beschikbaar om te worden bijgewerkt."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2999
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Er zijn geen plug-ins geselecteerd om te worden geactiveerd. Geen actie ondernomen."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3025
+msgid "No plugins are available to be activated at this time."
+msgstr "Er zijn op dit moment geen plug-ins beschikbaar om te worden geactiveerd."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3249
+msgid "Plugin activation failed."
+msgstr "Plugin-activering mislukt."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3589
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Plug-in bijwerken %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3592
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Er is een fout opgetreden tijdens het installeren %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "De installatie van %1$s mislukt."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3598
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Het installatie- en activeringsproces begint. Dit proces kan bij sommige "
+"hosts enige tijd duren, dus wees geduldig."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3600
+#: inc/tgmpa/class-tgm-plugin-activation.php:3608
+#, php-format
+msgid "%1$s done."
+msgstr "%1$s gedaan."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3601
+msgid "All installations and activations have been completed."
+msgstr "Alle installaties en activeringen zijn voltooid."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3603
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin installeren en activeren %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3606
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Het installatieproces begint. Dit proces kan bij sommige hosts enige tijd "
+"duren, dus wees geduldig."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3609
+msgid "All installations have been completed."
+msgstr "Alle installaties zijn voltooid."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3611
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin installeren %1$s (%2$d/%3$d)"
+
+#: inc/widget/call-to-action/class-consultix-call-to-action-widget.php:21
+msgid "Consultix Call to Action"
+msgstr "Consultix Call to Action"
+
+#: inc/widget/call-to-action/class-consultix-call-to-action-widget.php:24
+msgid "Call to Action area."
+msgstr "Call to Action Gebied."
+
+#: inc/widget/call-to-action/class-consultix-call-to-action-widget.php:68
+#: inc/widget/recent-posts/class-consultix-recent-posts-widget.php:89
+msgid "Title:"
+msgstr "Titel:"
+
+#: inc/widget/call-to-action/class-consultix-call-to-action-widget.php:73
+msgid "Description:"
+msgstr "Beschrijving:"
+
+#: inc/widget/call-to-action/class-consultix-call-to-action-widget.php:78
+msgid "Button Title:"
+msgstr "Button Titel:"
+
+#: inc/widget/call-to-action/class-consultix-call-to-action-widget.php:83
+msgid "Button Link:"
+msgstr "Button Link:"
+
+#: inc/widget/contact-box/class-consultix-contact-box-widget.php:21
+msgid "Consultix Contact Box"
+msgstr "Consultix Contact Box"
+
+#: inc/widget/contact-box/class-consultix-contact-box-widget.php:24
+msgid "Contact box for footer area."
+msgstr "Contactvak voor voettekstgebied."
+
+#: inc/widget/contact-box/class-consultix-contact-box-widget.php:42
+#: inc/widget/contact-box/class-consultix-contact-box-widget.php:73
+msgid "123 6th St. Melbourne, FL 32904"
+msgstr "123 6th St. Melbourne, FL 32904"
+
+#: inc/widget/contact-box/class-consultix-contact-box-widget.php:43
+#: inc/widget/contact-box/class-consultix-contact-box-widget.php:74
+msgid "Phone: (888) 123-4567"
+msgstr "Telefoon: (888) 123-4567"
+
+#: inc/widget/contact-box/class-consultix-contact-box-widget.php:44
+#: inc/widget/contact-box/class-consultix-contact-box-widget.php:75
+msgid "Email: info@example.com"
+msgstr "Email: info@example.com"
+
+#: inc/widget/contact-box/class-consultix-contact-box-widget.php:81
+msgid "Address:"
+msgstr "Adres:"
+
+#: inc/widget/contact-box/class-consultix-contact-box-widget.php:86
+msgid "Phone Number:"
+msgstr "Telefoonnummer:"
+
+#: inc/widget/contact-box/class-consultix-contact-box-widget.php:91
+msgid "Email ID:"
+msgstr "E-mail identiteit:"
+
+#: inc/widget/facebook-page-box/class-consultix-facebook-widget.php:21
+msgid "Consultix Facebook Page Box"
+msgstr "Consultix Facebook Page Box"
+
+#: inc/widget/facebook-page-box/class-consultix-facebook-widget.php:24
+msgid "Widget for facebook box."
+msgstr "Widget voor  facebook box."
+
+#: inc/widget/facebook-page-box/class-consultix-facebook-widget.php:43
+#: inc/widget/facebook-page-box/class-consultix-facebook-widget.php:68
+msgid "https://www.facebook.com/facebook"
+msgstr "https://www.facebook.com/facebook"
+
+#: inc/widget/facebook-page-box/class-consultix-facebook-widget.php:46
+#: inc/widget/facebook-page-box/class-consultix-facebook-widget.php:84
+msgid "340"
+msgstr "340"
+
+#: inc/widget/facebook-page-box/class-consultix-facebook-widget.php:47
+#: inc/widget/facebook-page-box/class-consultix-facebook-widget.php:85
+msgid "500"
+msgstr "500"
+
+#: inc/widget/facebook-page-box/class-consultix-facebook-widget.php:89
+msgid "Page URL:"
+msgstr "Page URL:"
+
+#: inc/widget/facebook-page-box/class-consultix-facebook-widget.php:94
+msgid "Tabs to render i.e. events, messages(timeline is default):"
+msgstr "Tabbladen om te renderen, d.w.z. gebeurtenissen, berichten (tijdlijn is standaard):"
+
+#: inc/widget/facebook-page-box/class-consultix-facebook-widget.php:96
+msgid "Events"
+msgstr "Events"
+
+#: inc/widget/facebook-page-box/class-consultix-facebook-widget.php:98
+msgid "Messages"
+msgstr "berichten"
+
+#: inc/widget/facebook-page-box/class-consultix-facebook-widget.php:102
+msgid "Width:"
+msgstr "Breedte:"
+
+#: inc/widget/facebook-page-box/class-consultix-facebook-widget.php:107
+msgid "Height:"
+msgstr "Hoogte:"
+
+#: inc/widget/facebook-page-box/class-consultix-facebook-widget.php:112
+msgid "Use the small header instead:"
+msgstr "Gebruik in plaats daarvan de kleine koptekst:"
+
+#: inc/widget/facebook-page-box/class-consultix-facebook-widget.php:124
+msgid "Try to fit inside the container width:"
+msgstr "Probeer in de containerbreedte te passen:"
+
+#: inc/widget/facebook-page-box/class-consultix-facebook-widget.php:135
+msgid "Hide cover photo in the header:"
+msgstr "Hide cover photo in de header:"
+
+#: inc/widget/facebook-page-box/class-consultix-facebook-widget.php:146
+msgid "Show profile photos when friends like this:"
+msgstr "Toon profielfoto's wanneer vrienden als deze:"
+
+#: inc/widget/recent-posts/class-consultix-recent-posts-widget.php:21
+msgid "Consultix Recent Posts With Thumbnail Widget"
+msgstr "Consultix Recente berichten met Thumbnail Widget"
+
+#: inc/widget/recent-posts/class-consultix-recent-posts-widget.php:24
+msgid "Widget for recent posts."
+msgstr "Widget voor recente berichten."
+
+#: inc/widget/recent-posts/class-consultix-recent-posts-widget.php:43
+#: inc/widget/recent-posts/class-consultix-recent-posts-widget.php:84
+msgid "RECENT POSTS"
+msgstr "RECENTE BERICHTEN"
+
+#: inc/widget/recent-posts/class-consultix-recent-posts-widget.php:44
+#: inc/widget/recent-posts/class-consultix-recent-posts-widget.php:85
+msgid "4"
+msgstr "4"
+
+#: inc/widget/recent-posts/class-consultix-recent-posts-widget.php:93
+msgid "No. of Posts to show:"
+msgstr "Aantal te tonen berichten:"
+
+#: inc/widget/social-widget/class-consultix-social-widget.php:21
+msgid "Consultix Social"
+msgstr "Consultix sociaal"
+
+#: inc/widget/social-widget/class-consultix-social-widget.php:24
+msgid "Widget for Social."
+msgstr "Widget voor sociaal."
+
+#: inc/widget/twitter-widget/class-consultix-twitter-widget.php:21
+msgid "Consultix Twitter Widget"
+msgstr "Consultix Twitter widget"
+
+#: inc/widget/twitter-widget/class-consultix-twitter-widget.php:24
+msgid "Widget for twitter box."
+msgstr "Widget voor twitter doos."
+
+#: inc/widget/twitter-widget/class-consultix-twitter-widget.php:42
+#: inc/widget/twitter-widget/class-consultix-twitter-widget.php:65
+msgid "twitter"
+msgstr "twitter"
+
+#: inc/widget/twitter-widget/class-consultix-twitter-widget.php:43
+#: inc/widget/twitter-widget/class-consultix-twitter-widget.php:66
+msgid "5"
+msgstr "5"
+
+#: inc/widget/twitter-widget/class-consultix-twitter-widget.php:81
+msgid "Username:"
+msgstr "Gebruikersnaam:"
+
+#: inc/widget/twitter-widget/class-consultix-twitter-widget.php:86
+msgid "No. of Maximum Tweets:"
+msgstr "Maximum aantal tweets:"
+
+#: inc/widget/twitter-widget/class-consultix-twitter-widget.php:91
+msgid "Enable Links:"
+msgstr "Schakel links in:"
+
+#: inc/widget/twitter-widget/class-consultix-twitter-widget.php:103
+msgid "Show User:"
+msgstr "Toon gebruiker:"
+
+#: inc/widget/twitter-widget/class-consultix-twitter-widget.php:114
+msgid "Show Time:"
+msgstr "Show Time:"
+
+#: inc/widget/twitter-widget/class-consultix-twitter-widget.php:125
+msgid "Show Images:"
+msgstr "Afbeeldingen weergeven:"
+
+#. translators: used between list items, there is a space after the comma
+#: single.php:52
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: single.php:65 single.php:66
+msgid "%title"
+msgstr "%title"
+
+#: single.php:80
+msgid "Author"
+msgstr "Auteur"
+
+#: template-parts/content-default.php:29 template-parts/content-three.php:56
+#: template-parts/content-two.php:36
+msgid "Read More"
+msgstr "Lees verder"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "niets gevonden"
+
+#: template-parts/content-page.php:22 template-parts/content-single.php:49
+msgid "Pages:"
+msgstr "pagina's:"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:35
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Bewerk<span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:38
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lees verder %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-three.php:17 template-parts/content-two.php:15
+#: template-parts/content.php:15
+msgid "no image found"
+msgstr "geen afbeelding gevonden"
+
+#: woocommerce/shop-box/shop-box-style-one.php:19
+#: woocommerce/shop-box/shop-box-style-two.php:19
+msgid "Sale!"
+msgstr "Verkoop!"
+
+#. Theme Name of the plugin/theme
+msgid "Consultix"
+msgstr "Consultix"
+
+#. Theme URI of the plugin/theme
+msgid "http://themes.radiantthemes.com/consultix/"
+msgstr "http://themes.radiantthemes.com/consultix/"
+
+#. Author of the plugin/theme
+msgid "RadiantThemes.com"
+msgstr "RadiantThemes.com"
+
+#. Author URI of the plugin/theme
+msgid "http://www.radiantthemes.com/"
+msgstr "http://www.radiantthemes.com/"

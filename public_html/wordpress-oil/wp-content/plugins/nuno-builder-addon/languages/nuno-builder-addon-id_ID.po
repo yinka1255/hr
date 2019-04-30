@@ -1,0 +1,1608 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nuno Page Builder Addon\n"
+"Report-Msgid-Bugs-To: support@themegum.com\n"
+"POT-Creation-Date: 2017-06-08 09:15+0700\n"
+"PO-Revision-Date: 2017-06-08 09:17+0700\n"
+"Last-Translator: Atawai <celomitan@yahoo.com>\n"
+"Language-Team: themegum.com <support@themegum.com>\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+"X-Poedit-SearchPathExcluded-1: lib/js\n"
+"X-Poedit-SearchPathExcluded-2: font-awesome\n"
+"X-Poedit-SearchPathExcluded-3: images\n"
+"X-Poedit-SearchPathExcluded-4: css\n"
+
+#: elements/portfolio.php:78
+msgid "Show All"
+msgstr "Tampilkan Semua"
+
+#: elements/portfolio.php:99 elements/portfolio.php:120
+msgid "zoom"
+msgstr ""
+
+#: elements/portfolio.php:100 elements/portfolio.php:121
+msgid "view"
+msgstr ""
+
+#: elements/portfolio.php:195
+msgid "Portfolio Grid"
+msgstr ""
+
+#: elements/portfolio.php:202 elements/postgrid.php:191
+#: elements/testimonial.php:169 elements/timeline.php:150
+msgid "Extra css Class"
+msgstr "CSS Class tambahan"
+
+#: elements/portfolio.php:208 elements/postgrid.php:197
+#: elements/testimonial.php:175 elements/timeline.php:156
+msgid "Anchor ID"
+msgstr "Anchor ID"
+
+#: elements/portfolio.php:211 elements/postgrid.php:200
+#: elements/testimonial.php:178 elements/timeline.php:159
+msgid "Enter anchor ID without pound '#' sign"
+msgstr "Masukkan anchor ID tanpa tanda pagar ‘#’"
+
+#: elements/portfolio.php:214 elements/portfolio.php:249
+#: elements/portfolio.php:284 elements/postgrid.php:203
+#: elements/postgrid.php:238 elements/postgrid.php:273
+#: elements/testimonial.php:181 elements/testimonial.php:216
+#: elements/testimonial.php:251 elements/timeline.php:162
+#: elements/timeline.php:197 elements/timeline.php:232
+msgid "Top"
+msgstr ""
+
+#: elements/portfolio.php:218 elements/portfolio.php:225
+#: elements/portfolio.php:232 elements/portfolio.php:239
+#: elements/portfolio.php:246 elements/portfolio.php:253
+#: elements/portfolio.php:260 elements/portfolio.php:267
+#: elements/portfolio.php:274 elements/portfolio.php:281
+#: elements/portfolio.php:288 elements/portfolio.php:295
+#: elements/portfolio.php:302 elements/portfolio.php:309
+#: elements/postgrid.php:207 elements/postgrid.php:214
+#: elements/postgrid.php:221 elements/postgrid.php:228
+#: elements/postgrid.php:235 elements/postgrid.php:242
+#: elements/postgrid.php:249 elements/postgrid.php:256
+#: elements/postgrid.php:263 elements/postgrid.php:270
+#: elements/postgrid.php:277 elements/postgrid.php:284
+#: elements/postgrid.php:291 elements/postgrid.php:298
+#: elements/testimonial.php:185 elements/testimonial.php:192
+#: elements/testimonial.php:199 elements/testimonial.php:206
+#: elements/testimonial.php:213 elements/testimonial.php:220
+#: elements/testimonial.php:227 elements/testimonial.php:234
+#: elements/testimonial.php:241 elements/testimonial.php:248
+#: elements/testimonial.php:255 elements/testimonial.php:262
+#: elements/testimonial.php:269 elements/testimonial.php:276
+#: elements/timeline.php:166 elements/timeline.php:173
+#: elements/timeline.php:180 elements/timeline.php:187
+#: elements/timeline.php:194 elements/timeline.php:201
+#: elements/timeline.php:208 elements/timeline.php:215
+#: elements/timeline.php:222 elements/timeline.php:229
+#: elements/timeline.php:236 elements/timeline.php:243
+#: elements/timeline.php:250 elements/timeline.php:257
+msgid "Margin"
+msgstr ""
+
+#: elements/portfolio.php:221 elements/portfolio.php:256
+#: elements/portfolio.php:291 elements/postgrid.php:210
+#: elements/postgrid.php:245 elements/postgrid.php:280
+#: elements/testimonial.php:188 elements/testimonial.php:223
+#: elements/testimonial.php:258 elements/timeline.php:169
+#: elements/timeline.php:204 elements/timeline.php:239
+msgid "Bottom"
+msgstr ""
+
+#: elements/portfolio.php:228 elements/portfolio.php:263
+#: elements/portfolio.php:298 elements/postgrid.php:217
+#: elements/postgrid.php:252 elements/postgrid.php:287
+#: elements/postgrid.php:323 elements/testimonial.php:195
+#: elements/testimonial.php:230 elements/testimonial.php:265
+#: elements/testimonial.php:294 elements/timeline.php:176
+#: elements/timeline.php:211 elements/timeline.php:246
+msgid "Left"
+msgstr "Kiri"
+
+#: elements/portfolio.php:235 elements/portfolio.php:270
+#: elements/portfolio.php:305 elements/postgrid.php:224
+#: elements/postgrid.php:259 elements/postgrid.php:294
+#: elements/postgrid.php:325 elements/testimonial.php:202
+#: elements/testimonial.php:237 elements/testimonial.php:272
+#: elements/testimonial.php:296 elements/timeline.php:183
+#: elements/timeline.php:218 elements/timeline.php:253
+msgid "Right"
+msgstr "Kanan"
+
+#: elements/portfolio.php:242 elements/postgrid.php:231
+#: elements/testimonial.php:209 elements/timeline.php:190
+msgid "Margin Mobile"
+msgstr "Tepi Atas"
+
+#: elements/portfolio.php:243 elements/postgrid.php:232
+#: elements/testimonial.php:210 elements/timeline.php:191
+msgid "This optional for screen up to 480px."
+msgstr ""
+
+#: elements/portfolio.php:277 elements/postgrid.php:266
+#: elements/testimonial.php:244 elements/timeline.php:225
+msgid "Margin Tablet"
+msgstr "Tepi Kiri"
+
+#: elements/portfolio.php:278 elements/postgrid.php:267
+#: elements/testimonial.php:245 elements/timeline.php:226
+msgid "This optional for screen up to 992px."
+msgstr ""
+
+#: elements/portfolio.php:312
+msgid "Show Filter"
+msgstr ""
+
+#: elements/portfolio.php:316 elements/testimonial.php:399
+msgid "Show"
+msgstr "Tampilkan"
+
+#: elements/portfolio.php:317
+msgid "Hide"
+msgstr ""
+
+#: elements/portfolio.php:322 elements/postgrid.php:308
+#: elements/testimonial.php:279
+msgid "Layout"
+msgstr ""
+
+#: elements/portfolio.php:326
+msgid "Style 1"
+msgstr ""
+
+#: elements/portfolio.php:327
+#, fuzzy
+#| msgid "Map Style"
+msgid "Style 2"
+msgstr "Model Peta"
+
+#: elements/portfolio.php:332 elements/postgrid.php:330
+msgid "Number of Columns"
+msgstr "Jumlah Kolom"
+
+#: elements/portfolio.php:334 elements/postgrid.php:332
+msgid "Number of columns on screen larger than 1200px screen resolution"
+msgstr "Jumlah kolom layar dengan resolusi lebih besar dari 1200px"
+
+#: elements/portfolio.php:337 elements/postgrid.php:335
+msgid "One Column"
+msgstr "Satu Kolom"
+
+#: elements/portfolio.php:338 elements/postgrid.php:336
+msgid "Two Columns"
+msgstr "Dua Kolom"
+
+#: elements/portfolio.php:339 elements/postgrid.php:337
+msgid "Three Columns"
+msgstr "Tiga Kolom"
+
+#: elements/portfolio.php:340 elements/postgrid.php:338
+msgid "Four Columns"
+msgstr "Empat Kolom"
+
+#: elements/portfolio.php:345 elements/postgrid.php:344
+msgid "Gutter Gap"
+msgstr ""
+
+#: elements/portfolio.php:348 elements/postgrid.php:348
+msgid "Space between items in px."
+msgstr ""
+
+#: elements/portfolio.php:351 elements/postgrid.php:352
+msgid "Image Size"
+msgstr "Ukuran Gambar"
+
+#: elements/portfolio.php:355 elements/postgrid.php:356
+#: elements/testimonial.php:332
+msgid ""
+"Enter image size. Example: thumbnail, small, medium, large, full or other "
+"sizes defined by current theme. Alternatively enter image size in pixels: "
+"200x200 (Width x Height)."
+msgstr ""
+"Cantumkan ukuran gambar. Misalkan: thumnail, small, medium, large, full atau "
+"ukuran lain yang didifinisikan oleh template yang sekarang. Atau juga bisa "
+"dengan ukuran tertentu dalam satuan pixel: 200x200 (Lebar x Tinggi )."
+
+#: elements/postgrid.php:77
+#, php-format
+msgid "posted by %s"
+msgstr ""
+
+#: elements/postgrid.php:184
+msgid "Post Grid"
+msgstr ""
+
+#: elements/postgrid.php:301
+msgid "Number of posts to show:"
+msgstr "Jumlah kicauan yang ditampilkan:"
+
+#: elements/postgrid.php:312
+msgid "Plain (no image)"
+msgstr "Tanpa Gambar"
+
+#: elements/postgrid.php:313
+#, fuzzy
+#| msgid "Image"
+msgid "Image box"
+msgstr "Gambar"
+
+#: elements/postgrid.php:318 elements/testimonial.php:290
+#, fuzzy
+#| msgid "Content"
+msgid "Content Align"
+msgstr "Isi"
+
+#: elements/postgrid.php:322 elements/testimonial.php:283
+#: elements/testimonial.php:339
+msgid "Default"
+msgstr "Bawaan"
+
+#: elements/postgrid.php:324 elements/testimonial.php:295
+msgid "Center"
+msgstr "Tengah"
+
+#: elements/postgrid.php:360
+msgid "Post excerpt length"
+msgstr ""
+
+#: elements/postgrid.php:365
+msgid "Num words post content displayed."
+msgstr "Jumlah posting yang ditampilkan."
+
+#: elements/testimonial.php:162
+#, fuzzy
+#| msgid "Custom Icon"
+msgid "Custom Testimonial"
+msgstr "Ikon Pilihan"
+
+#: elements/testimonial.php:284
+#, fuzzy
+#| msgid "Image Link"
+msgid "Image Left"
+msgstr "Tautan Gambar"
+
+#: elements/testimonial.php:285
+#, fuzzy
+#| msgid "Image Align"
+msgid "Image Right"
+msgstr "Perataan Gambar"
+
+#: elements/testimonial.php:301
+#, fuzzy
+#| msgid "Main Title"
+msgid "Main Name"
+msgstr "Judul Utama"
+
+#: elements/testimonial.php:308
+#, fuzzy
+#| msgid "Position"
+msgid "Position/Job"
+msgstr "Posisi"
+
+#: elements/testimonial.php:315
+msgid "What say"
+msgstr ""
+
+#: elements/testimonial.php:321
+msgid "Image"
+msgstr "Gambar"
+
+#: elements/testimonial.php:328
+#, fuzzy
+#| msgid "Image Size"
+msgid "Image Source Size"
+msgstr "Ukuran Gambar"
+
+#: elements/testimonial.php:335
+msgid "Image Style"
+msgstr "Model Gambar"
+
+#: elements/testimonial.php:340
+#, fuzzy
+msgid "Rounded"
+msgstr "Bulat"
+
+#: elements/testimonial.php:341
+msgid "Circle"
+msgstr "Lingkaran"
+
+#: elements/testimonial.php:346
+msgid "Border"
+msgstr ""
+
+#: elements/testimonial.php:350
+msgid "Border Color"
+msgstr "Warna Bingkai"
+
+#: elements/testimonial.php:356
+msgid "Border Style"
+msgstr ""
+
+#: elements/testimonial.php:360
+msgid "Solid"
+msgstr ""
+
+#: elements/testimonial.php:361
+msgid "Dotted"
+msgstr ""
+
+#: elements/testimonial.php:362
+msgid "Dashed"
+msgstr ""
+
+#: elements/testimonial.php:363
+msgid "Double"
+msgstr ""
+
+#: elements/testimonial.php:364
+msgid "Groove"
+msgstr ""
+
+#: elements/testimonial.php:365
+msgid "Outset"
+msgstr ""
+
+#: elements/testimonial.php:366
+msgid "Ridge"
+msgstr ""
+
+#: elements/testimonial.php:367
+msgid "Inherit"
+msgstr ""
+
+#: elements/testimonial.php:371
+msgid "Border Width"
+msgstr ""
+
+#: elements/testimonial.php:377
+msgid "Border Radius"
+msgstr ""
+
+#: elements/testimonial.php:381
+msgid "Select radius for border(in px or %)."
+msgstr ""
+
+#: elements/testimonial.php:385
+msgid "Title Color"
+msgstr "Warna Judul"
+
+#: elements/testimonial.php:391
+msgid "Sub Title Color"
+msgstr "Warna Sub Judul"
+
+#: elements/testimonial.php:397
+msgid "Social Link"
+msgstr "Tautan Sosial"
+
+#: elements/testimonial.php:399
+msgid "Hidden"
+msgstr "Sembunyikan"
+
+#: elements/testimonial.php:403 elements/timeline.php:260
+msgid "Animation Type"
+msgstr "Jenis Animasi"
+
+#: elements/testimonial.php:408 elements/timeline.php:265
+msgid "Scroll Spy not activated"
+msgstr ""
+
+#: elements/testimonial.php:409 elements/timeline.php:266
+msgid "The element fades in"
+msgstr ""
+
+#: elements/testimonial.php:410 elements/timeline.php:267
+msgid "The element scales up"
+msgstr ""
+
+#: elements/testimonial.php:411 elements/timeline.php:268
+msgid "The element scales down"
+msgstr ""
+
+#: elements/testimonial.php:412 elements/timeline.php:269
+msgid "The element slides in from the top"
+msgstr ""
+
+#: elements/testimonial.php:413 elements/timeline.php:270
+msgid "The element slides in from the bottom"
+msgstr ""
+
+#: elements/testimonial.php:414 elements/timeline.php:271
+msgid "The element slides in from the left"
+msgstr ""
+
+#: elements/testimonial.php:415 elements/timeline.php:272
+msgid "The element slides in from the right."
+msgstr ""
+
+#: elements/testimonial.php:417 elements/timeline.php:274
+msgid "Scroll spy effects"
+msgstr "Efek scroll spy"
+
+#: elements/testimonial.php:421 elements/timeline.php:278
+msgid "Animation Delay"
+msgstr "Jeda Animasi"
+
+#: elements/testimonial.php:425 elements/timeline.php:282
+msgid "The number of delay the animation effect of the icon. in milisecond"
+msgstr ""
+
+#: elements/timeline.php:142
+#, fuzzy
+#| msgid "Time"
+msgid "Timeline"
+msgstr "Jam"
+
+#: elements/timeline.php:292
+#, fuzzy
+#| msgid "Timeline Separator"
+msgid "Timeline Item"
+msgstr "Pembatas Timeline"
+
+#: elements/timeline.php:297
+msgid "Title"
+msgstr "Judul"
+
+#: elements/timeline.php:304
+#, fuzzy
+#| msgid "Main Title"
+msgid "Date Title"
+msgstr "Judul Utama"
+
+#: elements/timeline.php:311
+msgid "Content"
+msgstr "Isi"
+
+#: elements/timeline.php:315
+msgid ""
+"I am text block. Click edit button to change this text. Lorem ipsum dolor "
+"sit amet, consectetur adipiscing elit."
+msgstr ""
+
+#: elements/timeline.php:324
+msgid "Separator"
+msgstr "Pembatas"
+
+#: elements/timeline.php:329
+msgid "Text"
+msgstr "Teks"
+
+#: nuno-builder-addon.php:62
+msgid ""
+"Nuno Page Builder Addon deactivated. The plugin need Nuno Page Builder "
+"plugin, please install Nuno Builder plugin first."
+msgstr ""
+
+#~ msgid "Search Icon"
+#~ msgstr "Cari ikon"
+
+#~ msgid "Move this element"
+#~ msgstr "Geser bagian ini"
+
+#~ msgid "Edit"
+#~ msgstr "Sunting"
+
+#~ msgid "Close"
+#~ msgstr "Tutup"
+
+#~ msgid "Save"
+#~ msgstr "Simpan"
+
+#~ msgid "Cancel"
+#~ msgstr "Batal"
+
+#~ msgid "Select Image"
+#~ msgstr "Pilih Gambar"
+
+#~ msgid "Insert Image"
+#~ msgstr "Masukkan Gambar"
+
+#~ msgid "Custom CSS"
+#~ msgstr "CSS Tambahan"
+
+#~ msgid "Element Shortcode"
+#~ msgstr "Shortcode Elemen"
+
+#~ msgid "Add Shortcode"
+#~ msgstr "Tambah Shortcode"
+
+#~ msgid "Are you sure delete this element"
+#~ msgstr "Kamu yakin akan menghapus bagian ini"
+
+#~ msgid "Are you sure delete this column"
+#~ msgstr "Kamu yakin akan menghapus kolom ini"
+
+#~ msgid "This column can't delete"
+#~ msgstr "Kolom ini tidak bisa dihapus"
+
+#~ msgid "Insert Video"
+#~ msgstr "Masukkan Filem"
+
+#~ msgid "Select Video"
+#~ msgstr "Pilih Filem"
+
+#~ msgid "Click to toggle row"
+#~ msgstr "Klik untuk memutar balik baris"
+
+# #: element name
+#~ msgid "Row"
+#~ msgstr "Baris"
+
+#~ msgid "Classic Editor"
+#~ msgstr "Editor Lawas"
+
+#~ msgid "Move this row"
+#~ msgstr "Geser baris ini"
+
+#~ msgid "Change column"
+#~ msgstr "Rubah Kolom"
+
+#~ msgid "Custom"
+#~ msgstr "Bebas"
+
+#~ msgid "Move up this row"
+#~ msgstr "Geser baris ini ketas"
+
+#~ msgid "Move down this row"
+#~ msgstr "Geser baris ini kebawah"
+
+#~ msgid "Show this shortcode"
+#~ msgstr "Tampilkan shortcode bagian ini"
+
+#~ msgid "Edit this row"
+#~ msgstr "Sunting baris ini"
+
+#~ msgid "Copy this row"
+#~ msgstr "Salin baris ini"
+
+#~ msgid "Delete this row"
+#~ msgstr "Hapus baris ini"
+
+#~ msgid "Column"
+#~ msgstr "Kolom"
+
+#~ msgid "Edit this column"
+#~ msgstr "Sunting kolom ini"
+
+#~ msgid "Add shortcode to this column"
+#~ msgstr "Masukkan shortcode di kolom ini"
+
+#~ msgid "Delete this column"
+#~ msgstr "Hapus kolom ini"
+
+#~ msgid "Edit this element"
+#~ msgstr "Sunting elemen ini"
+
+#~ msgid "Copy this element"
+#~ msgstr "Salin elemen ini"
+
+#~ msgid "Delete this element"
+#~ msgstr "Hapus elemen ini"
+
+#~ msgid "Add %s"
+#~ msgstr "Tambah %s"
+
+#~ msgid "Add shortcode to this page"
+#~ msgstr "Masukkan shortcode di halaman ini"
+
+#~ msgid "Element Title"
+#~ msgstr "Judul Elemen"
+
+#~ msgid "Module Title"
+#~ msgstr "Judul Module"
+
+#~ msgid "All"
+#~ msgstr "Semua"
+
+#~ msgid "Add Image"
+#~ msgstr "Tambah Gambar"
+
+#~ msgid "Add Video"
+#~ msgstr "Tambah Video"
+
+#~ msgid "Remove Video"
+#~ msgstr "Hapus Video"
+
+#~ msgid "All Categories"
+#~ msgstr "Semua Kategori"
+
+#, fuzzy
+#~ msgid "Select Taxonomy"
+#~ msgstr "Pilih Tampilan:"
+
+#~ msgid "Button"
+#~ msgstr "Tombol"
+
+#~ msgid "Margin Bottom"
+#~ msgstr "Tepi Bawah"
+
+#~ msgid "Margin Right"
+#~ msgstr "Tepi Kanan"
+
+#~ msgid "Button Text"
+#~ msgstr "Tek di Tombol"
+
+#, fuzzy
+#~ msgid "Button URL"
+#~ msgstr "Tautan Tombol"
+
+#~ msgid "Large"
+#~ msgstr "Besar"
+
+#~ msgid "Small"
+#~ msgstr "Kecil"
+
+#~ msgid "Extra small"
+#~ msgstr "Sangat Kecil"
+
+#~ msgid "Square"
+#~ msgstr "Kotak"
+
+#~ msgid "Button Align"
+#~ msgstr "Posisi Tombol"
+
+#~ msgid "Button Target"
+#~ msgstr "Target Tombol"
+
+#, fuzzy
+#~ msgid "Blank"
+#~ msgstr "Template Kosongan Page Builder"
+
+#~ msgid "Prev"
+#~ msgstr "Sebelumnya"
+
+#~ msgid "Next"
+#~ msgstr "Selanjutnya"
+
+#~ msgid "Slide Speed"
+#~ msgstr "Kecepatan Slide"
+
+#~ msgid "Slide speed (in millisecond). The lower value the faster slides"
+#~ msgstr ""
+#~ "Kecepatan slide ( dalam per seribu detik). Semakin kecil nilainya semakin "
+#~ "cepat slide"
+
+#~ msgid "Autoplay"
+#~ msgstr "Mulai Otomatis"
+
+#~ msgid "Set Autoplay"
+#~ msgstr "Jadikan Mulai Otomatis"
+
+#~ msgid "Yes"
+#~ msgstr "Ya"
+
+#~ msgid "No"
+#~ msgstr "Tidak"
+
+#~ msgid "Slide Interval"
+#~ msgstr "Jeda Slide"
+
+#, fuzzy
+#~ msgid "Pagination"
+#~ msgstr "Jenis Paginasi"
+
+#, fuzzy
+#~ msgid "Pagination Setting"
+#~ msgstr "Pra-Tayang Formulir"
+
+#~ msgid "Pagination Type"
+#~ msgstr "Jenis Paginasi"
+
+#~ msgid "Custom Image"
+#~ msgstr "Gambar Pilihan"
+
+#~ msgid "Navigation Button"
+#~ msgstr "Tombol Navigasi"
+
+#~ msgid "Color"
+#~ msgstr "Warna"
+
+#, fuzzy
+#~ msgid "Pagination Preview"
+#~ msgstr "Pra-Tayang Formulir"
+
+#~ msgid "Size"
+#~ msgstr "Ukuran"
+
+#, fuzzy
+#~ msgid "Desktop Column"
+#~ msgstr "Kolom Desktop"
+
+#, fuzzy
+#~ msgid "items between 1200px and 1023px"
+#~ msgstr "item antara 1200px dan 1023px"
+
+#, fuzzy
+#~ msgid "Desktop Small Column"
+#~ msgstr "Kolum Dekstop Kecil"
+
+#, fuzzy
+#~ msgid "items between 1024px and 768px"
+#~ msgstr "item antara 1024px dan 768px"
+
+#, fuzzy
+#~ msgid "Tablet Column"
+#~ msgstr "Layar Tablet"
+
+#, fuzzy
+#~ msgid "items between 768px and 600px"
+#~ msgstr "item antara 768px dan 600px"
+
+#, fuzzy
+#~ msgid "Mobile Column"
+#~ msgstr "Layar Handphone"
+
+#, fuzzy
+#~ msgid "items below 600px"
+#~ msgstr "item dibawah 600px"
+
+#~ msgid "Countdown Timer"
+#~ msgstr "Pewaktu Hitung Mundur"
+
+#, fuzzy
+#~ msgid "Label"
+#~ msgstr "Posisi Label Periode"
+
+#~ msgid "Box Size"
+#~ msgstr "Ukuran Kotak"
+
+#~ msgid "Medium"
+#~ msgstr "Sedang"
+
+#~ msgid "Countdown Box Color"
+#~ msgstr "Warna Wadah"
+
+#~ msgid "Countdown Text Color"
+#~ msgstr "Warna tek"
+
+#~ msgid "Countdown Label Color"
+#~ msgstr "Warna label"
+
+#, fuzzy
+#~ msgid "Countdown Type"
+#~ msgstr "Tipe Pewaktu Hitung Mundur"
+
+#, fuzzy
+#~ msgid "Fixed Date"
+#~ msgstr "Tanggal Tetap"
+
+#, fuzzy
+#~ msgid "Evergreen"
+#~ msgstr "Tanggal Mengambang"
+
+#, fuzzy
+#~ msgid "Relative Time (minutes)"
+#~ msgstr "Waktu Relatif ( menit )"
+
+#, fuzzy
+#~ msgid "Relative time from 1st page visit in minutes"
+#~ msgstr "Waktu relatif dari kunjungan prertama halaman dalam satuan menit"
+
+#, fuzzy
+#~ msgid "Cookie Lifetime (Hours)"
+#~ msgstr "Masa Hidup Cookie"
+
+#, fuzzy
+#~ msgid "How long cookie store 1st page visit"
+#~ msgstr "Berapa lama cookie disimpan sejak kunjungan pertama halaman"
+
+#~ msgid "Time format hour:minute. example: %s"
+#~ msgstr "Format jam:menit. contoh: %s"
+
+#~ msgid "Day"
+#~ msgstr "Tanggal"
+
+#~ msgid "Month"
+#~ msgstr "Bulan"
+
+#, fuzzy
+#~ msgid "March"
+#~ msgstr "Maret"
+
+#~ msgid "May"
+#~ msgstr "Mei"
+
+#~ msgid "Year"
+#~ msgstr "Tahun"
+
+#~ msgid "On Complete Countdown Message"
+#~ msgstr "Pesan jika pewaktu mundur selesai"
+
+#~ msgid "The content will show after countdown expired. Simple html allowed"
+#~ msgstr ""
+#~ "Konten yang akan ditampilkan setelah hitung mundur berakhir. html "
+#~ "sederhana diperbolehkan"
+
+#~ msgid "Redirect Url after countdown is completed"
+#~ msgstr "Arahan Tautan setelah pewaktu mundur selesai"
+
+#~ msgid "If countdown expired, the page will be redirected to this url"
+#~ msgstr "Jika pewaktu mundur selesai, halaman akan diteruskan ke tautan ini"
+
+#~ msgid "Sub Title"
+#~ msgstr "Sub Judul"
+
+#~ msgid "Description"
+#~ msgstr "Keterangan"
+
+#~ msgid "Separator Color"
+#~ msgstr "Warna Pembatas"
+
+#, fuzzy
+#~ msgid "Icon Color"
+#~ msgstr "Warna Ikon"
+
+#~ msgid "Website"
+#~ msgstr "Laman Web"
+
+#~ msgid "Email"
+#~ msgstr "Surel"
+
+#~ msgid "Section Heading"
+#~ msgstr "Judul Seksi"
+
+#~ msgid "Text Heading"
+#~ msgstr "Teks Judul"
+
+#~ msgid "Text Alignment"
+#~ msgstr "Perataan Teks"
+
+#~ msgid "Font Size"
+#~ msgstr "Ukuran Huruf"
+
+#~ msgid "Extra Large"
+#~ msgstr "Sangat Besar"
+
+#~ msgid "Custom Size"
+#~ msgstr "Ukuran Sendiri"
+
+#~ msgid "Custom Font Size"
+#~ msgstr "Ukuran Huruf Tersendiri"
+
+#~ msgid "Font Style"
+#~ msgstr "Model Huruf"
+
+#~ msgid "Oblique"
+#~ msgstr "Italic"
+
+#~ msgid "Font Weight"
+#~ msgstr "Tebal Huruf"
+
+#~ msgid "Bold"
+#~ msgstr "Tebal"
+
+#~ msgid "Bolder"
+#~ msgstr "Lebih Tebal"
+
+#~ msgid "lighter"
+#~ msgstr "lebih terang"
+
+#~ msgid "Text Color"
+#~ msgstr "Warna Teks"
+
+#~ msgid "Icon Box"
+#~ msgstr "Kotak Ikon"
+
+#~ msgid "Icon"
+#~ msgstr "Ikon"
+
+#~ msgid "Select the icon to be displayed by clicking the icon."
+#~ msgstr "Pilih ikon yang akan ditampilkan"
+
+#, fuzzy
+#~ msgid "Icon Size"
+#~ msgstr "Ukuran Ikon"
+
+#~ msgid "Iconbox heading"
+#~ msgstr "Judul Kotak Ikon"
+
+#~ msgid "Iconbox text"
+#~ msgstr "Kotak ikon dengan Teks"
+
+#~ msgid "Link"
+#~ msgstr "Tautan"
+
+#, fuzzy
+#~ msgid "Target"
+#~ msgstr "Pilih halaman target link"
+
+#~ msgid "Link Target"
+#~ msgstr "Target Tautan"
+
+#~ msgid "Align Left"
+#~ msgstr "Rata Kiri"
+
+#~ msgid "Align Right"
+#~ msgstr "Rata kanan"
+
+#~ msgid "Align Center"
+#~ msgstr "Rata tengah"
+
+#~ msgid "Large Screen"
+#~ msgstr "Layar Besar"
+
+#~ msgid "screen width more than 992px"
+#~ msgstr "Layar dengan lebar lebih 992px"
+
+#~ msgid "Accordion"
+#~ msgstr "Lipat vertikal"
+
+#~ msgid "Medium Screen"
+#~ msgstr "Layar Sedang"
+
+#~ msgid "screen width between 992px and 768px"
+#~ msgstr "Layar dengan lebar antara 768 dan 992px"
+
+#~ msgid "Tablet Screen"
+#~ msgstr "Layar Tablet"
+
+#~ msgid "screen width between 768px and 480px"
+#~ msgstr "Layar dengan lebar antara 480 dan 768px"
+
+#~ msgid "Mobile Screen"
+#~ msgstr "Layar Handphone"
+
+#~ msgid "screen width below 480px"
+#~ msgstr "Layar dengan lebar 480px kebawah"
+
+#, fuzzy
+#~ msgid "Revolution Slider"
+#~ msgstr "Lewati slide revolution slider"
+
+#, fuzzy
+#~ msgid "Slide"
+#~ msgstr "Lewati slide"
+
+#~ msgid "Font Color"
+#~ msgstr "Warna Huruf"
+
+#~ msgid "Select font color"
+#~ msgstr "Pilih warna huruf"
+
+#~ msgid "Background Type"
+#~ msgstr "Model Latar"
+
+#, fuzzy
+#~ msgid "Video"
+#~ msgstr "buat video dengan pewaktu hitung mundur baru"
+
+#~ msgid "Background Image"
+#~ msgstr "Gambar Latar"
+
+#~ msgid "Background Video (mp4)"
+#~ msgstr "Video Latar (mp4)"
+
+#~ msgid "Background Video (webm)"
+#~ msgstr "Video Latar (webm)"
+
+#, fuzzy
+#~ msgid "Image Thumb/Poster"
+#~ msgstr "Posisi Gambar"
+
+#~ msgid "Background Image Style"
+#~ msgstr "Model Gambar Latar"
+
+#, fuzzy
+#~ msgid "Contain"
+#~ msgstr "Isi"
+
+#, fuzzy
+#~ msgid "Fixed"
+#~ msgstr "Tetap"
+
+#, fuzzy
+#~ msgid "Extended options"
+#~ msgstr "Pilihan Tambahan"
+
+#~ msgid "Background Color"
+#~ msgstr "Warna Latar"
+
+#, fuzzy
+#~ msgid ""
+#~ "If you wish to add anchor id to this column. Anchor id may used as link "
+#~ "like href=\"#yourid\""
+#~ msgstr ""
+#~ "Jika kamu menginginkan ID di baris ini. ID jangkar bisa digunakan sebagai "
+#~ "referensi link seperti href=\"#id\""
+
+#~ msgid "Text Editor"
+#~ msgstr "Penyunting Teks"
+
+#, fuzzy
+#~ msgid "Pages"
+#~ msgstr ""
+#~ "Gunakan link berikut ini untuk mengirim pengunjung ke halaman dengan "
+#~ "menggunakan %s"
+
+#, fuzzy
+#~ msgid "Page title"
+#~ msgstr "judul halaman"
+
+#, fuzzy
+#~ msgid "Page order"
+#~ msgstr "Gambar Penanda"
+
+#~ msgid "Categories"
+#~ msgstr "Kategori"
+
+#, fuzzy
+#~ msgid "Number of comments to show:"
+#~ msgstr "Jumlah kicauan yang ditampilkan"
+
+#, fuzzy
+#~ msgid "Taxonomy:"
+#~ msgstr "Pilih warna"
+
+#~ msgid "%s Settings"
+#~ msgstr "Pengaturan %s"
+
+#, fuzzy
+#~ msgid "Post types"
+#~ msgstr "Lebih Lama"
+
+#~ msgid "Button skin"
+#~ msgstr "Corak Tombol"
+
+#~ msgid "Dark (default)"
+#~ msgstr "Gelap (default)"
+
+#~ msgid "Light"
+#~ msgstr "Terang"
+
+#~ msgid "Button style"
+#~ msgstr "Model Tombol"
+
+#, fuzzy
+#~ msgid "Primary"
+#~ msgstr "Primer"
+
+#, fuzzy
+#~ msgid "Secondary"
+#~ msgstr "Sekunder"
+
+#, fuzzy
+#~ msgid "Warning"
+#~ msgstr "Awas"
+
+#, fuzzy
+#~ msgid "Ghost Button"
+#~ msgstr "Model Tombol"
+
+#~ msgid "Button size"
+#~ msgstr "Ukuran Tombol"
+
+#~ msgid "The icon you want as pagination"
+#~ msgstr "Pilih ikon untuk halaman"
+
+#~ msgid "Value"
+#~ msgstr "Nilai"
+
+#~ msgid "Units"
+#~ msgstr "Satuan"
+
+#~ msgid "Bar Width"
+#~ msgstr "Lebar Batang"
+
+#~ msgid "Label Color"
+#~ msgstr "Warna label"
+
+#~ msgid "Unit Color"
+#~ msgstr "Warna Satuan"
+
+#~ msgid "Bar Color"
+#~ msgstr "Warna Batang"
+
+#~ msgid "Layout type"
+#~ msgstr "Tipe Tampilan"
+
+#, fuzzy
+#~ msgid "Type 1: Borderer"
+#~ msgstr "Tipe 1: Icon dengan bingkai kotak"
+
+#, fuzzy
+#~ msgid "Type 4: Color Background"
+#~ msgstr "Warna Latar"
+
+#, fuzzy
+#~ msgid "Type 5: "
+#~ msgstr "Tipe 2:tanpa ikon"
+
+#, fuzzy
+#~ msgid "Type 6: "
+#~ msgstr "Tipe 2:tanpa ikon"
+
+#, fuzzy
+#~ msgid "Type 7: "
+#~ msgstr "Tipe 2:tanpa ikon"
+
+#, fuzzy
+#~ msgid "Type 8: "
+#~ msgstr "Tipe 2:tanpa ikon"
+
+#, fuzzy
+#~ msgid "Type 9: "
+#~ msgstr "Tipe 2:tanpa ikon"
+
+#, fuzzy
+#~ msgid "Type 10: "
+#~ msgstr "Tipe Garis"
+
+#, fuzzy
+#~ msgid "Type 11: "
+#~ msgstr "Tipe Garis"
+
+#, fuzzy
+#~ msgid "Type 12: "
+#~ msgstr "Tipe Garis"
+
+#, fuzzy
+#~ msgid "Type 13: "
+#~ msgstr "Tipe Garis"
+
+#, fuzzy
+#~ msgid "Type 14: "
+#~ msgstr "Tipe Garis"
+
+#~ msgid "Separator Position"
+#~ msgstr "Posisi Pembatas"
+
+#~ msgid "Type 1: Squared Border Icon"
+#~ msgstr "Tipe 1: Icon dengan bingkai kotak"
+
+#, fuzzy
+#~ msgid "Type 2: Circled Border Icon"
+#~ msgstr "Tipe 1: Icon dengan bingkai kotak"
+
+#, fuzzy
+#~ msgid "Choose the icon layout you want to use."
+#~ msgstr "Pilih model tampilan ikon yang akan digunakan"
+
+#~ msgid "Iconbox Heading Color"
+#~ msgstr "Warna Judul"
+
+#, fuzzy
+#~ msgid "Iconbox Color"
+#~ msgstr "Warna Kotak Ikon"
+
+#, fuzzy
+#~ msgid "Iconbox Counter Number"
+#~ msgstr "Nilai"
+
+#, fuzzy
+#~ msgid "Diamond"
+#~ msgstr "Belah ketupat"
+
+#~ msgid "Google Map"
+#~ msgstr "Peta Google"
+
+#~ msgid "Latitude"
+#~ msgstr "Lintang"
+
+#~ msgid "put your latitude coordinate your location, ex: -7.2852292"
+#~ msgstr "menempatkan koordinat lintang lokasi Anda, misal: -7.2852292"
+
+#~ msgid "Longitude"
+#~ msgstr "Bujur"
+
+#~ msgid "put your longitude coordinate your location, ex: 112.6809869"
+#~ msgstr "menempatkan koordinat bujur lokasi Anda, misal: 112.6809869"
+
+#~ msgid "Zoom Level"
+#~ msgstr "Tingkat Perbesaran"
+
+#~ msgid "zoom level your map, higher value present more detail."
+#~ msgstr "tingkat zoom peta Anda, nilai yang lebih tinggi hadir lebih rinci."
+
+#~ msgid "Zoom Control"
+#~ msgstr "Kontrol Perbesaran"
+
+#~ msgid "Show/hide zoom control"
+#~ msgstr "Tampilan/sembunyikan kontrol perbesaran"
+
+#, fuzzy
+#~ msgid "Street View Control"
+#~ msgstr "Kontrol Perbesaran"
+
+#, fuzzy
+#~ msgid "Mouse Scroll Wheel"
+#~ msgstr "Efek scroll spy"
+
+#~ msgid "Disable/enable mouse scroll to control zoom"
+#~ msgstr "Menonaktifkan / mengaktifkan scroll mouse untuk mengontrol zoom"
+
+#~ msgid "Enable"
+#~ msgstr "Aktifkan"
+
+#~ msgid "Disable"
+#~ msgstr "Matikan"
+
+#~ msgid "Map Height"
+#~ msgstr "Tinggi Peta"
+
+#~ msgid "Map Width"
+#~ msgstr "Lebar Peta"
+
+#~ msgid "Map Marker"
+#~ msgstr "Penanda Peta"
+
+#~ msgid "Image Marker"
+#~ msgstr "Gambar Penanda"
+
+#~ msgid "Select image as marker your location on the map"
+#~ msgstr "Pilihlah gambar yang digunakan penanda dalam peta"
+
+#~ msgid "Submit"
+#~ msgstr "Kirim"
+
+#~ msgid "Email Label"
+#~ msgstr "Judul Email"
+
+#~ msgid "Your name"
+#~ msgstr "Nama Kamu"
+
+#~ msgid "Optin Form"
+#~ msgstr "Formulir Optin"
+
+#~ msgid "Optin Code"
+#~ msgstr "Kode Optin"
+
+#~ msgid "put your optin form code here"
+#~ msgstr "menempatkan kode formulir optin Anda di sini"
+
+#~ msgid "Choose Layout"
+#~ msgstr "Pilih Tampilan"
+
+#~ msgid "Form Preview"
+#~ msgstr "Pra-Tayang Formulir"
+
+#~ msgid "Name Label"
+#~ msgstr "Judul Nama"
+
+#~ msgid "Your email"
+#~ msgstr "Email Kamu"
+
+#~ msgid "Submit Button"
+#~ msgstr "Tombol Kirim"
+
+#~ msgid "Button Font Type"
+#~ msgstr "Tipe Huruf Tombol"
+
+#~ msgid "Button Text Color"
+#~ msgstr "Warna tek tombol"
+
+#~ msgid "Button Font Size"
+#~ msgstr "Ukuran Huruf Tombol"
+
+#~ msgid "Element Height"
+#~ msgstr "Tinggi Elemen"
+
+#~ msgid "Button Width"
+#~ msgstr "Lebar Tombol"
+
+#~ msgid "Button Border Radius"
+#~ msgstr "Kelengkungan Tombol"
+
+#~ msgid "Inputbox Radius"
+#~ msgstr "Kelengkungan Bok Inputan"
+
+#~ msgid "Inputbox Padding Horizontal"
+#~ msgstr "Jarak Menyamping Inputan"
+
+#~ msgid "Element Margin"
+#~ msgstr "Jarak Elemen"
+
+#~ msgid "Full Width Button"
+#~ msgstr "Tombol melebar"
+
+#~ msgid "Label Align"
+#~ msgstr "Kerataan Label"
+
+#~ msgid "Button Color"
+#~ msgstr "Warna Tombol"
+
+#~ msgid "Button Gradient Color"
+#~ msgstr "Warna tombol gradasi"
+
+#, fuzzy
+#~ msgid "Partner Item"
+#~ msgstr "Item Harga"
+
+#~ msgid "Image/Logo"
+#~ msgstr "Gambar/Logo"
+
+#, fuzzy
+#~ msgid "Six Columns"
+#~ msgstr "6 kolom"
+
+#, fuzzy
+#~ msgid "Detail to %s"
+#~ msgstr "Detil ke %s"
+
+#, fuzzy
+#~ msgid "Read more"
+#~ msgstr "Baca Selengkapnya"
+
+#~ msgid "Category"
+#~ msgstr "Kategori"
+
+#, fuzzy
+#~ msgid "Scroll Per Page"
+#~ msgstr "Atribut Halaman"
+
+#, fuzzy
+#~ msgid "Order By"
+#~ msgstr "Urut dengan"
+
+#, fuzzy
+#~ msgid "Date"
+#~ msgstr "Tanggal"
+
+#, fuzzy
+#~ msgid "Author"
+#~ msgstr "Meta Penulis"
+
+#, fuzzy
+#~ msgid "Order"
+#~ msgstr "Urut ke"
+
+#~ msgid "Ascending"
+#~ msgstr "Menaik"
+
+#~ msgid "Descending"
+#~ msgstr "Menurun"
+
+#~ msgid "Total items"
+#~ msgstr "Jumlah item"
+
+#~ msgid "Set max limit for items in grid or enter -1 to display all."
+#~ msgstr ""
+#~ "Tulis maksimal item dalam grid atau tulis -1 untuk menampilkan semua."
+
+#~ msgid "Layout mode"
+#~ msgstr "Tipe Tampilan"
+
+#, fuzzy
+#~ msgid "Set column space"
+#~ msgstr "Jadikan Mulai Otomatis"
+
+#, fuzzy
+#~ msgid "items between 992px and 1200px"
+#~ msgstr "item antara 1200px dan 1023px"
+
+#, fuzzy
+#~ msgid "items between 992px and 768px"
+#~ msgstr "Layar dengan lebar antara 768 dan 992px"
+
+#, fuzzy
+#~ msgid "items between 768px and 480px"
+#~ msgstr "item antara 1024px dan 768px"
+
+#, fuzzy
+#~ msgid "items below 480px"
+#~ msgstr "Layar dengan lebar 480px kebawah"
+
+#~ msgid "Price Item"
+#~ msgstr "Item Harga"
+
+#~ msgid "Most popular"
+#~ msgstr "Terpopuler"
+
+#~ msgid "Package Name"
+#~ msgstr "Nama Paket"
+
+#~ msgid "Price Unit"
+#~ msgstr "Item Harga"
+
+#~ msgid "Currency Symbol"
+#~ msgstr "Simbol Mata Uang"
+
+#~ msgid "Price"
+#~ msgstr "Harga"
+
+#~ msgid "Package Detail"
+#~ msgstr "Detil Paket"
+
+#~ msgid "\"Button\" Link"
+#~ msgstr "Tautan \"Tombol\""
+
+#~ msgid "\"Button\" Text"
+#~ msgstr "Teks \"Tombol\""
+
+#~ msgid "Pricing Table"
+#~ msgstr "Tabel Harga"
+
+#~ msgid "Number of Price Column"
+#~ msgstr "Jumlah Kolom Harga"
+
+#~ msgid "Three"
+#~ msgstr "Tiga"
+
+#~ msgid "Four"
+#~ msgstr "Empat"
+
+#~ msgid "Header Background Color"
+#~ msgstr "Gambar Latar Kepala Harga"
+
+#~ msgid "Body Background Color"
+#~ msgstr "Warna Latar Belakang Bodi"
+
+#~ msgid "Odd Rows Background Color"
+#~ msgstr "Warna Latar Belakang Baris Ganjil"
+
+#~ msgid "Even Rows Background Color"
+#~ msgstr "Warna Latar Belakang Baris Genap"
+
+#~ msgid "Icon Background Color"
+#~ msgstr "Warna Latar Belakang Ikon"
+
+#, fuzzy
+#~ msgid "Bar Background Color"
+#~ msgstr "Gambar Latar"
+
+#~ msgid "Padding Top"
+#~ msgstr "Padding Atas"
+
+#~ msgid "Padding Bottom"
+#~ msgstr "Padding Bawah"
+
+#~ msgid "Padding Left"
+#~ msgstr "Padding Kiri"
+
+#~ msgid "Padding Right"
+#~ msgstr "Padding Kanan"
+
+#, fuzzy
+#~ msgid "Section Separator"
+#~ msgstr "Pembatas"
+
+#, fuzzy
+#~ msgid "Separator Type"
+#~ msgstr "Tipe Pembatas"
+
+#, fuzzy
+#~ msgid "Type 1"
+#~ msgstr "Tipe 1"
+
+#, fuzzy
+#~ msgid "Type 2"
+#~ msgstr "Tipe 2"
+
+#, fuzzy
+#~ msgid "Type 3"
+#~ msgstr "Tipe Garis"
+
+#, fuzzy
+#~ msgid "Type 4"
+#~ msgstr "4 Kolom"
+
+#, fuzzy
+#~ msgid "Type 5"
+#~ msgstr "Tipe 2:tanpa ikon"
+
+#, fuzzy
+#~ msgid "Type 6"
+#~ msgstr "Tipe 2:tanpa ikon"
+
+#, fuzzy
+#~ msgid "Social Box"
+#~ msgstr "Tautan Sosial"
+
+#~ msgid "Shape"
+#~ msgstr "Bentuk"
+
+#, fuzzy
+#~ msgid "Align"
+#~ msgstr "kerataan"
+
+#~ msgid "Icon Box Style"
+#~ msgstr "Model Kotak Ikon"
+
+#~ msgid "Twitter Account"
+#~ msgstr "Akun Twitter"
+
+#~ msgid "Number of tweets to show"
+#~ msgstr "Jumlah kicauan yang ditampilkan"
+
+#~ msgid "Date Format"
+#~ msgstr "Format Tanggal"
+
+#~ msgid ""
+#~ "%d : day, %m: month in number, %b: textual month abbreviation, %B: "
+#~ "textual month, %y: 2 digit year, %Y: 4 digit year"
+#~ msgstr ""
+#~ "%d : hari, %m: bulan dalam angka, %b: bulan dalam bentuk teks singkatan, "
+#~ "%B: bulan dalam bentuk teks, %y: 2 angka tahun, %Y: 4 angka tahun"
+
+#, fuzzy
+#~ msgid "Template"
+#~ msgstr "Template"
+
+#~ msgid "{{date}}: Post Date, {{tweet}}: tweet text"
+#~ msgstr "{{date}}: Tanggal posting, {{tweet}}: teks kicauan"
+
+#~ msgid "Auto Play"
+#~ msgstr "Mulai Otomatis"
+
+#~ msgid "Transition Threshold (msec)"
+#~ msgstr "Lama Pergantian (msec)"
+
+#~ msgid "Navigation Position"
+#~ msgstr "Posisi Navigasi"
+
+#, fuzzy
+#~ msgid "Navigation position"
+#~ msgstr "Posisi Navigasi"
+
+#, fuzzy
+#~ msgctxt "Search widget"
+#~ msgid "Search"
+#~ msgstr "Pencarian"
+
+#~ msgid "Front Editor"
+#~ msgstr "Penyunting Depan"
+
+#~ msgid "Pre Heading"
+#~ msgstr "Sebelum Judul"
+
+#~ msgid "Main Heading"
+#~ msgstr "Judul Utama"
+
+#~ msgid "Sub Heading"
+#~ msgstr "Sub Judul"
+
+#~ msgid "Line type"
+#~ msgstr "Tipe Garis"
+
+#~ msgid "One"
+#~ msgstr "Satu"
+
+#~ msgid "Two"
+#~ msgstr "Dua"
+
+#~ msgid "Package Heading"
+#~ msgstr "Judul Paket"
+
+#~ msgid "Headline"
+#~ msgstr "Judul"
+
+#~ msgid "Sub-Headline"
+#~ msgstr "Sub Judul"
+
+#~ msgid "Button Gradient Color To"
+#~ msgstr "Warna tombol gradasi ke"
+
+#~ msgid "Button Height"
+#~ msgstr "Tinggi Tombol"
+
+#~ msgid "Button Preview"
+#~ msgstr "Pra-Tayang"
+
+#~ msgid "Line Height"
+#~ msgstr "Tinggi Baris"
+
+#~ msgid "Popup Height"
+#~ msgstr "Tinggi Sembulan"
+
+#~ msgid "Popup Width"
+#~ msgstr "Lebar Sembulan"
+
+#~ msgid "Inputbox Padding Vertical"
+#~ msgstr "Jarak Atas/Bawah Inputan"
+
+#, fuzzy
+#~ msgid "Main Heading Font Size"
+#~ msgstr "Judul Utama"
