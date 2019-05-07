@@ -111,8 +111,8 @@ b, strong, .bold {
   margin-right: 20px;
 }
 #memo .logo img {
-  width: 150px;
-  height: 100px;
+  width: auto;
+  height: 65px;
 }
 #memo .company-info {
   float: right;

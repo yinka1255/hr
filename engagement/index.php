@@ -124,7 +124,7 @@ if($row['payment_status'] == 1){
               
               <tr data-iterate="item">
                 <td>1</td> <!-- Don't remove this column as it's needed for the row commands -->
-                <td>Consultation</td>
+                <td>Agency due</td>
                 <td>$1,000</td>
               </tr>
               
