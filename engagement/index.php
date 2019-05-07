@@ -1,6 +1,6 @@
 <?php
 $servername = "localhost";
-$username = "yinka1255";
+$username = "root";
 $password = "Adeniran1255$";
 $dbname = "imperialhr";
 
@@ -209,7 +209,7 @@ if($row['payment_status'] == 1){
                     email: email,
                     amount: amount+"00",
                     ref: Date.now(),
-                    currency: "USD",
+                    currency: "NGN",
                     metadata: {
                         custom_fields: [
                         { display_name: "Name", variable_name: "name", value: name },
