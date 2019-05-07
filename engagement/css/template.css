@@ -201,6 +201,9 @@ table th, table td {
   .hidden-sm {
     display: none;
   }
+  #memo{
+    height: 160px;
+  }
 }
 #items table th {
   font-weight: bold;
