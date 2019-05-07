@@ -63,7 +63,7 @@ if($row['payment_status'] == 1){
             </div>
             
             <div class="company-info">
-              <div>Imperial group consult</div>
+              <div class="hidden-sm">Imperial group consult</div>
     
               <br />
               
@@ -88,7 +88,6 @@ if($row['payment_status'] == 1){
           <div class="clearfix"></div>
           
           <section id="client-info">
-            <span>To</span>
             <div>
               <span class="bold"><?php echo $row['candidate_name']; ?></span>
             </div>
@@ -125,7 +124,7 @@ if($row['payment_status'] == 1){
               <tr data-iterate="item">
                 <td>1</td> <!-- Don't remove this column as it's needed for the row commands -->
                 <td>Agency due</td>
-                <td>$1,000</td>
+                <td>N1,000</td>
               </tr>
               
             </table>
@@ -137,7 +136,7 @@ if($row['payment_status'] == 1){
             <table cellpadding="0" cellspacing="0">
               <tr>
                 <th>Subtotal</th>
-                <td>$1,000</td>
+                <td>N1,000</td>
               </tr>
               
               
@@ -151,7 +150,7 @@ if($row['payment_status'] == 1){
               
               <tr data-hide-on-quote="true">
                 <th>Total</th>
-                <td>$1,000</td>
+                <td>N1,000</td>
               </tr>
               
             </table>

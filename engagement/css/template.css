@@ -95,9 +95,9 @@ b, strong, .bold {
 }
 
 .center{
-    width: 60%;
+    width: 100%;
     margin: auto;
-    min-width: 500px;
+    /*min-width: 500px;*/
 }
 
 #memo {
@@ -196,6 +196,11 @@ table th, table td {
 #items table {
   border-collapse: separate;
   width: 100%;
+}
+@media only screen and (max-width: 600px) {
+  .hidden-sm {
+    display: none;
+  }
 }
 #items table th {
   font-weight: bold;
