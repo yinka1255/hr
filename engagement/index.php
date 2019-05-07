@@ -67,12 +67,12 @@ if($row['payment_status'] == 1){
     
               <br />
               
-              <span>One Liberty Plaza, 7th floor, New York, NY 10006</span>
-              <span>10100</span>
+              <span>22 Prince Alaba oniru st, Oniru, Victoria Island</span>
+              <span>Lagos</span>
     
               <br />
               
-              <span>+1 201 0800 600</span>
+              <span>08161523473</span>
               <span>info@imperialgroupconsult.com</span>
             </div>
     
@@ -200,7 +200,7 @@ if($row['payment_status'] == 1){
                 var email = "<?php echo $row['candidate_email']; ?>";
                 var phone = "<?php echo $row['candidate_phone']; ?>";
                 var amount = 1000;
-                var service = "Consultation";
+                var service = "Agency due";
 
             
                 
