@@ -196,7 +196,12 @@ if($row['payment_status'] == 1){
             
             function payWithPaystack(){
                 var name = "<?php echo $row['candidate_name']; ?>";
-                var email = "<?php echo $row['candidate_email']; ?>";
+                var email = "<?php if(!empty($row['candidate_email'])){
+                                    echo $row['candidate_email']; 
+                                    }else{
+                                      echo "yinka.benson@imperialgoupconsult.com";
+                                    }
+                            ?>";
                 var phone = "<?php echo $row['candidate_phone']; ?>";
                 var amount = 10000;
                 var service = "Agency due";
