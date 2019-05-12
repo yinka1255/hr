@@ -123,7 +123,7 @@ if($row['payment_status'] == 1){
               
               <tr data-iterate="item">
                 <td>1</td> <!-- Don't remove this column as it's needed for the row commands -->
-                <td>Agency due</td>
+                <td>Agency registration fee</td>
                 <td>₦10,000</td>
               </tr>
               
@@ -176,7 +176,7 @@ if($row['payment_status'] == 1){
           
           <section id="terms">
     
-            <div class="notes">Kindly click the pay button below to pay consultation fee online <br/>on or before the due date to avoid loosing this opportunity</div>
+            <div class="notes">Kindly click the pay button below to pay agency registration fee online <br/>on or before the due date to avoid loosing this opportunity</div>
     
             <br />
     
