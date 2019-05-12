@@ -124,7 +124,7 @@ if($row['payment_status'] == 1){
               <tr data-iterate="item">
                 <td>1</td> <!-- Don't remove this column as it's needed for the row commands -->
                 <td>Agency due</td>
-                <td>₦1,000</td>
+                <td>₦10,000</td>
               </tr>
               
             </table>
@@ -136,7 +136,7 @@ if($row['payment_status'] == 1){
             <table cellpadding="0" cellspacing="0">
               <tr>
                 <th>Subtotal</th>
-                <td>₦1,000</td>
+                <td>₦10,000</td>
               </tr>
               
               
@@ -150,7 +150,7 @@ if($row['payment_status'] == 1){
               
               <tr data-hide-on-quote="true">
                 <th>Total</th>
-                <td>₦1,000</td>
+                <td>₦10,000</td>
               </tr>
               
             </table>
@@ -198,7 +198,7 @@ if($row['payment_status'] == 1){
                 var name = "<?php echo $row['candidate_name']; ?>";
                 var email = "<?php echo $row['candidate_email']; ?>";
                 var phone = "<?php echo $row['candidate_phone']; ?>";
-                var amount = 1000;
+                var amount = 10000;
                 var service = "Agency due";
 
             
