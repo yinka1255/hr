@@ -25,7 +25,7 @@ if($row['payment_status'] == 1){
         $sql = "UPDATE candidates SET payment_status='1' WHERE candidate_id='".$candidateID."'";
 
         if (mysqli_query($conn, $sql)) {
-            header("location:http://imperialgroupconsult.com/recruitment/success.html");
+            header("location:http://imperialgroupconsult.com/engagement/success.html");
         }
     }
                             
