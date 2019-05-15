@@ -18,7 +18,7 @@ if(mysqli_num_rows($result) <1){
 }
 $row = mysqli_fetch_assoc($result);
 if($row['payment_status'] == 1){
-    header("location:http://imperialgroupconsult.com/recruitment/success.html");
+    header("location:http://imperialgroupconsult.com/engagement/success.html");
 }
 
     function recordPayment(){
