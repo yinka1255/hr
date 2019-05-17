@@ -40,7 +40,10 @@ while($row = mysqli_fetch_assoc($result)) {
     Health insurance
     
     </td>
-    </tr>" ;
+    </tr>
+    </table>
+    </body>
+    </html>" ;
     $headers = "From: yinka.benson@imperialgroupconsult.com";
 
     mail($to,$subject,$txt,$headers);
