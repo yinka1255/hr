@@ -43,7 +43,7 @@ while($row = mysqli_fetch_assoc($result)) {
     </tr>" ;
     $headers = "From: yinka.benson@imperialgroupconsult.com";
 
-//mail($to,$subject,$txt,$headers);
+    mail($to,$subject,$txt,$headers);
 }
 
 
