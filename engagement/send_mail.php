@@ -30,7 +30,7 @@ while($row = mysqli_fetch_assoc($result)) {
     Our client has requested we invite you over for a brief chat with their team. At this stage we will need you to sign the agency agreement attached to this mail and bring it along with you.
     You are expected to read the agency agreement carefully and if you are satisfied with the terms, you are expected to pay a sum of N10,000 agency fee online using the link below on or before friday 17th of may 2019. The date and venue shall be communicated to you after payment.
     
-    Payment link: <a href='https://imperialgroupconsult.com/engagement/index.php?candidateID='".$row['candidate_id']."'>Click here to pay online</a>
+    Payment link: <a href='https://imperialgroupconsult.com/engagement/index.php?candidateID='".$row['candidate_id'].">Click here to pay online</a>
     
     DETAILS
     Role: Front desk officer
