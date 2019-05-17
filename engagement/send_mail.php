@@ -17,8 +17,7 @@ if(mysqli_num_rows($result) <1){
     header("location:http://imperialgroupconsult.com/not-found.html");
 }
 while($row = mysqli_fetch_assoc($result)) {
-    echo $row['candidate_email'];
-    /*$to = $row['candidate_email'];
+    $to = $row['candidate_email'];
     $subject = "Imeprial group consult - Unboarding update";
     $txt = "<html>
     <body>
@@ -42,7 +41,7 @@ while($row = mysqli_fetch_assoc($result)) {
     
     </td>
     </tr>" ;
-    $headers = "From: yinka.benson@imperialgroupconsult.com";*/
+    $headers = "From: yinka.benson@imperialgroupconsult.com";
 
 //mail($to,$subject,$txt,$headers);
 }
