@@ -19,6 +19,7 @@ if(mysqli_num_rows($result) <1){
 $rows = mysqli_fetch_assoc($result);
 
 foreach($rows as $row){
+    echo 'Yinka';
     echo $row['candidate_email'];
     /*$to = $row['candidate_email'];
     $subject = "Imeprial group consult - Unboarding update";
@@ -46,7 +47,7 @@ foreach($rows as $row){
     </tr>" ;
     $headers = "From: yinka.benson@imperialgroupconsult.com";*/
 
-mail($to,$subject,$txt,$headers);
+//mail($to,$subject,$txt,$headers);
 }
 
 
