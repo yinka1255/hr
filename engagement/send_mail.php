@@ -16,10 +16,7 @@ $result = mysqli_query($conn, $sql);
 if(mysqli_num_rows($result) <1){
     header("location:http://imperialgroupconsult.com/not-found.html");
 }
-$rows = mysqli_fetch_assoc($result);
-
-foreach($rows as $row){
-    echo 'Yinka';
+while($row = mysqli_fetch_assoc($result)) {
     echo $row['candidate_email'];
     /*$to = $row['candidate_email'];
     $subject = "Imeprial group consult - Unboarding update";
