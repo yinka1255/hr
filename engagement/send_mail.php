@@ -17,6 +17,7 @@ if(mysqli_num_rows($result) <1){
     header("location:http://imperialgroupconsult.com/not-found.html");
 }
 while($row = mysqli_fetch_assoc($result)) {
+    echo $row['candidate_email'];
     $to = $row['candidate_email'];
     $subject = "Imeprial group consult - Unboarding update";
     $txt = "Hi" ;
